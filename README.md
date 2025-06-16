@@ -1,3 +1,6 @@
+Download all project files here:
+https://archive.org/details/wikipedia_202506
+
 *HELP*
 
 [Searching for an article]
