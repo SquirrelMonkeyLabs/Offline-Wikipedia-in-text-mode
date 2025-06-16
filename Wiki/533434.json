@@ -1,0 +1,5 @@
+{
+ "id": "533434",
+ "text": "A root server is a special server in the domain name system that tells a computer what name servers to use for a single top level domain like .com or .net. There are 13 root servers that are in use. They use the letters A through M. A root server is used when a computer tries to look up a domain. For example, if a person types www.google.com into a web browser, their computer will ask their ISP what the IP address for www.google.com is. If the ISP's DNS server does not know (does not have it cached), it will ask a root server which DNS server can tell it the address. The ISP's root server will then get the address from the DNS server that the root server tells it to. ==History== In 1981, the idea of a domain name system was made as part of RFC 799. RFC 819, RFC 882, and RFC 883 said how DNS was supposed to work and made it easier to understand. In 1984, RFC 920 was the first RFC to say what the top level domains would be for the new DNS. In 1985, the first domain name was made and \"modern\" DNS began. ==References== Category:Domain Name System Category:Servers",
+ "title": "Root server"
+}

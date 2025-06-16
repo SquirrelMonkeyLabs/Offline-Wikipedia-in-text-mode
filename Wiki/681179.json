@@ -1,0 +1,5 @@
+{
+ "id": "681179",
+ "text": "Prime factorization of any given number is to breakdown the number into its factors until all of its factors are prime numbers. This can be achieved by dividing the given number from smallest prime number and continue it until all its factors are prime. Example: Prime factorization of number 1729 You should see if the number is divisible by smallest prime numbers, since 1729 is not divisible by 2, move to next smallest prime number, that is 3, but the remainder is still non zero, next prime numbers are 5,7 and so on, dividing by 7 gives a zero remainder. 1729 = 7*247, further check if 247 is a prime or not, if its not prime, continue the same steps of prime factorization for 247. 1729 = 7*247 = 7*13*19, Notice that all the factors for the 1729 at this point are prime and no further factors are possible except 1, so further factorization should be stopped. Category:Number theory Category:Prime numbers",
+ "title": "Prime factorization"
+}

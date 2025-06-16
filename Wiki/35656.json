@@ -1,0 +1,5 @@
+{
+ "id": "35656",
+ "text": "In classical mechanics, an impulse is defined as the integral of a force with respect to time: :\\mathbf{I} = \\int \\mathbf{F}\\, dt where :I is impulse (sometimes marked J), :F is the force, and : dt shows it is with respect to time. Impulse is also described as the change in momentum. If the force and the mass of the object do not change, impulse can be simply expressed as: :\\mathbf{I} = \\mathbf{F}\\,\\Delta t = m \\,\\Delta \\mathbf{v} = \\Delta\\mathbf{p} where : F is the constant total net force applied, : Δt is the time over which the force is applied, : m is the constant mass of the object, : Δv is the change in velocity produced by the force in the time that passed, and : Δp is the change in linear momentum. == Related pages == * Specific impulse Category:Basic English 850 words Category:Mechanics",
+ "title": "Impulse (physics)"
+}

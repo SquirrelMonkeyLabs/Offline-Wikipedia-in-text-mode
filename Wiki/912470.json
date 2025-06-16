@@ -1,0 +1,5 @@
+{
+ "id": "912470",
+ "text": "Quaternion multiplication table In mathematics, the quaternion number system (represented using the symbol \\mathbb H) extends the complex numbers into four dimensions. They were first described by Irish mathematician William Rowan Hamilton in 1843. They are often used in computer graphics to compute 3-dimensional rotations. The eight-dimensional octonions come after the quaternions. == Definition == A quanternion is a number written like this: a + b \\mathbf{i} + c \\mathbf{j} + d \\mathbf{k} where a, b, c, d are real numbers, and i, j, k are the symbols called imaginary units. === Multiplication === The square of every imaginary unit is equal to -1 i^2 = j^2 = k^2 = -1 When you multiply, changing the order of the numbers can give a different answer. ij = -ji = k jk = -kj = i ki = -ik = j Putting all those together, ijk = -1 ==References== ==Other websites== * * Paulson, Lawrence C. Quaternions (Formal proof development in Isabelle/HOL, Archive of Formal Proofs) * Quaternions – Visualisation Category:algebra Category:Numbers",
+ "title": "Quaternion"
+}

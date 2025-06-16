@@ -1,0 +1,5 @@
+{
+ "id": "424842",
+ "text": "In probability theory and statistics, the expected value of a random variable X (represented by the symbol E(X)) is the average value the variable will take, that is, assuming that the experiment is repeated an infinite number of times, and the mean (or weighted average) of all the values is calculated along the way. By definition, the expected value of a discrete random variable X is calculated by the formula \\sum_x x P(X=x) , where P(X=x) is the probability that X equals x , and x ranges over all possible values of X. The Law of large numbers describes how this happens. ==Relationship to weighted average== It is possible to think of the expected value as a weighted average, where the weights, w_j, are equal to P(X=x_j) . The sum over all probabilities,\\sum_j P(X=x_j), equals one (1). This allows us to write the weighted average as: \\frac{\\sum_j w_j x_j}{\\sum_j w_j}=\\sum_x x P(X=x)=E(X) == Related pages == * Weighted average * Standard deviation * Variance Category:Statistics == References ==",
+ "title": "Expected value"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "363050",
+ "text": "Ada is a computer programming language. It was invented by Jean Ichbiah during the 1980s. It is very similar to the programming language Pascal. Ada offers various features to make a program as safe as possible. That is why it is often used in systems where an error can be very dangerous. Ada is an international standard. == Hello world in Ada == Example of a Hello world program in Ada: with Ada.Text_IO; procedure Hello is begin \\-- output of Text \"Hello, world!\". Ada.Text_IO.Put_Line(\"Hello, world!\"); end Hello; Ada is a reference to the mathematician Ada Lovelace, well known for her work with Charles Babbage on the first computer, The Analytical Engine, and her short book 'Flyology'. == References == Category:Multi-paradigm programming languages",
+ "title": "Ada (programming language)"
+}

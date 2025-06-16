@@ -1,0 +1,5 @@
+{
+ "id": "895593",
+ "text": "A bimetallic strip is used to convert a temperature change into mechanical displacement. It is made of two strips of different metals which expand at different rates as they are heated. Usually steel and copper, or steel and brass are the metals used. The different expansions cause one of the strips to bend one way if heated, and the other strip to bend in the opposite direction if cooled. So when a bimetallic strip is heated the brass strip expands more than the steel. Bimetallic strips are used in such things as thermostats and heat engines. Bending of a bi-metal strip due to change in the temperature can be calculated as s = α L2 dt / t where s = bending (m) α = 13-19 x 10-6 K-1 L = length of bimetallic strip (m) dt = temperature difference (oC) t = thickness of bimetallic strip (m) Bending of Bi-metal strip: A bi-metal strip with α = 13-19x10-6 K-1, length 50 mm and thickness 2 mm is heated 100 oC. The accurate calculation for this is; s = (13-19 x 10-6 K-1) ((50 mm) 1/1000 m/mm)2 (100 oC) / ((2 mm) (1/1000 m/mm)) ==References== Category:Engineering",
+ "title": "Bimetallic strip"
+}

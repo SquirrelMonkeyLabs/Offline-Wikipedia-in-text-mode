@@ -1,0 +1,5 @@
+{
+ "id": "575838",
+ "text": "The Dunn Index (DI) is a metric for judging a clustering algorithm. A higher DI implies better clustering. It assumes that better clustering means that clusters are compact and well-separated from other clusters. There are many ways to define the size of a cluster and distance between clusters. The DI is equal to the minimum inter-cluster distance divided by the maximum cluster size. Note that larger inter-cluster distances (better separation) and smaller cluster sizes (more compact clusters) lead to a higher DI value. In mathematical terms: Let the size of cluster C be denoted by: \\Delta_C Let the distance between clusters i and j be denoted by: \\delta(C_i, C_j) DI = \\frac{\\min\\limits_{1 \\leq i\\leq j \\leq m} \\delta(C_i,C_j)}{\\max\\limits_{1 \\leq k \\leq m} \\Delta_k} Category:Algorithms Category:Statistics",
+ "title": "Dunn index"
+}

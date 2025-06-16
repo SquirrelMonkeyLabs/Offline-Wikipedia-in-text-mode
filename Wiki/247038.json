@@ -1,0 +1,5 @@
+{
+ "id": "247038",
+ "text": "The greatest common divisor (gcd) or highest common factor (HCF) of two integers x and y, usually written as \\gcd(x, y), is the greatest (largest) number that divides both of the integers evenly. GCDs are useful in simplifying fractions to the lowest terms. Euclid came up with the idea of GCDs. ==Algorithm== The GCD of any two positive integers can be defined as a recursive function: \\gcd(u, v) = \\begin{cases} \\gcd(v, u\\mbox{ mod }v), & \\mbox{if }v > 0 \\\\\\ u, & \\mbox{if }v = 0 \\end{cases} In fact, this is the basis of Euclidean algorithm, which uses repeated long division in order to find the greatest common factor of two numbers. ==Examples== The GCD of 20 and 12 is 4, since 4 times 5 equals 20 and 4 times 3 equals 12. And since 3 and 5 have no common factor, their GCD is 1. As another example, the GCD of 81 and 21 is 3. == Related pages == * Coprime * Euclid's Elements * Least common multiple == References == Category:Arithmetics Category:Number theory",
+ "title": "Greatest common divisor"
+}

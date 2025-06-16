@@ -1,0 +1,5 @@
+{
+ "id": "804122",
+ "text": "Modular exponentiation is about finding the value of the equation c = be mod m. This is the remainder when dividing be by m. It is the inverse function of the discrete logarithm. Because modular exponentiation is easy and fast, and finding the discrete logarithm is difficult, both are used in fields such as public-key cryptography. == Right-to-left binary method == When dealing with very large whole numbers, directly finding the result can be very resource intensive. We can make some optimisations to save computation power with principles like exponention by squaring. Let's solve c = be mod m: # If m is 1, then we know that c must be 0 because every whole number is divisible by 1. # Pull the number 1 aside and name it r. # Find b mod m and replace b with the result. # While e is larger than 0 do the following: ## If e is an odd number: ### Find (r * b)\\ mod\\ m and replace r with the result. ## Halve e and round it down to the nearest whole number. Then replace e with the result. ## Find b^2\\ mod\\ m and replace b with the result. # Your answer will now be r. Category:Mathematical analysis",
+ "title": "Modular exponentiation"
+}

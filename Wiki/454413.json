@@ -1,0 +1,5 @@
+{
+ "id": "454413",
+ "text": "Thrashing is when the OS (Operating System) of a computer spends most of its time switching pages between memory and the disk. This seriously hurts the computer's performance.Nell Dale; John Lewis, Computer Science Illuminated (Burlington, MA: Jones & Bartlett Learning, 2016), p. 352 It prevents the computer from performing any useful work. Thrashing can also happen when the hard disk is attempting to retrieve files scattered all over the disk.John Daintith; Edmund Wright. The Facts on File Dictionary of Computer Science (New York: Facts On File, 2006), p. 220 == References == Category:Computer science",
+ "title": "Thrashing (computer science)"
+}

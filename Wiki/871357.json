@@ -1,0 +1,5 @@
+{
+ "id": "871357",
+ "text": "Let G be a group and let N be a normal subgroup of G. Then G/N=\\\\{gN:g\\in{G}\\\\} is the set of all cosets of N in G and is called the quotient group of N in G. This group is used in the proof of Lagrange's Theorem, for instance. In fact, the proof of Lagrange's theorem establishes that if G is finite, then |G/H|=|G|/|H|. ==References== Category:Group theory",
+ "title": "Quotient group"
+}

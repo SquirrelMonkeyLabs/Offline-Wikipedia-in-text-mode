@@ -1,0 +1,5 @@
+{
+ "id": "804807",
+ "text": "KaTeX is a JavaScript library that shows mathematical notation on any web browser. It aims to be fast and easy to use. It was initially developed by Khan Academy. This is why it starts from K. KaTeX is known to be one of the top five popular projects on GitHub in September 2014. == Features == KaTeX claims to be: * Fast: It doesn’t need to reload the webpage. * Print quality: It is based on LaTeX. * No dependencies: It doesn't need anything else for installation. == References == == Other websites == * * \"KaTeX is a (partial) alternative to (some of) MathJax\" * \"KaTeX - a new way to display math on the Web\" * KaTeX-MathJax comparison Category:Free software Category:JavaScript",
+ "title": "KaTeX"
+}

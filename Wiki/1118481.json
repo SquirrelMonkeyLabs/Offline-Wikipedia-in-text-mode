@@ -1,0 +1,5 @@
+{
+ "id": "1118481",
+ "text": "Procedural generation is a method of generating content using algorithms and random numbers as opposed to making content manually. Examples of procedural generation include generating infinitely large worlds, as seen in games such as Minecraft, or an infinite amount of worlds seen in games such as Terraria. Other use cases for procedural generation include creating digital textures and materials. The way games such as Minecraft achieve infinitely large worlds is by using algorithms, with the main one being Perlin noise, which smoothly transitions between values as opposed to using random numbers for everything. For example, a game might make it so any value above 0.5 is land, while below is water. Category:Computing",
+ "title": "Procedural generation"
+}

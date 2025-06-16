@@ -1,0 +1,5 @@
+{
+ "id": "185681",
+ "text": "In Unix, and in other computer multitasking operating systems, a daemon ( or ) is a computer program that runs as a background task. Many daemons have names that end with the letter \"d\": for example, `syslogd`, the daemon that handles the system log, `httpd`, a daemon that handles web requests, or `sshd`, which takes care of incoming SSH connections. ==Related pages== * Server (computing) ==References== ==Other websites== * start-stop-daemon man page (Debian package) * Tutorial: Unix Daemons in Perl * How to daemonize in Linux * Unix Daemon Server Programming * http daemon in Bash Category:Servers",
+ "title": "Daemon (computer software)"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "312303",
+ "text": "A value x is a fixed point of a function f if and only if f(x) = x. == Examples == 1 is a fixed point of x^2 because 1^2 = 1. Some functions do not have fixed points. For example x + 1 does not have one because x + 1 is never equal to x. Category:Mathematics Category:Systems theory Category:Recursion",
+ "title": "Fixed point"
+}

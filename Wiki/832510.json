@@ -1,0 +1,5 @@
+{
+ "id": "832510",
+ "text": "gzip is a computer program that expands and creates \".gz\" files on Linux and Unix operating systems. A \".gz\" file containes data compressed with gzip. Often, the file extension will be \".tar.gz\", meaning the tar tool was used to combine a directory into a single file. Category:Software",
+ "title": "GZip"
+}

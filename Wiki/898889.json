@@ -1,0 +1,5 @@
+{
+ "id": "898889",
+ "text": "A linear-feedback shift register is a shift register which will produce a sequence of numbers. The next value of the sequence depends on the current value. Thie first value is usually called seed. Usually, the function XOR is used to link two consecutive values. Commonly, the function XOR is used on a bit-level. With n bits, it is possible to represent 2n numbers, so after 2n-1 values the sequence will repat. In computing, linear-feedback shift registers are commonly used to compute pseudorandom numbers. There are two common types: #Fibonacci LFSR (after Fibonacci) #Galois LFST (after Evariste Galois) Both are equivalent, but they produduce different sequences Category:Computer hardware",
+ "title": "Linear-feedback shift register"
+}

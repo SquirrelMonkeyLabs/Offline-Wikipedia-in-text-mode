@@ -1,0 +1,5 @@
+{
+ "id": "19674",
+ "text": "A tetrahedron or triangular pyramid is a polyhedron (a three-dimensional shape). It has four corners and six edges. All four of its faces are equilateral triangles. Every two edges meet on one of those corners forming a sixty-degree angle. == Formulas for a regular tetrahedron == A regular tetrahedron is a tetrahedron whose edges are the same length. If the length of an edge is a: Surface areaCoxeter, Harold Scott MacDonald; Regular Polytopes, Methuen and Co., 1948, Table I(i) {\\sqrt{3}}a^2\\, Face area \\frac{\\sqrt{3}}{4}a^2\\, HeightKöller, Jürgen, \"Tetrahedron\", Mathematische Basteleien, 2001 \\sqrt{\\frac23}\\,a\\, and \\frac{\\sqrt{6}}{3}a Volume \\frac{a^3}{6\\sqrt{2}}\\, and \\frac{\\sqrt{2}}{12}a^3 == Other properties == A regular tetrahedron's faces are all the same, and so are all its edges, as well as its corners. This makes it a regular polyhedron. It is also convex (its faces do not go through one another), which makes it a Platonic solid. The dual of regular tetrahedron is another regular tetrahedron. This is called being self-dual. ==References== Category:Platonic solids",
+ "title": "Tetrahedron"
+}

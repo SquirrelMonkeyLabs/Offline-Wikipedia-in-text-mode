@@ -1,0 +1,5 @@
+{
+ "id": "457578",
+ "text": "A null vector is a special vector, which is the identity element for the addition of vectors, in a given vector space. As an example, the null vector of n-dimensional coordinate space is a vector whose components are all 0. It is often denoted by the symbol \\mathbf{0} (which distinguishes it from the number 0). Null vectors are used to define key concepts of linear algebra, such as linear independence, basis and kernel. They are used to solve linear equations as well. == Related pages == * Zero == References == Category:Linear algebra Category:Vectors",
+ "title": "Null vector"
+}

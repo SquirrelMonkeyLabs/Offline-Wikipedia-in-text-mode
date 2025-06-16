@@ -1,0 +1,5 @@
+{
+ "id": "715223",
+ "text": "Graph coloring is the name for a number of problems from graph theory. These problems are concerned with coloring (or labelling) the vertices of a graph, given certain conditions. A simple problem in this context might look for the minimal number of colors needed to color the vertices, when two connected vertices cannot have the same color. In the graph shown, the circles are called vertices and the lines connecting them are called edges. The minimum number of colors needed to color a graph is called its chromatic number. Category:Graph theory",
+ "title": "Graph coloring"
+}

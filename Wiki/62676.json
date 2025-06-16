@@ -1,0 +1,5 @@
+{
+ "id": "62676",
+ "text": "In mathematics, the prime counting function is the function counting the number of prime numbers less than or equal to some real number x. It is written as \\pi(x), but it is not related to the number π. Some key values of the function include \\pi(1)=0, \\pi(2)=1 and \\pi(3)=2. In general, if p_nstands for the n-th prime number, then \\pi(p_n)=n. == Related pages == * Ramanujan prime == References == Category:Number theory",
+ "title": "Prime counting function"
+}

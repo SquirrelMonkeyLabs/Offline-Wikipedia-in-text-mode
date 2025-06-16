@@ -1,0 +1,5 @@
+{
+ "id": "794608",
+ "text": "Binary coded decimal is a way to encode numbers. The number is first split into digits, and each digit is then encoded in binary. This will result in a code from 0 0 0 0 (for \"0\") to \"1 0 0 1\" (for 9). The other codes (1010 to 1 1 1 1, representing the numbers 10 to 15) are not valid. Category:Computing Category:Encodings",
+ "title": "Binary coded decimal"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "312326",
+ "text": "In boolean algebra, DeMorgan's laws are the laws of how a NOT gate affects AND and OR statements: :\\overline{A \\cdot B} = \\overline {A} + \\overline {B} :\\overline{A + B} = \\overline {A} \\cdot \\overline {B} They can be remembered by \"break the line, change the sign\". == Truth tables == The following truth tables prove DeMorgan's laws. INPUT INPUT OUTPUT 1 OUTPUT 2 A B NOT (A AND B) (NOT A) OR (NOT B) 0 0 1 1 0 1 1 1 1 0 1 1 1 1 0 0 INPUT INPUT OUTPUT 1 OUTPUT 2 A B NOT (A OR B) (NOT A) AND (NOT B) 0 0 1 1 0 1 0 0 1 0 0 0 1 1 0 0 == References == Category:Boolean algebra Category:Logic gates",
+ "title": "De Morgan's laws"
+}

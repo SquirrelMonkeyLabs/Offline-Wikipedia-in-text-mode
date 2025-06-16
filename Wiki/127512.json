@@ -1,0 +1,5 @@
+{
+ "id": "127512",
+ "text": "Partition editor, partitioner, and partitioning utility are all names for computer programs used to view, create, change, and delete disk partitions on a computer storage device, most commonly a hard disk, but also a USB flash drive or other storage medium. A partition is a section or segment of the space on a storage device. By partitioning a large device into several partitions it is possible to isolate various types of data from one another, and allow the coexistence of two or more operating systems simultaneously. Partition editors can come in many different forms. Command line tools such as diskpart in Windows and fdisk or parted in Linux offer accurate control of partition editing. Graphical tools like Disk Management in Windows and GParted or KDE Partition Manager allow for use by less skilled users. ==Related pages== * Disk partitioning Category:Software",
+ "title": "Partition editor"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "956476",
+ "text": "In machine learning, the perceptron (or McCulloch-Pitts neuron) is an algorithm to separate two categories of data with a straight boundary. A list of numbers called the weights describe the boundary. == History == Warren McCulloch and Walter Pitts thought of the perceptron in 1943. Frank Rosenblatt built the first perceptron in 1958. == Definition == The algorithm calculates the inner product of a data point and a list of numbers called the weights and then adds another number called the bias. It will group the negative numbers and the positive numbers separately. The algorithm only works if the two groups can be divided with a straight boundary. The groups of data are on opposite sides of the boundary. It can be written as \\operatorname{sign}(\\textbf{w} \\cdot \\textbf{x} + b) where \\mathbf{w} is the weights, \\mathbf{x} is the data point, and b is the bias. == References == Category:Algorithms Category:Machine learning",
+ "title": "Perceptron"
+}

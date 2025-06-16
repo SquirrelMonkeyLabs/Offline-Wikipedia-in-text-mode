@@ -1,0 +1,5 @@
+{
+ "id": "696191",
+ "text": "Scala is a general-purpose programming language—a language that is designed for solving all kinds of problems, not just a specific one. It provides support for functional programming, and is statically typed. It is designed to fix some problems with Java, and to be concise—to be able to express a lot with only a little bit of code. Scala code is supposed to be compiled into Java bytecode, so Scala code can be run on a Java Virtual Machine (JVM). Scala has language interoperability with Java—Scala code can be used in Java programs, and the other way around. == Examples == === \"Hello, World\" example === This is a small example of a Scala program. A simple Hello world program: @main def main() = println(\"Hello, World!\") == References == Category:Programming languages",
+ "title": "Scala (programming language)"
+}

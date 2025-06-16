@@ -1,0 +1,5 @@
+{
+ "id": "374797",
+ "text": "Power line communication (or Powerline communication) uses existing electric power lines to send and receive data. The data signal is modulated and multiplexed over several carrier frequencies. There are different technologies that can be used: *low frequency transmission, over long distances: Example uses are the power company reading out its meters from a distance, or controlling its equipment, which may be in remote locations that are difficult to access. Modulation is at a few hundred kilohertz *medium frequency transmission, over short distances: Home automation (light switching, automatically controlled blinds...) *There are different technologies that propose to replace a Local Area Network or WLAN. The problem there is that technologies of different vendors cannot talk to each other, and that the standard is only about as fast as Fast Ethernet Category:Computer networking",
+ "title": "Power line communication"
+}

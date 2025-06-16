@@ -1,0 +1,5 @@
+{
+ "id": "625292",
+ "text": "The Riemann mapping theorem says that for every region (without holes) on the [complex plane], there exists a smooth, angle-preserving, one-to-one map that takes our region to the unit disk. (The unit disk is the inside of the circle of radius 1 centered at the origin). This map is uniquely determined if you pick a point in your starting region to map to the origin, such that the derivative at that point is on the real line and strictly greater than zero. Category:Theorems in geometry",
+ "title": "Riemann mapping theorem"
+}

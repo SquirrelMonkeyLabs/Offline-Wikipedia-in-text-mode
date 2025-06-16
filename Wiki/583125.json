@@ -1,0 +1,5 @@
+{
+ "id": "583125",
+ "text": "A bus network is an arrangement in a local area network (LAN) in which each node (workstation or other device) is connected to a main cable or link called the bus. A bus network is simple and reliable. If one node fails to operate, all the rest can still communicate with each other. For a major disruption to take place, the bus itself must be broken somewhere. Bus networks are easy to expand. Additional nodes can be added anywhere along the bus. There are several limitations to the bus network topology. The length of the bus is limited by cable loss. A bus network may not work well if the nodes are located at scattered points that do not lie near a common. Category:Networks",
+ "title": "Bus network"
+}

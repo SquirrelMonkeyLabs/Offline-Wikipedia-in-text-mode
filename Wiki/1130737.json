@@ -1,0 +1,5 @@
+{
+ "id": "1130737",
+ "text": "An Access Point Name (APN) is a unique identifier that serves as a gateway between a mobile network and the internet. It consists of a series of configuration settings that dictate how a mobile device connects to the network, determines the type of service (internet, MMS, etc.), and facilitates data transfer between the mobile device and the network operator's servers. Essentially, an APN defines the network path for all cellular data connectivity. ==References== Category:Computer networking",
+ "title": "Access Point Name"
+}

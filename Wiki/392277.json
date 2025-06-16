@@ -1,0 +1,5 @@
+{
+ "id": "392277",
+ "text": "A virtual private server (VPS) is a virtual machine (something like a computer divided into many smaller machines using special software). They are often used by Internet hosting providers. Multiple VPS's run on the same machine, but they are separated as they will only share hardware resources without interfering on software level. A VPS is dedicated to the customer's needs, has the privacy of a separate physical computer, and can run server software. There are many platforms that can run a VPS. Some of them are VMWare and Xen.TechComparison - Linux Virtualization Wiki ==References== Category:Servers Category:Computer networking",
+ "title": "Virtual private server"
+}

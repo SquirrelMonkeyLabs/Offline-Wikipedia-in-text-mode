@@ -1,0 +1,5 @@
+{
+ "id": "271669",
+ "text": "In formatting, bold type is a little bit darker and bigger than normal type. It is used to emphasize a few words as a bolded text can attract attention from the reader. == Usage == Markup languages provide different ways to make a word bold. For example: * In HTML, the `**`and the`**` tags are used to surround the text that needs to be bolded. * In Wikitext, an editor can bold a text using three apostrophes (``) around the text to be bolded to produce the same results.MediaWiki's help on bold text == References == == Related pages == * Italic * Underlined Category:Typography",
+ "title": "Bold (type)"
+}

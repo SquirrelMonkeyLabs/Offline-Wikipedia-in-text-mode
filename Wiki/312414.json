@@ -1,0 +1,5 @@
+{
+ "id": "312414",
+ "text": "A Sierpinski triangle or Sierpinski triangle gasket is a fractal resulting from doing the following: * Start with an equilateral triangle. * Remove center part. * Do the same for the three largest equilateral triangles left in this one. If this is done, the first few steps will look like this: If this is done an infinite number of times, its area will be 0. They can also be 3D: == References == Category:Fractals",
+ "title": "Sierpinski triangle"
+}

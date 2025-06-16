@@ -1,0 +1,5 @@
+{
+ "id": "1168425",
+ "text": "Adversarial machine learning is about studying attacks on machine learning systems and finding ways to protect them. A survey in May 2020 showed that experts want better security for machine learning in real-world use. Most machine learning methods are made for specific tasks and assume that training and test data come from the same pattern. But in real life, especially in important applications, this is not always true. People might give false data on purpose to trick the system. ==References== == Other websites == * MITRE ATLAS: Adversarial Threat Landscape for Artificial-Intelligence Systems * NIST 8269 Draft: A Taxonomy and Terminology of Adversarial Machine Learning * NIPS 2007 Workshop on Machine Learning in Adversarial Environments for Computer Security * AlfaSVMLib – Adversarial Label Flip Attacks against Support Vector Machines * * Dagstuhl Perspectives Workshop on \"Machine Learning Methods for Computer Security\" * Workshop on Artificial Intelligence and Security, (AISec) Series Category:Machine learning Category:Computer security Category:AI safety",
+ "title": "Adversarial machine learning"
+}

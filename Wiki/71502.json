@@ -1,0 +1,5 @@
+{
+ "id": "71502",
+ "text": "In computer science, an interpreter is a computer program that performs commands written in a computer programming language. Interpreters are one of the two most important ways a program can be run, the other being compilation. == Function == The interpreter is a language processor which converts a high- level programming language like JavaScript into machine language by converting and executing it line-by-line. If there is any error in any line, it reports it at the same time and program execution cannot resume until the error is rectified. Category:Software Category:Computer programming",
+ "title": "Interpreter (computing)"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "1130908",
+ "text": "A One-Time Password (OTP) is a secure, temporary code that is valid for only one login session or transaction. OTPs are widely used in various sectors, including banking, e-commerce, and online services, as an added layer of security. Unlike traditional passwords, which remain the same until changed by the user, OTPs are generated dynamically and expire after a short period, making them much harder for hackers to intercept and use maliciously. == How OTP works == OTPs can be delivered through several channels: # SMS: The most common method, where the OTP is sent to the user’s registered mobile number. # Email: The OTP is sent to the user’s registered email address. # Authenticator apps: These apps generate OTPs on the user’s device without needing a network connection. # Hardware tokens: A physical device generates the OTP. Category:Computer security",
+ "title": "One-time password"
+}

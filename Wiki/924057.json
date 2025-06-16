@@ -1,0 +1,5 @@
+{
+ "id": "924057",
+ "text": "A truth table summarizes how we combine two logical conditions based on AND, OR, and NOT. Logic tells us that if two things must be true in order to proceed, then both condition 1 AND condition 2 must be true. If it only takes one out of two things to be true, then condition 1 OR condition 2 must be true. De Morgan's Laws tell us how to negate a Boolean expression and what it means to do so. == References == == Related pages == *Propositional logic Category:Boolean algebra",
+ "title": "Truth table"
+}

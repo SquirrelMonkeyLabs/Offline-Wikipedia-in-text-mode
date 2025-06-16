@@ -1,0 +1,5 @@
+{
+ "id": "43211",
+ "text": "Logical negation (also known as not) is a logic operation. For a proposition P, its negation is written as eg P. It takes one input. It flips the value of the input as the output. If the input was true, it returns false; If the input was false, it returns true. == Related pages == * First order logic * Propositional logic == References == Category:Logic",
+ "title": "Logical negation"
+}

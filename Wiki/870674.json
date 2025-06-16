@@ -1,0 +1,5 @@
+{
+ "id": "870674",
+ "text": "An antisymmetric (or skew-symmetric) matrix is a matrix A such that A^T = -A. In other words, a matrix is antisymmetric if it is equal to its negative transpose. For example, the matrix A = \\begin{bmatrix} 0 & 1 & 2 \\\\\\ -1 & 0 & -6 \\\\\\ -2 & 6 & 0 \\end{bmatrix} is anti-symmetric, because -A = \\begin{bmatrix} 0 & -1 & -2 \\\\\\ 1 & 0 & 6 \\\\\\ 2 & -6 & 0 \\end{bmatrix} = A^T. == Properties == * If you add two antisymmetric matrices, the result is another antisymmetric matrix. * If you multiply an antisymmetric matrix by a constant, the result is another antisymmetric matrix. * All of the diagonal entries of an antisymmetric matrix are 0. == Applications == For an electromagnetic field, the curvature form is an antisymmetric matrix whose elements are the electric field and magnetic field: the electromagnetic tensor. == Related pages == * Symmetric matrix Category:Linear algebra",
+ "title": "Antisymmetric matrix"
+}

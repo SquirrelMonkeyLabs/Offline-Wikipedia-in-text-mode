@@ -1,0 +1,5 @@
+{
+ "id": "1180247",
+ "text": "Web (or WEB) is a programming system, first crated by Donald E. Knuth. He used it to demonstrate what he called literate programming: Programs are written much like literature, and what the program does is included in the text. In other programming models, there's the program code, and there is documentation. With Web, there is just one file which contains both. The system consists of two main programs: * tangle creates a source file in Pascal, from the Web source file. * weave creates the documentation in TeX. Most Web systtms use Pascal for the generated code. Later there was a version caled CWEB, which generated C code. Tex and Metafont are written in Web. == Other websites == * An Introduction to the WEB Style of Literate Programming (PDF-file; 149 kB) * The CWEB System of Structured Documentation",
+ "title": "Web (programming system)"
+}

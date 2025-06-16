@@ -1,0 +1,5 @@
+{
+ "id": "375735",
+ "text": "In special relativity, the spacetime metric, also called the Minkowski metric', is the metric tensor that describes the line element in Minkowski spacetime. ==The metric== The metric can be described by the following line element: ds^2=c^2dt^2-(dx^1)^2-(dx^2)^2-(dx^3)^2 In units where the speed of light, c, is one, then the metric in matrix form is diag(1,-1,-1,-1) Category:Relativity",
+ "title": "Spacetime metric"
+}

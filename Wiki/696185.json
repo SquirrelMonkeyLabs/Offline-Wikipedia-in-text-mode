@@ -1,0 +1,5 @@
+{
+ "id": "696185",
+ "text": "A part of a program with a side effect performs a noticeable action other than giving back a value. Examples include showing a picture on a computer screen, or checking what year it is. Code with side effects can be harder to understand without any context, and the order of instructions is more important for code with side effects. In functional programming, programmers try to avoid side effects when they can, so it is easier to prove that a program will always do what it is supposed to. In some functional languages, like Standard ML, Scheme, or Scala, side effects are not restricted, but programmers still try to use them less. In Haskell, actions with side effects must be stated explicitly—this makes it easier to tell what code does or does not have them. == References == Category:Computer science",
+ "title": "Side effect (computer science)"
+}

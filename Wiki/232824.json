@@ -1,0 +1,5 @@
+{
+ "id": "232824",
+ "text": "DjVu (pronounced like French déjà vu) is a open computer file format. It is made mostly to store scanned documents. It is especially used for things with a mix of words, line drawings, and photographs inside. DjVu has been sold as an alternative to PDF, as it gives smaller files than PDF for most scanned documents. The DjVu developers reportLéon Bottou, Patrick Haffner, Paul G. Howard, Patrice Simard, Yoshua Bengio and Yann Le Cun: High Quality Document Image Compression with DjVu, Journal of Electronic Imaging, 7(3):410-425, 1998 http://leon.bottou.org/publications/pdf/jei-1998.pdf that color magazine pages make smaller to 40–70 kB. Black and white technical papers make it smaller to 15–40 kB. Old manuscripts make smaller to around 100 kB; a satisfactory JPEG image usually needs 500 kB. Like PDF, DjVu can have a OCR text layer. This makes it easy to cut and paste, and search for text. == References == ==Other websites== * DjVu.org Category:Computer file formats",
+ "title": "DjVu"
+}

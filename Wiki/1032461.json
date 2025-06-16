@@ -1,0 +1,5 @@
+{
+ "id": "1032461",
+ "text": "A recommender system is usually a computer system which makes suggestions to the user about how to do a task. What they do is make suggestions rather than actually solve problems. One key objective is to make sure the user has considered standard issues in the domain of choice. By domain is meant subject or topic. It is a weakness of regular AI software that it is not good for problems which involve personal preference or choice. The key concept for a recommender system is \"relevance\". It is already clear that many data bases have so much material that manual searches are bound to miss some important items. The first actual mention of the term \"recommender system\" was in a technical report as a \"digital bookshelf\" in 1990 by Jussi Karlgren at Columbia University.Karlgren, Jussi. 1990. \"An Algebra for Recommendations\". Syslab Working Paper 179 (1990) == References == Category:Computer terminology Category:Artificial intelligence",
+ "title": "Recommender system"
+}

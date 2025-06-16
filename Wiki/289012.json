@@ -1,0 +1,5 @@
+{
+ "id": "289012",
+ "text": "Mie scattering is the way that light scatters when it hits an object. It is named after the German physicist, Gustav Mie. This theory is good for all wavelengths of light, and all object sizes. If the object is much smaller than the wavelength of light, Rayleigh scattering theory is also quite good. When the object is big, the light can hit many places on the object. A quite good formula for the scattering is: : Q = 2 - \\frac{4}{p} \\sin{p} + \\frac{4}{p^2} (1-\\cos{p}) category:physics",
+ "title": "Mie scattering"
+}

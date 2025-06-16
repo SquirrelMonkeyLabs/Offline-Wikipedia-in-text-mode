@@ -1,0 +1,5 @@
+{
+ "id": "700838",
+ "text": "A TV tuner card is a kind of television tuner that allows television signals to be received by a computer. Most TV tuners also function as video capture cards, allowing them to record television programs onto a hard disk much like the digital video recorder (DVR) does. A DVB-S2 tuner card D-Link external TV tuner The interfaces for TV tuner cards are most commonly either PCI bus expansion card or the newer PCI Express (PCIe) bus for many modern cards, but PCMCIA, ExpressCard, or USB devices also exist. In addition, some video cards double as TV tuners, notably the ATI All-In-Wonder series. The card contains a tuner and an analog-to-digital converter(collectively known as the analog front end) along with demodulation and interface logic. Some lower-end cards lack an onboard processor and, like a Winmodem, rely on the system's CPU for demodulation. Category:Computer hardware Category:Television technology",
+ "title": "TV tuner card"
+}

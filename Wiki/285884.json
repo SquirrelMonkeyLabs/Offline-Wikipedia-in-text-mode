@@ -1,0 +1,5 @@
+{
+ "id": "285884",
+ "text": "Computers that use a computer network or internet network need to be identified. For this reason, many network connection types, like Ethernet or Wi-Fi, use unique addresses to identify the network card, a part of a computer, to access the network. These addresses are usually called the Media Access Control address or MAC address. Each computer is given a MAC address by its computer maker. The way for giving MAC addresses to computers, created by Xerox, is used. MAC addresses have 48-bits (how many 1s or 0s it has in it). As each of the twelve entries can have 16 possible values (0 through 9 and A through F), there are 1612 or 248 (or 281,474,976,710,656) possible MAC addresses. MAC addresses identify many things, such as the type of device being used. A MAC address is used by the network to send and receive data (computer information) to the right place almost like mail being sent and received from a home mail address. The MAC address is like a door number or street number. ==References== Category:Computer networking",
+ "title": "MAC address"
+}

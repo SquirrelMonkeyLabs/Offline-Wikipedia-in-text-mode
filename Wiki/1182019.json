@@ -1,0 +1,5 @@
+{
+ "id": "1182019",
+ "text": "In calculus, Fermat's theorem states that if a function has a local maximum or minimum at some point, then the derivative at that point must be zero if it exists. == Proof == Suppose f(x) is a function that has a local maximum at x=x_0. The definition of a local maximum says there is some range a such that f(x) \\leq f(x_0) if a. From this, we know that when a, :\\frac{f(x_0)-f(x)}{x_0-x} \\ge 0 and when x_0, :\\frac{f(x_0)-f(x)}{x_0-x} \\le 0 The definition of the derivative says :\\frac{df}{dx} = \\lim_{x\\to x_0^+} \\frac{f(x_0)-f(x)}{x_0-x} = \\lim_{x\\to x_0^-} \\frac{f(x_0)-f(x)}{x_0-x} By the above, these difference quotients can only be equal if they are both 0. This is Fermat's theorem. If f(x) has a minimum at x=x_0, then -f(x) has a maximum at x_0. Then by the above, \\frac{d}{dx} (-f(x)) = - \\frac{df}{dx} = 0 so the derivative of f(x) must also be 0. Category:Calculus",
+ "title": "Fermat's theorem (stationary points)"
+}

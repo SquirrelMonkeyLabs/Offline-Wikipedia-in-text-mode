@@ -1,0 +1,5 @@
+{
+ "id": "1006004",
+ "text": "Div and span are HTML tags. They are used for changing the style of web pages. The div tag is a generic block-level element used for associating and grouping together a larger chunk of a web page – usually a section such as a header, footer, the main content, and so on. The span tag is an inline element that you use to make a smaller part of content stand out with CSS or JavaScript. You shouldn't nest span unless you thoroughly know what you're doing – but you can put multiple span tags within a block-level element. == Examples == For example, to make a certain part of text inside a paragraph red, `span` can be used as follows: HTML syntax (web code used to add formatting to text) Rendered output (as seen by visitors of the webpage) I am red and I am blue! I am red and I am blue! ==References== Category:Web design Category:Markup languages",
+ "title": "Div and span"
+}

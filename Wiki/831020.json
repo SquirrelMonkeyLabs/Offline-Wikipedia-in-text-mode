@@ -1,0 +1,5 @@
+{
+ "id": "831020",
+ "text": "POSIX Threads, usually referred to as \"pthreads\", is a programming model that allows a program to execute multiple actions seemingly at the same time by doing them in parallel. The API and libraries which give a program the ability to do this are available on most Unix-like systems and is available in most programming languages such as Java, C++ and Python. == Overview == POSIX Threads allow programmers to implement programs that can do tasks in parallel. Because there is a standard for POSIX threads, they can be implemented across different hardware without many changes. ==References== Category:Programming languages",
+ "title": "POSIX Threads"
+}

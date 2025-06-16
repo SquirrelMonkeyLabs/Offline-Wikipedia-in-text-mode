@@ -1,0 +1,5 @@
+{
+ "id": "1083475",
+ "text": "Wavelet compression is a form of data compression which is mainly used to compress images and videos (which are sequences of images). Like with other forms of data compression, the idea is to find redundancies, and to remove them: * Temporal redundancies - As an example there will be only a slight difference in the background, of two consecutive images * Spatial redundacies - Points in an image that are close to each other often have a similar color * Spectral redundancies - Often it is possible to predict the frequencies of compoents that are close to each other. Compression algorithms which are based on the theory of wavelets allow to get compression rates of around 1:65. Yves Meyer, a french mathematician, first developed the theory of wavelets in the 1980s. Ingrid Daubechies and Stéphane Mallat improved the theory, and found links to digital signal processing. Category:Data compression Category:Wavelets",
+ "title": "Wavelet compression"
+}

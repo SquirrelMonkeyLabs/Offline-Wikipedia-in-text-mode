@@ -1,0 +1,5 @@
+{
+ "id": "110509",
+ "text": "AppleScript is a way for people to write commands and actions on their Apple Macintosh platform. It is a simple language, like English, and is made by Apple Inc. since the year 1993. The AppleScript program came from the HyperCard program. ==Example== An example of the different ways to write a Hello World program in AppleScript: display dialog \"Hello World!\" -- a modal window with \"Ok\" and \"Cancel\" buttons \\-- or display alert \"Hello World!\" -- a modal window with a single \"Ok\" button \\-- or say \"Hello World!\" -- an audio message using a synthesized computer voice ==Other websites== ===Official=== * AppleScript – Official page at Apple.com ** AppleScript Resources * AppleScript at Apple Developer Connection * GUI Scripting Gives AppleScript scripts the ability to control otherwise non-scriptable applications. AppleScript scripts can select menu items, click buttons, enter text into text fields, and generally control the interfaces of most Mac OS X 10.x applications. ===Others=== * Category:Programming languages",
+ "title": "AppleScript"
+}

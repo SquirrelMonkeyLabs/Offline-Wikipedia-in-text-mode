@@ -1,0 +1,5 @@
+{
+ "id": "873502",
+ "text": "DigitaOS is an operating system for digital cameras made by Flashpoint Technologies. The first device to use it was the Kodak DC220, released on . It was known for being able to run third party software, which was not common until cameras running Android came out in the early 2010s. Programs can be written in a scripting language named Digita Script, which is JIT compiled, or compiled, written in C using an official SDK. Abstraction is used so programs can run on most cameras, despite any camera model differences. DigitaOS runs the GUI and basic camera functionality. Doom and MAME are the best known ports. == Cameras == * Kodak DC220 * Kodak DC260 * Kodak DC265 * Kodak DC290 * Minolta Dimage 1500 EX * Minolta 1500 3D * HP C500 Photosmart * HP C618 Photosmart * HP C912 Photosmart * PENTAX EI-200 * PENTAX EI-2000 == References == Category:Operating systems",
+ "title": "DigitaOS"
+}

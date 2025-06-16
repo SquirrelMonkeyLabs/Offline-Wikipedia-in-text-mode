@@ -1,0 +1,5 @@
+{
+ "id": "1097582",
+ "text": "Ahead-of-time compilation (AOT compilation) is when a compiler turns source code into a lower-level programming language (usually assembly code) before it is executed, lowering the amount of work needed to be done at run time. It's associated with compiling a higher-level programming language like C or an intermediate language like Java bytecode into native machine code. AOT compilation is seen as the opposite of just-in-time compilation. Category:Programming languages",
+ "title": "Ahead-of-time compilation"
+}

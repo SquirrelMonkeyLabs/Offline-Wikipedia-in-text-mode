@@ -1,0 +1,5 @@
+{
+ "id": "136861",
+ "text": "In cryptography, key size or key length is the size (measured in bits or bytes) of the key used in a cryptographic algorithm (such as a cipher). Typical key sizes in modern symmetric ciphers are 128, 192, and 256 bits. Older symmetric ciphers used only 40, 56, or 64 bits, which can be broken by brute force. 128 bits is considered secure against brute-force by traditional computers, but not quantum computers. 192 and 256 bit keys are considered quantum-safe, and AES keys of these lengths are approved for protecting top secret information. Asymmetric (public key) ciphers such as RSA need a much longer key to be secure. RSA keys are typically at least 2048 bits. A large key size alone does not necessarily mean a cipher is secure - there are many insecure ciphers which have a large key size but have other design flaws that allow them to be broken. Category:Cryptography",
+ "title": "Key size"
+}

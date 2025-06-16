@@ -1,0 +1,5 @@
+{
+ "id": "1017558",
+ "text": "User Account Control (UAC) is a feature in some Windows computers that helps protect a computer from harmful programs. It does this by asking for permission before letting a program do something that could change or damage the computer. For example, when installing a new game or changing some settings, a UAC window will pop up and ask you if you are sure you want to do that. This way, you can avoid accidentally letting a bad program mess up your computer. UAC can be set up to need an administrator’s approval before letting a program do something that could change or damage the computer. An administrator is someone who has more power and control over the computer than a regular user. For example, your parents might be administrators on your computer, but you might not be. If UAC is configured to need admin approval, it will ask you to enter an administrator’s password or click on an administrator’s name before letting you proceed. This way, only people who have the right to make changes to your computer can do so. Category:Microsoft Windows software",
+ "title": "User Account Control"
+}

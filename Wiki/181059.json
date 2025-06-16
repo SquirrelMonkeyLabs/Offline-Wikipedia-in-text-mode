@@ -1,0 +1,5 @@
+{
+ "id": "181059",
+ "text": "In abstract algebra the center of a group G denoted by Z(G) is the set of elements which commute with every element of G, meaning that for any element x of a group G, and an element y of Z(G), xy = yx. The center is equal to the intersection of the centralizers of the group elements. The notation Z(G) comes from the fact that in German the word for center is Zentrum. Category:Group theory",
+ "title": "Group center"
+}

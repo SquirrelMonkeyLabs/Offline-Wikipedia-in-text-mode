@@ -1,0 +1,5 @@
+{
+ "id": "284234",
+ "text": "The Banach–Tarski paradox is a theorem in mathematics that says that any solid shape can be reassembled into any other solid shape. It was made by mathematicians Stefan Banach and Alfred Tarski. For example, a sphere can be split up into a limited number of parts which can then be put back together again to make two identical copies of the original sphere. The Banach–Tarski paradox can also be used to turn a small sphere into a huge sphere. It is important when thinking about this to realize that the parts that the solid shape is being split into are not solid shapes themselves; they are infinite sets of points spread around the solid shape. For the Banach–Tarski paradox to work, you need to use the axiom of choice. This is called a paradox because no stretching or bending of the parts takes place and no new material is added, yet by the end the volume can be doubled. This goes against our geometric intuition. However, it is mathematically possible and it turns out that in this case our intuition is not correct. == Other websites == * The Banach- Tarski Paradox Category:Mathematical paradoxes",
+ "title": "Banach–Tarski paradox"
+}

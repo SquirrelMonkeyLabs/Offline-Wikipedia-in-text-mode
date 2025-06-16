@@ -1,0 +1,5 @@
+{
+ "id": "425723",
+ "text": "In computer networks, a wireless access point is a device that allows people to connect Wi-Fi devices such as laptop computers on a wireless LAN, to a wired network. The access point is often connected to a wireless Router. == Comparison to an ad hoc network == A wireless ad hoc network uses two or more devices without a wireless access point. Ad hoc networks are easier to set up because an access point is not needed. This makes it similar to Bluetooth. == Limitations == It is suggested for each access point to only serve 15-25 client devices This depends on the number of devices in an area, the needed speed of data transfer, location and radio channels of the access point, obstacles and more. A repeater, which repeats the signal, can be used to reach farther places. There are only a few radio channels for wireless networks. Nearby access points may use different channels to prevent them from obstructing each other. == Related pages == * Wireless router ==References== Category:Computer networking",
+ "title": "Wireless access point"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "1150682",
+ "text": "Aliasing is the name for an effect that occurs in digital signal processing, when the sample rate is lower than the Nyquist rate.The Nyquist–Shannon sampling theorem says that it is possible to exactly reconstruct a signal that is made of samples of a given frequency, if the sampling rate is at least double that frequency. If the sampling rate is too low, effects such as aliasing will occur. Low-pass filters can be used to reduce the effect of aliasing. Moiré patterns are examples of aliasing. Category:Digital signal processing",
+ "title": "Aliasing"
+}

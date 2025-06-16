@@ -1,0 +1,5 @@
+{
+ "id": "586167",
+ "text": "The master boot record is the first 512 kilobytes of a partitioned mass- storage device such as a hard drive. The master boot record gives the BIOS information on things like partitioning, file systems, location of the operating system, etc. Because the master boot record is crucial for running the operating system, any changes to it may make the contents of a hard drive unreadable until they have been fixed. In the past, there have been instances of malware making changes to the master boot record. One noticeable example of this is CIH. Category:Computing",
+ "title": "Master boot record"
+}

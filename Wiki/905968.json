@@ -1,0 +1,5 @@
+{
+ "id": "905968",
+ "text": "In math, an almost perfect number (also called slightly defective or least deficient number) is a type of natural number n. The sum of n's divisors must be equal to 2n − 1. Every known almost perfect number is a power of 2 and has non-negative exponents . ==Examples== For example, the divisors of 32 are 1, 2, 4, 8, 16 and 32. The sum of those is 63. 32 ⋅ 2 - 1 is 63. This makes 32 an almost perfect number. ==Odd numbers== The only known odd almost perfect number 1. An odd almost perfect number that is not 1 is possible. It would, however, have to have six prime factors. == References == == Further reading == * * * * Category:Divisor function Category:Integer sequences",
+ "title": "Almost perfect number"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "183177",
+ "text": "In statistics, type I and type II errors are errors that happen when a coincidence occurs while doing statistical inference, which leads to one making the wrong conclusion. One makes a Type I error when the original hypothesis is rejected, when it is actually true. Conversely, one makes a Type II error when the original hypothesis is accepted, when it is actually false. The probability of type I error is often written as \\alpha, while the probability of type II error is written as \\beta. == Related pages == * Alpha * Beta * False positives and false negatives * Power of a test == References == Category:Errors and residuals in statistics",
+ "title": "Type I and type II errors"
+}

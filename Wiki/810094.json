@@ -1,0 +1,5 @@
+{
+ "id": "810094",
+ "text": "For computers, a browser engine (also called a layout or rendering engine) is a main part of a web browser that is responsible for showing a web page. It is separate from other parts, such as a JavaScript engine. == Function == In order to render, or make visible, a web page, it takes a Hyper Text Markup Language document and splits it up into elements. These elements, such as text, links, and images, are placed onto the Document Object Model (DOM), a way of finding the structure of the page. It then takes the Cascading Style Sheets code to tell it where to place the elements from the DOM, as well as other things, such as colors or backgrounds to put around the elements. == Notable engines == Some engines that are used include: * Blink, the engine used in the Google Chrome, Chromium, Microsoft Edge, Opera, and Brave web browsers. * Gecko, the engine used by the Mozilla Firefox web browser, and the Mozilla Thunderbird email client. * Webkit, the engine used by Apple Safari, and all browsers for IOS. Category:Web browsers",
+ "title": "Browser engine"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "372592",
+ "text": "A One-time pad is a method of encryption. It is a symmetrical cipher, which means the same key is needed for encryption and decryption. A one time pad uses a key that is either as long or longer than the message it encrypts. The key must only be used once, and after it is used, a new key must be generated and shared for the cipher to remain secure. If this method is used correctly, it is impossible to decrypt or break the encryption without the key. Failure to make and share random keys has led to successful cryptanalysis, as in the Venona project. Because of these requirements, it is rarely used today. ==History== One-time pads were created all the way in 1882 by Frank Miller. After the invention in 1917, Gilbert Vernam invented and patented an electronic version based on teleprinter technologies. Category:Cryptography",
+ "title": "One-time pad"
+}

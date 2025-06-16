@@ -1,0 +1,5 @@
+{
+ "id": "1173281",
+ "text": "A quantile is a statistical value that divides a data set into equal-sized intervals. It helps in understanding the distribution of data. Common types of quantiles include: *Quartiles (4 parts) – Q1 (25th percentile), Q2 (median or 50th percentile), Q3 (75th percentile) *Deciles (10 parts) *Percentiles (100 parts) For example, the median (Q2) is the 50th percentile, meaning half the values are below it and half are above. Category:Statistics",
+ "title": "Quantile"
+}

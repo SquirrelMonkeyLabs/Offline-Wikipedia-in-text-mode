@@ -1,0 +1,5 @@
+{
+ "id": "358742",
+ "text": "In physics and mathematics (particularly in differential calculus), the second derivative is the derivative of the derivative of a function, say f(x). The second derivative has many real-life applications, especially in the study of mathematical optimization and acceleration. Second derivatives can be notated in several ways, some of which are :\\frac{\\mathrm{d}^2f}{\\mathrm{d}x^2}, \\frac{\\mathrm{d}^2y}{\\mathrm{d}x^2} or f(x) Other notations are used, but the above two are the most commonly used. == Power Rule for Finding the Second Derivative == If we have a function f(x)=x^n, then the second derivative of the function can be found using the power rule for second derivatives. That is, :\\frac{\\mathrm{d}^2y}{\\mathrm{d}x^2}[x^n]=n(n-1)x^{n-2}=(n^2-n)x^{n-2} == Related pages == * Second derivative test == References == Category:Calculus",
+ "title": "Second derivative"
+}

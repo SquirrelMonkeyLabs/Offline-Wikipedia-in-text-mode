@@ -1,0 +1,5 @@
+{
+ "id": "127468",
+ "text": "APTonCD is a tool for backing up software that can create one or more ISOs, CDs or DVDs with all of the software the user downloaded via APT-GET or APTITUDE, so it can be used on other computers. APTonCD will also allow the user to automatically create media with all of the .deb packages in one place, so that the user can install them into other computers without the need for an internet connection. ==Related pages== *SuperDeb == References == Category:Linux",
+ "title": "APTonCD"
+}

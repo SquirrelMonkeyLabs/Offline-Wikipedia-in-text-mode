@@ -1,0 +1,5 @@
+{
+ "id": "257986",
+ "text": "In linear algebra, there are certain matrices which have the property that when they are multiplied with another matrix, the result is the identity matrix I (the matrix with ones on its main diagonal and 0 everywhere). If A is such a matrix, then A is called invertible and its inverse is called A^{-1}, with: :A \\cdot A^{-1} = A^{-1} \\cdot A = I There are algorithms for calculating the inverse of a matrix, with Gaussian elimination being a common example. The problem is that finding the inverse is relatively expensive to do for big matrices. Matrix inversion is used extensively in computer graphics. == Related pages == * Determinant * Inverse function * Inverse (mathematics) == References == Category:Linear algebra",
+ "title": "Invertible matrix"
+}

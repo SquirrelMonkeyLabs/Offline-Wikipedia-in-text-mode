@@ -1,0 +1,5 @@
+{
+ "id": "998363",
+ "text": "Windows Forms, more commonly known as Winforms, is a free and open-source GUI library for .NET. Windows Forms provides GUI elements to help developers easily create client-side GUI Applications. == Open Sourcing == At a Microsoft Connect event on December 4th, 2018, it was announced that Windows Forms, with WPF and WinUi would be released open source. This also allowed for forks to be created, as well as attempts at creating a cross-platform version of the library. == References == Category:Software Category:Free software Category:Microsoft software",
+ "title": "Windows Forms"
+}

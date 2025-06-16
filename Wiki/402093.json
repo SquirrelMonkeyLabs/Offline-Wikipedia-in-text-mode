@@ -1,0 +1,5 @@
+{
+ "id": "402093",
+ "text": "localhost means this computer in computer networking. On most computers `localhost` resolves to the IP address `::1` in IPv6 and `127.0.0.1` in IPv4. The localhost is useful for programmers to test software independent of a network connection. Using the localhost bypasses the network card in a computer. ==Loopback== The loopback function of localhost can be used to run a network service without needing a physical network card. It can also be used to not let a network access the service that the computer is connected to. IPv4 network standards reserve the address block 127.0.0.0/8 for loopback. ==References== Category:Internet protocols",
+ "title": "Localhost"
+}

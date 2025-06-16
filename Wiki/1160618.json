@@ -1,0 +1,5 @@
+{
+ "id": "1160618",
+ "text": "In computer science, parameters are stored names of information that we want to use for a subroutine. These pieces of information, called values, are then passed on to the subroutine to be used as arguments. Then these arguments can affect how the program will run. Parameter (programming) For example, in the following _Python_ function: `def greet(name):` `print(\"Hello, \" + name + \"!\")` The word `name` is a parameter. When the function is called with a value (like `\"Alice\"`), the parameter `name` will hold that value and the function will use it to perform its action: `greet(\"Alice\") # Outputs: Hello, Alice!` In this case, the parameter allows the function to personalize the greeting by using the value provided during the function call. ==References== Category:Computer science",
+ "title": "Parameter (computer programming)"
+}

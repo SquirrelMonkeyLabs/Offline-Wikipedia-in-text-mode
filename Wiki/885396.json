@@ -1,0 +1,5 @@
+{
+ "id": "885396",
+ "text": "The Intel 8086 is a 16-bit microprocessor of the late 1970s. It was the precessor of the Intel 8088, which was a popular processor in the 1980s. The design is based on the architecture of the 8080 and 8085, which were 8 bit processors Intel made in the 1970s. The 8086 lacks a few functions, which had to be added with external chips. It also lacks the ability to do floating- point calculations. This was commonly added with the 8087 chip. The IBM PC, released in the 1980s, used an 8088 chip. Amstrad built clones, which used the 8086 chip. Category:Intel processors Category:Microprocessor design",
+ "title": "Intel 8086"
+}

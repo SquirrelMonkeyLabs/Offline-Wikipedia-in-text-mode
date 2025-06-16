@@ -1,0 +1,5 @@
+{
+ "id": "305631",
+ "text": "Mariner 1 was a NASA spacecraft. It was the first spacecraft in the Mariner program. Mariner 1 was planned to do a Venus fly-by. However, it was destroyed by the Range Safety Officer 293 seconds after launch. It was destroyed because the rocket moved off course and was a safety risk. Mariner 1 was followed by Mariner 2. == Why it was destroyed == The Atlas-Agena rocket was controlled by a hand-written formula: :\\bar{\\dot{R}_n} Which means \"the th smoothed value of the time derivative of a radius R\". However, for this mission, an overline (‾) was missing in the formula, which looks something like this: :\\dot{R}_n Because the smoothing function was missing, the rocket became sensitive at minor changes. Then, the rocket became out of control and destroyed by the Range Safety Officer. Few years later, Arthur C. Clarke wrote that Mariner 1 was \"wrecked by the most expensive hyphen in history\".' == References == == Other websites == * * * * * * * Mariner 01 Category:1960s in spaceflight",
+ "title": "Mariner 1"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "1082517",
+ "text": "In mathematical logic and computer science, the Kleene star (or Kleene operator or Kleene closure) is a mathematical process or operation on sets of numbers, characters (like letters) or symbols. It is often used for regular expressions. As an example, if we take a set of numbers or characters and call it V, and create a never-ending _infinite_ list from all the numbers/characters of that set, with all the combinations that are possible by reusing any of those numbers/characters, even multiple times, then we have created the Kleene star of V. So, given a set, it's the set of all string combinations of members of that set, including number or character reusage. Characters can be reused unlimited times, which is why the list is infinite. == Example == Let's create a set called V, and put the symbols a and b in it. V = {a, b} So here's the Kleene star applied to that set of characters: : {\"a\", \"b\"}+ = { \"a\", \"b\", \"aa\", \"ab\", \"ba\", \"bb\", \"aaa\", \"aab\", ...}. Category:Grammar",
+ "title": "Kleene star"
+}

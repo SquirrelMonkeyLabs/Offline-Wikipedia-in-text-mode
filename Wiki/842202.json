@@ -1,0 +1,5 @@
+{
+ "id": "842202",
+ "text": "In graph theory, a directed graph (or digraph) is a graph which has directed edges. This means one end of the edge is different from the other end. Directed edges can be thought of as arrows, or as edges which can only be travelled in one direction. == Degree == For a normal graph, the degree of a vertex v is the number of edges touching v. For a digraph, there are two more definitions. The indegree of v is the number of edges going into v, and the outdegree of v is the number of edges going out of v. == Related pages == * Graph Category:Graph theory",
+ "title": "Directed graph"
+}

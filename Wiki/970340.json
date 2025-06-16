@@ -1,0 +1,5 @@
+{
+ "id": "970340",
+ "text": "In mathematics, the difference of two squares is a squared (multiplied by itself) number subtracted from another squared number. Every difference of squares may be factored according to the identity :a^2-b^2=(a+b)(a-b) in elementary algebra. ==Proof== Starting from the left-hand side, use the distributive law to get :(a+b)(a-b)=a^2-ba-ab-b^2 By the commutative law, the middle two terms cancel: :ba-ab=0 leaving :(a+b)(a-b)=a^2-b^2 The result is one of the most commonly used identities in mathematics. Among other many uses, it gives simple proof of the AM–GM inequality in two variables. The proof holds in any commutative ring. However, if this identity holds in a ring R for all pairs of elements a and b. This means R is commutative. To see this, use the distributive law on the right-hand side of the equation and get :a^2+ba-ab-b^2 For this equation to be equal to a^2-b^2, we must have :ba-ab=0 for all pairs a, and b. So that R is commutative. Category:Algebra",
+ "title": "Difference of two squares"
+}

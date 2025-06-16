@@ -1,0 +1,5 @@
+{
+ "id": "814568",
+ "text": "Batch processing is when a number of tasks (\"jobs\") are put together over a set period of time. The jobs are then loaded into a computer system (\"job queue\") and done all at once, in a \"batch.\" ==Process== Once the batch processing starts, the user does not need to do anything else. This type of processing only works when there are timing constraints, i.e. files do not need to be updated immediately or a response from the computer is not needed right away. ==Advantage== One advantage of batch processing is that the computer can wait to process the batch until it is less busy. For example, it can do the jobs in the job queue overnight. Fields with batch processing include billing systems (e.g. electricity, gas, water and telephone), payroll systems and processing of bank cheques. Category:Computer protocols",
+ "title": "Batch processing"
+}

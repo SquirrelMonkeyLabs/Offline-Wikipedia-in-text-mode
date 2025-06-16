@@ -1,0 +1,5 @@
+{
+ "id": "620698",
+ "text": "The lowest common denominator (also least common denominator and LCD) is the least common multiple of the denominators (bottom parts) of a group of fractions. It makes it easier to add, subtract, and compare fractions. The LCD of \\frac{1}{2} and \\frac{2}{3} is 6. This is because \\frac{1}{2} and \\frac{2}{3} equal \\frac{3}{6} and \\frac{4}{6}. 6 is the smallest number that can be at the bottom of both of those fractions. The same thing also works with variables: : \\frac{1}{2x} + \\frac{3}{x^2} = \\frac{1}{2x} {\\color{Green}\\cdot \\frac{x}{x}} + \\frac{3}{x^2} {\\color{Green}\\cdot \\frac{2}{2}} = \\frac{x}{2x^2} + \\frac{6}{2x^2} = \\frac{x+6}{2x^2} Category:Fractions (mathematics)",
+ "title": "Lowest common denominator"
+}

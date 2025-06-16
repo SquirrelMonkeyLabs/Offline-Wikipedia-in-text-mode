@@ -1,0 +1,5 @@
+{
+ "id": "81008",
+ "text": "In fluid dynamics dynamic pressure depends on density and velocity of the fluid. It is defined by the following equation: :q \\ = \\ \\frac{1}{2} \\rho v^2 where (using SI units): :q = dynamic pressure in pascals :\\rho = fluid density in kg/m3 (such as the density of air) :v = fluid velocity in m/s == Physical meaning == Dynamic pressure is closely related to the kinetic energy of a fluid particle, since both quantities are proportional to the particle's mass (through the density, in the case of dynamic pressure) and square of the velocity. Dynamic pressure is in fact one of the terms of Bernoulli's equation, which is essentially an equation of energy conservation for a fluid in motion. ==Related pages== * Pressure == Other websites == * Definition of dynamic pressure on Eric Weisstein's World of Science Category:Fluid mechanics",
+ "title": "Dynamic pressure"
+}

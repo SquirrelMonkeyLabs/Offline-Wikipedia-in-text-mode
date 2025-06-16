@@ -1,0 +1,5 @@
+{
+ "id": "384448",
+ "text": "SKU (often pronounced \"skew\") is an acronym for Stock-Keeping Unit. This is the barcode found on things sold in stores. It is made in a way that laser scanners in the check-out lane can read the code. The code is then used to find the price. == Design == The bar code is made of vertical bars, some are thick, some are thin. The scanner can see these bars and the pattern of the bars tells them what the numbers are. The patterns are made in a way that the scanner can read it forwards or backwards, so it doesn't matter how the product is held, it can still read the number. The numbers are often also written underneath the bars, so that people can read the SKU. There are two parts to the number. The first part is who made the product, the second part is what the actual product is. Category:Commerce",
+ "title": "Stock-Keeping Unit"
+}

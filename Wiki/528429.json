@@ -1,0 +1,5 @@
+{
+ "id": "528429",
+ "text": "The Pareto distribution is a probability distribution named after Vilfredo Pareto. It is continuous and follows a power law. It is a heavy tailed distribution. The Pareto distribution was first used to show how income is distributed among households (which is commonly called Income distribution). Pareto distributions are often used in the cases when many different small independent factors contribute to a result. Pareto wrote a book called Cours d'économie politique, where he tried to show that the number of people who have an income greater than x is proportional to 1/x^k. The parameter k is constant, and about 1.5. This is all that is needed to describe the Pareto distribution. Insurance companies often use Pareto distributions to model damage. Category:Probability distributions",
+ "title": "Pareto distribution"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "891161",
+ "text": "Log4shell (CVE-2021-44228), is a zero-day vulnerability in Log4j, a logging tool in Java. People have figured out that you can abuse this vulnerability to execute remote code. On 24 November 2021, Chen Zhaojun of Alibaba's Cloud's security team told Apache about this. It has been publicly disclosed since December 9, 2021. Apache has given this vulnerability a 10, the highest rating. ==References== Category:JavaScript",
+ "title": "Log4Shell"
+}

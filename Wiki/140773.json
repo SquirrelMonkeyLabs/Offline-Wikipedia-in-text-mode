@@ -1,0 +1,5 @@
+{
+ "id": "140773",
+ "text": "The term Needham-Schroeder protocol can refer to one of two communication protocols intended for use over an insecure network, both protocols designed by Roger Needham and Michael Schroeder. The two protocols are: # The Needham- Schroeder Symmetric Key Protocol is based on a symmetric encryption algorithm. It forms the basis for the Kerberos protocol. This protocol aims to establish a session key between two parties on a network to protect their communication. # The Needham-Schroeder Public-Key Protocol, based on public-key cryptography. This is intended to provide mutual authentication between two parties communicating on a network, but in its proposed form it is not secure. ==Related pages== * Kerberos (protocol) == References == == Other websites == * http://www.lsv.ens-cachan.fr/spore/nspk.html - description of the Public-key protocol * http://www.lsv.ens-cachan.fr/spore/nssk.html - the Symmetric-key protocol * http://www.lsv.ens-cachan.fr/spore/nspkLowe.html - the public-key protocol amended by Lowe Category:Cryptography",
+ "title": "Needham-Schroeder protocol"
+}

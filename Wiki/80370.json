@@ -1,0 +1,5 @@
+{
+ "id": "80370",
+ "text": "A Media Access Control address (often shortened to MAC address) is a 48-bit code which allows a computer to be part of a computer network. Usually, a computer has only one MAC address. Each computer has a MAC address which identifies it uniquely on the network. No other device on the Internet will have the same MAC address. A MAC address contains two pairs of 24-bit hexadecimals: the first pair is the international standard identifier of the International Organization for Standardization (ISO) and the last pair is the serial number for the network interface card to uniquely identify the card. Category:Computer networking",
+ "title": "Medium access control"
+}

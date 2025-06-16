@@ -1,0 +1,5 @@
+{
+ "id": "835088",
+ "text": "Linear predictive coding (LPC) is a method of digital signal processing. It is mainly used for compressing audio signals, and for speech recognition. Commonly a simplified model of the human vocal tract is used. This model allows speech synthesis. This makes it possible to describe the model using less data than is used for Pulse-code modulation. Very often, an extra parameter is used to describe the difference between the original signal, and the signal calculated through the model. Category:Digital signal processing",
+ "title": "Linear predictive coding"
+}

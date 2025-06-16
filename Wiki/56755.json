@@ -1,0 +1,5 @@
+{
+ "id": "56755",
+ "text": "In mathematics, a tuple is a finite sequence of objects. Sometimes, the finite sequence is also called an ordered list. This means that the order of the objects matter. In a tuple, the objects are either enclosed within parentheses (such as (1, 2)), or within angle brackets (such as \\langle 1, 2 \\rangle). Each of the objects in the list has a certain type. A tuple consisting of n entries is called an n-tuple. Tuples are used to describe mathematical objects that are made of certain, well-defined components. They are also used very frequently with databases. Tuples are different from sets: *A certain element can be in a tuple more than once. *The order in which the elements appear in a tuple is important. In other words, tuples are like ordered multisets. == Related pages == * Relation (mathematics) == References == Category:Set theory",
+ "title": "Tuple"
+}

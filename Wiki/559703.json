@@ -1,0 +1,5 @@
+{
+ "id": "559703",
+ "text": "GNU Anubis is an outgoing mail processor. It goes between the Mail User Agent (MUA) and the Mail transport agent (MTA), and can perform various sorts of processing and conversion on the outgoing mail in accord with the sender's specified rules, based on a configurable regular expressions system. It operates as a proxy server, independently from mail user agents. ==Other websites== * GNU Anubis homepage Category:GNU project software",
+ "title": "GNU Anubis"
+}

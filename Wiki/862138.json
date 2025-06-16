@@ -1,0 +1,5 @@
+{
+ "id": "862138",
+ "text": "The hypervisor is the device or software which runs the virtual machine. It gives each virtual machine (called a \"guest\") the resources it needs, like memory or processing power, and connects it to the main computer. It also works with other software that helps manage the virtual machines. eg: if you're using Oracle Virtual Box to run a Ubuntu virtual machine, Oracle Virtual Box is the hypervisor. Category:Software",
+ "title": "Hypervisor"
+}

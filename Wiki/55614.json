@@ -1,0 +1,5 @@
+{
+ "id": "55614",
+ "text": "Scalable Vector Graphics (SVG) are a type of two dimensional picture that work on vectors, rather than pixels. This means they can become bigger or smaller without losing any quality or becoming blurry. SVG is based on XML and created by the World Wide Web Consortium (W3C). == History == The W3C published SVG in September 2001. As of 2018 SVG is widely supported in all modern browsers. The normal Filename extension is .svg and the MIME-Type is `image/svg+xml`. == Structure == SVG uses Extensible Markup Language (XML). So it has a definition of the document type. == Difference between bitmap and vector images == This image shows the difference between bitmap and vector images. The vector image can be scaled forever, while the bitmap can not. ==References== == Other websites == * VectorMagic Online raster to SVG converter Category:Computer file formats Category:Computer graphics Category:Vector graphics",
+ "title": "Scalable Vector Graphics"
+}

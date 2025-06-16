@@ -1,0 +1,5 @@
+{
+ "id": "971693",
+ "text": "A variable in a program is a place where data is stored and put it or set. In most computer languages it is used by typing `var`, or `const`. In some languages like Python you do not need to define what type the variable is, but in C or Java you must define what type it is. Python example of it's type system. x = 10 print(x + 1) # this displays '11' on the screen x = \"Hello, World\" print(x) # this displays 'Hello, World' on the screen In this code snippet it shows how you can change the type of a variable. That means it is dynamically typed. C example of it's type system // this defines a variable 'x' with type int int x = 10; // this defines a variable 'y' with type char char y = 'H'; // this defines a variable 'z' with type *char char z[] = {y, 'e', 'l', 'l','o', ' ', 'W','o','l','d'}; In C you cannot change the type of a variable. That means it is statically typed. Category:Computer science",
+ "title": "Variable (computer science)"
+}

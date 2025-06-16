@@ -1,0 +1,5 @@
+{
+ "id": "392641",
+ "text": "Android Package Kit (APK) is the file format that software for Android is distributed in. It is an extension of the ZIP file format. An APK file contains bitcode for Android's Dalvik Virtual machine, resources used by the program (such as images and sounds), and sometimes native executable code, usually for the ARM processor. Category:Google Category:Computer file formats",
+ "title": "APK (file format)"
+}

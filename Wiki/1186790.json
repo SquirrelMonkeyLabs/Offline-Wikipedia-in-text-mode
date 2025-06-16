@@ -1,0 +1,5 @@
+{
+ "id": "1186790",
+ "text": "In ring theory, a field of mathematics, an element of a ring is called nilpotent if it can be raised to an whole number power (called the degree of the element) to get the ring's additive identity. The additive identity itself is always nilpotent. For the rings of integers using modular arithmetic, non- trivial nilpotent elements exist if and only if the modulus n is not square- free. == Examples == In modular arithmetic, an element is nilpotent if and only if it is a multiple of the radical of the modulus. For example, the radical of 72 = 2^3\\cdot3^2 is 2\\cdot 3 = 6, so all multiples of 6 are nilpotent on \\mathbb{Z}/72\\mathbb{Z}, the ring of integers modulo 72. == Properties == A nilpotent element is always a zero divisor, but not all zero divisors are nilpotent. Category:Ring theory",
+ "title": "Nilpotent"
+}

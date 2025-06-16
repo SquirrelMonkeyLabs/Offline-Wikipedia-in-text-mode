@@ -1,0 +1,5 @@
+{
+ "id": "44309",
+ "text": "Consecutive numbers are numbers that follow each other in order. They have a difference of 1 between every two numbers. In a set of consecutive numbers, the mean and the median are equal. If n is a number, then the next numbers will be n+1 and n+2. ;Examples Consecutive numbers that follow each other in order: * 1, 2, 3, 4, 5 * -3, −2, −1, 0, 1, 2, 3, 4 * 6, 7, 8, 9, 10, 11, 12, 13 == Consecutive even numbers == Consecutive even numbers are even numbers that follow each other. They have a difference of 2 between every two numbers. If n is an even integer, then n, n+2, n+4 and n+6 will be consecutive even numbers. For example - 2,4,6,8,10,12,14,18 etc. ==Consecutive odd numbers== Consecutive odd numbers are odd numbers that follow each other. Like consecutive odd numbers, they have a difference of 2 between every two numbers. If n is an odd integer, then n, n+2, n+4 and n+6 will be consecutive odd numbers. ;Examples 3, 5, 7, 9, 11, 13, etc. −23, −21, −19, −17, −15, -13, -11 Category:Integers",
+ "title": "Consecutive integer"
+}

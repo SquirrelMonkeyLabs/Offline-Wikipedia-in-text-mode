@@ -1,0 +1,5 @@
+{
+ "id": "82731",
+ "text": "IEEE 802.1 is the name for a number of high-level protocols for computer networks. In this context, IEEE 802.1X helps secure such a network. It defines methods to authenticate devices and to authorise the access to certain resources. A dedicated server checks information received from a \"supplicant\". Depending on the result of the check, access to the given resource is granted or denied. ==Other websites== * IEEE page on 802.1X * IEEE standard can be retrieved at no charge through the GetIEEE802 program: * Using 802.1x port authentication to control who can connect to your network * Configure RADIUS for secure 802.1x wireless LAN * How to self-sign a RADIUS server for secure 802.1x PEAP or EAP-TTLS authentication * Configuring FreeRADIUS for 802.1x * WIRE1x * Deployment of IEEE 802.1X for Wired Networks Using Microsoft Windows * Steve Riley's article on the 802.1x vulnerabilities Category:Computer protocols",
+ "title": "IEEE 802.1X"
+}

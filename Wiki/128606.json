@@ -1,0 +1,5 @@
+{
+ "id": "128606",
+ "text": "Error detection and correction is about methods to make sure that information or data is not corrupted, and still makes sense. The techniques help reliable delivery of digital data over unreliable communication channels. ==Detecting an error== There are different ways to make sure an error can be detected. This is done by adding more data or information to the data transmitted. Adding more data than needed is called redundancy. *Repetition codes: The data is broken up into blocks. Each block is then sent a number of times. *Parity bits can be used. The parity bit is 1 for an odd number of ones, and 0 for an even number (or vice versa) *Checksums *Cyclic redundancy checks *Hamming codes *Hash function *Longitudinal redundancy check *Transverse redundancy check *Polarity schemes ==Correcting an error== There are two main ways to correct an error: * Automatic repeat request (ARQ) - The receiver detects an error and automatically requests a repetition * Forward error correction == Other websites == * Error control --Citizendium Category:Information theory",
+ "title": "Error detection and correction"
+}

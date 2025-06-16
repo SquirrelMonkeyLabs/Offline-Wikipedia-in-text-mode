@@ -1,0 +1,5 @@
+{
+ "id": "176979",
+ "text": "ubuntu-restricted-extras is a package for Ubuntu, that allows the user to install most of the essential restricted software, due to legal, or copyright reasons. It is a meta-package that installs, among other things: * Support for MP3 and DVD playback * Microsoft TrueType core fonts * Java runtime environment * Flash plugin * Common codecs * unrar, an unarchiver for .rar files (non-free version) * etc... ==Inclusion== Ubuntu-restricted-extras is already included in distros like Super OS ==Related pages== *Ubuntu (operating system) ==Other websites== * package details for ubuntu 9.04 * Ubuntu-restricted-extras offline installer Category:Linux software",
+ "title": "Ubuntu-restricted-extras"
+}

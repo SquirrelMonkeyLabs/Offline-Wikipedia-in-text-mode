@@ -1,0 +1,5 @@
+{
+ "id": "121222",
+ "text": "The Fedora Live USB creator is an official tool designed to create Live USBs of Fedora. ==Features== *Cross-platform (available for Windows and Linux) *Non-destructive install (does not format the device) *Supports various Fedora releases, including Fedora 19 *Automatically detects all removable devices *Persistent storage creation, to save all documents created and modifications made to the system (only works with Fedora 9) *SHA1 checksum verification of known releases, to ensure that there is no corruption when downloading ==Related pages== *List of tools to create Live USB systems Category:Linux software",
+ "title": "Fedora Live USB creator"
+}

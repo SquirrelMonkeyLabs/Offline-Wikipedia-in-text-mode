@@ -1,0 +1,5 @@
+{
+ "id": "71490",
+ "text": "The exponential distribution with rate \\lambda, written \\operatorname{Exp}(\\lambda), is a probability distribution defined only on the positive real numbers. It is the continuous analogue of geometric distribution. Exponential distribution is used in reliability applications, and its main use is to assess the duration of random time intervals. Examples where it can be used include: *Time length of a telephone call *How long does it take to perform a service (for example, to fix something at a service point) *Amount of time between two phone calls *Half life of atoms (radioactive decay) *Expected lifetime of electronic (or other) parts, if wearing is not considered (this is called Mean Time Between Failures, MTBF) *Age of plants or animals *Very simple model used by insurance companies == Related pages == * Normal distribution == References == ==Other websites== *Online calculator of Exponential Distribution Category:Probability distributions",
+ "title": "Exponential distribution"
+}

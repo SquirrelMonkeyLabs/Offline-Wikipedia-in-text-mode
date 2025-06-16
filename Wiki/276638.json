@@ -1,0 +1,5 @@
+{
+ "id": "276638",
+ "text": "Zipeg is an open source free software. Zipeg unpacks files from ZIP, RAR and other archives. Zipeg works on Mac OS X and Windows. Zipeg can preview files and photographs. It is not capable of compressing files. Zipeg is able to extract compressed files. Zipeg supports RAR, ZIP and other formats. Zipeg is built on top of the 7-Zip backend. Zipeg user interface is implemented in Java and is open source. Zipeg automatically detects filenames in national alphabets (code pages). Zipeg correctly translates filenames from national alphabet to Unicode. Zipeg reads EXIF thumbnails from JPEG digital photographs. Zipeg uses thumbnails for \"tool tip\" style preview and item icons. == References == * Zipeg review from c|net * Zipeg review by Macworld ==Other websites== * Zipeg main site http://www.zipeg.com/ * Zipeg source code http://zipeg.googlecode.com/ * Zipeg at apple.com downloads Category:Microsoft Windows software Category:Free software",
+ "title": "Zipeg"
+}

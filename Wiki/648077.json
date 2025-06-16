@@ -1,0 +1,5 @@
+{
+ "id": "648077",
+ "text": "Software architecture describes the high-level components a software is made of, as well as how they interact with each other. Each component of the system has a well-defined function, as well as a number of interfaces. Using a certain architecture for a system also means making choices. Changing it later on may be difficult and expensive. Category:Computer science",
+ "title": "Software architecture"
+}

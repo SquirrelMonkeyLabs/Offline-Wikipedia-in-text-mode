@@ -1,0 +1,5 @@
+{
+ "id": "144818",
+ "text": "Lorentz's law is a law discovered by the Dutch physicist Hendrik Antoon Lorentz. Lorentz's law defines force that acts on moving charged particles in an electromagnetic field. Force consists of magnetic force and electric force. F = qE (electric force) If the charge is positive, the direction of the electric force is equal to direction of electric field. F = qv*B (magnetic force) The direction of the magnetic force is given by the right hand rule. If charged particles move with velocity v in an electric field E and a magnetic field B F = qE + qv*B F : force (vector) q : charge (scalar) E : electric field (vector) v : velocity of particle (vector) B : magnetic field (vector) * is vector cross product. Using this law, J.J. Thomson measured mass-to-charge ratio. Category:Electromagnetism",
+ "title": "Lorentz force"
+}

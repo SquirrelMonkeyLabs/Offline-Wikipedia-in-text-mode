@@ -1,0 +1,5 @@
+{
+ "id": "809143",
+ "text": "A Poisson process is a stochastic process. It counts the number of occurrences of an event leading up to a specified time. This is a counting process where the increments of time are independent of one another (the times do not overlap). ==Definition== The counting process known as the Poisson process is defined as: * N(0) = 0. * N(t) has independent increments. * The number of arrivals in any window of time follows a Poisson distribution. Where N(t) is the total number of events that occur by time t. Category:Statistics",
+ "title": "Poisson point process"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "1155158",
+ "text": "GDScript is a programming language that is used for the game engine Godot. This language is similar to Python, with syntax and arguments alike. == Example == Here is an example of the GDScript Language: extends Sprite2d # This code is going to print Hello World. func _ready(): print(\"Hello World!\") == Reference == https://docs.godotengine.org/en/stable/getting_started/introduction/index.html Category:Programming languages",
+ "title": "GDScript"
+}

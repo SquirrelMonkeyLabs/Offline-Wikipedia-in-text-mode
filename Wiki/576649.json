@@ -1,0 +1,5 @@
+{
+ "id": "576649",
+ "text": "In algebra, a montonic function is any function whose gradient never changes sign. In simple words, it is a function which is either always increasing or decreasing. For example, sin x=f(x) isn't a monotonous function or simply, non monotonous function. That is to say there are no turning points but there may be stationary points where the gradient is momentarily zero. The derivative function of a monotonic function which describes its gradient will never change sign. Monotonic Function Mathworld , Wolfram alpha , Accessed March 2017 ==References== Category:Algebra Category:Functions and mappings",
+ "title": "Monotonic function"
+}

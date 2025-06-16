@@ -1,0 +1,5 @@
+{
+ "id": "944780",
+ "text": "Component-based software engineering, or component-based software development is an idea from computer science. It says that complex systems should be made of smaller pieces, called components. Each component has a given functionality, and an interface that can be used to communicate with it. Well- designed components can be re-used. An application can then be made by combining and extending different compoents. These components will then use each other's interfaces to communicate. Category:Computer science",
+ "title": "Component-based software engineering"
+}

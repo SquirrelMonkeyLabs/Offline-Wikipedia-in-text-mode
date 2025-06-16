@@ -1,0 +1,5 @@
+{
+ "id": "333918",
+ "text": "In mathematics, a convex function is any function with value of the weighted average of 2 points is less than or equal to the weighted average of the function at those points. Also, a function is convex if and only if its epigraph is a convex set. == Examples == Three examples are: * A line: f(x) = x * A parabola: f(x) = x^2 * Absolute value: f(x) = |x| Category:Functions and mappings",
+ "title": "Convex function"
+}

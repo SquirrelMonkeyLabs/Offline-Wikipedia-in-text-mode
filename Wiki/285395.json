@@ -1,0 +1,5 @@
+{
+ "id": "285395",
+ "text": "A Binary image is a kind of raster graphic image. Each pixel of the image can only one of two different values, usually black and white. For this reason, only one bit is needed per pixel. Most of the time, the value 0 is coded as white, and 1 is used for black. Binary images are used: *in image processing, for example for edge detection or pattern recognition *In newspaper printing *In laser printers, and fax machines Category:Computer graphics",
+ "title": "Binary image"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "137722",
+ "text": "eSTREAM is a project to identify \"new stream ciphers that might become suitable for widespread adoption\", organized by the EU ECRYPT network. It was set up because of the failure of all six stream ciphers submitted to the New European Schemes for Signatures, Integrity and Encryption project. The call for cryptographic primitives was first issued in November 2004. The project was completed in April 2008. The project was divided into separate phases and the project goal was to find algorithms suitable for different kinds of application. == Other websites == * Homepage for the project ** Discussion forum ** The eSTREAM testing framework ** Update 1: (PDF) * Notes on the ECRYPT Stream Cipher project by Daniel Bernstein * estreamJ - Java implementations of eSTREAM ciphers, plus a live performance test Category:Cryptography",
+ "title": "ESTREAM"
+}

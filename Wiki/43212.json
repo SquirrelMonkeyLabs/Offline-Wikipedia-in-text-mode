@@ -1,0 +1,5 @@
+{
+ "id": "43212",
+ "text": "Logical equality is a logical operation. It corresponds to equality (=) in Boolean algebra and biconditional (written \\leftrightarrow or \\Leftrightarrow) in logic. It takes two inputs. It returns true if both inputs are true or if both inputs are false. Otherwise (when they are different), it returns false. == Related pages == * Implication (logic) == References == Category:Logic",
+ "title": "Logic equality"
+}

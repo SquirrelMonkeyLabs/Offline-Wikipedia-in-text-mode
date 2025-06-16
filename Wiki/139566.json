@@ -1,0 +1,5 @@
+{
+ "id": "139566",
+ "text": "MQV (Menezes-Qu-Vanstone) is an authenticated protocol for key agreement based on the Diffie-Hellman scheme. MQV provides protection against an active attacker. ==References== * Burton S. Kaliski Jr., An unknown key-share attack on the MQV key agreement protocol. ACM Trans. Inf. Syst. Secur. 4(3): pp275–288 (2001) * Laurie Law, Alfred Menezes, Minghua Qu, Jerry Solinas, Scott A. Vanstone, An Efficient Protocol for Authenticated Key Agreement. Des. Codes Cryptography 28(2): pp119–134 (2003) * Peter J. Leadbitter, Nigel P. Smart: Analysis of the Insecurity of ECMQV with Partially Known Nonces. ISC 2003: pp240–251 * A. Menezes, M. Qu, and S. Vanstone, Some new key agreement protocols providing implicit authentication, Preproceedings of Workshops on Selected Areas in Cryptography (1995). ==Other websites== * Articles on MQV and ECMQV in Certicom's newsletter Code and Cipher. * HMQV: A High-Performance Secure Diffie-Hellman Protocol by Hugo Krawczyk * Another look at HMQV * An Efficient Protocol for Authenticated Key Agreement Category:Cryptography",
+ "title": "MQV"
+}

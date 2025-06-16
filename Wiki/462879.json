@@ -1,0 +1,5 @@
+{
+ "id": "462879",
+ "text": "In computer science, a pointer is a variable whose value is a location in the computer's memory.N. Datta, Computer Programming and Numerical Analysis (Hyderabad Universities Press, 2003), p. 465 If Rick stands in a room and points to his friend Sally, then Rick is a pointer whose value is Sally's location. A programmer must dereference the pointer to retrieve the object it points to. Pointers do not take up much memory (RAM). Copying a pointer to a large object is faster than copying the large object itself because only the location needs to be copied, instead of the whole object. == Uses of Pointers == Pointers are used in linked lists. Each record of a linked list has a pointer to the next record. These pointers chain the records together. This means that the records in a linked list can be sorted and arranged by changing their pointers. == References == Category:Computer programming",
+ "title": "Pointer (computer programming)"
+}

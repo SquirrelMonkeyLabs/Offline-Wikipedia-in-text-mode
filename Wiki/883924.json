@@ -1,0 +1,5 @@
+{
+ "id": "883924",
+ "text": "Docker is a technology that bundles a software program with all of the other software that application needs to run, such as an operating system, third- party software libraries, etc. Software bundled like this is called a container. The benefit of using Docker to put applications in containers is that they can be run on different kinds of computers (for example, both a laptop and a web server), without the risk of a missing software library or a different operating system causing the application to not work. ==References== Category:Computer programming Category:Virtualization software",
+ "title": "Docker (software)"
+}

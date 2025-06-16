@@ -1,0 +1,5 @@
+{
+ "id": "625592",
+ "text": "The rationalization of denominators is to get rid of radicals that are in the denominator (the bottom part of a fraction). It works by dividing the bottom radical by itself, then multiplying that by the first expression. :\\frac{a}{\\sqrt{b}} = \\frac{a}{\\sqrt{b}} \\times \\frac{\\sqrt{b}}{\\sqrt{b}} = \\frac{a\\sqrt{b}}{\\sqrt{b}^2} = \\frac{a\\sqrt{b}}{b} ==References== Category:Algebra",
+ "title": "Rationalization (mathematics)"
+}

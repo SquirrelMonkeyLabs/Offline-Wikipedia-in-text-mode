@@ -1,0 +1,5 @@
+{
+ "id": "1101783",
+ "text": "Vulkan is a programming interface for 3D graphics which tries to replace OpenGL. It gives developers more access to the video card (GPU) in the computer. A programming interface like Vulkan will run some parts of a program on the GPU instead of the central processing unit (CPU) to make programs run faster. Vulkan is an example of an API (Application Programming Interface). ==References== Category:Animation",
+ "title": "Vulkan (API)"
+}

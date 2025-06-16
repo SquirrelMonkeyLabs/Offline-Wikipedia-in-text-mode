@@ -1,0 +1,5 @@
+{
+ "id": "1094163",
+ "text": "NTLDR was the program that loaded Windows NT based operating systems until Windows Vista where it was replaced with BOOTMGR. It is run from the C: drive but can also run off of a USB flash drive or DVD-ROM. It can also load non Windows based operating systems such as Ubuntu. NTLDR needs two files on the C: drive so it can work: * , the program that does the actual loading * , needed for loading NT-based operating systems Another important file is a the boot.ini which contains the settings for booting. == References == Category:Windows (architecture)",
+ "title": "NTLDR"
+}

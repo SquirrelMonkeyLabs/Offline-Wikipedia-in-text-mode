@@ -1,0 +1,5 @@
+{
+ "id": "972986",
+ "text": "The kernel of a group homomorphism from G to H is the subset of the elements from G that arrive to the Identity element of H. Mathematically: \\ker f = \\\\{g \\in G : f(g) = e_{H}\\\\}. Since a group homomorphism preserves identity elements, the identity element of G must belong to the kernel subset. == Property == The homomorphism is injective if and only if its kernel is only the identity elements of G. Proof: If f were not injective, then the non- injective elements can form a distinct element of its kernel: there would exist a, b \\in G such that a eq b and f(a) = f(b). Thus f(a)f(b)^{-1} = e_H. f is a group homomorphism, so inverses and group operations are preserved, giving f\\left(ab^{-1}\\right) = e_H; in other words, ab^{-1} \\in \\ker f, and ker f would not be the singleton. Conversely, distinct elements of the kernel violate injectivity directly: if there would exist an element g eq e_G \\in \\ker f, then f(g) = f(e_G) = e_H, thus f would not be injective. == References == Category:Group theory",
+ "title": "Kernel (algebra)"
+}

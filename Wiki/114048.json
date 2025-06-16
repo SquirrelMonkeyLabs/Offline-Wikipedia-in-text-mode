@@ -1,0 +1,5 @@
+{
+ "id": "114048",
+ "text": "Feather Linux, created by Robert Sullivan, is a Knoppix-based Linux distribution which fits in under 128 MB (while older versions were made to fit within 64 MB). It boots from either a CD or a USB Flash Drive, into a Fluxbox desktop environment. It has a wide range of desktop and rescue software, and can load entirely into RAM or be installed to a hard drive. Feather Linux contains many GTK+ applications, such as AbiWord and Pidgin. Feather linux has tried to include software that people would frequently be using on their desktop.\"Feather Linux - About.\" Feather Linux. 15 May 2008 http://featherlinux.berlios.de/about.htm. With its most recent release being on 2005-07-04, Feather Linux is now not under development. This distribution is partly inspired by Damn Small Linux. ==Related pages== *Damn Small Linux *List of Linux distributions == References == == Other websites == *Official website Category:Knoppix Category:Linux distributions Category:Debian-based Linux distributions",
+ "title": "Feather Linux"
+}

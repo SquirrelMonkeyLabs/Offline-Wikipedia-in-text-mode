@@ -1,0 +1,5 @@
+{
+ "id": "724957",
+ "text": "The instruction cycle, also known as the fetch-decode-execute cycle, is what a CPU does all the time. * It will fetch a new instruction from memory * It will decode that instruction * It will execute the instruction Category:Computer hardware",
+ "title": "Instruction cycle"
+}

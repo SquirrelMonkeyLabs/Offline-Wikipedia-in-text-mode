@@ -1,0 +1,5 @@
+{
+ "id": "129165",
+ "text": "Furius ISO Mount is a program to mount and burn iso files. == Features == *Ability to mount ISO, IMG, BIN, MDF and NRG image files *Automatically creates a mount point in the users home directory. *Automatically saves the history of the last 10 images mounted. *Ability to burn ISO and IMG Files to optical disks *Ability to generate MD5 and SHA1 checksums *Automatically retrieves any previously unmounted images. *Automatically generates a log file of all commands needed to mount and unmount images manually. Category:Linux software",
+ "title": "Furius ISO Mount"
+}

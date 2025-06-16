@@ -1,0 +1,5 @@
+{
+ "id": "795395",
+ "text": "In computer science, a tree is a graph data structure composed of items that have child items. Trees have an item called a root. No item has the root as a child. Trees may not have cycles. Items may contain a reference to their parent. An item is a leaf if it has no children. The height of an item is the length of the longest downward path to a leaf from that item. The height of the root is the height of the tree. The depth of an item is the length of the path to the tree's root, tree roots can be infinite. ==Example== * The item labeled 2 in green text is the root. * The item labeled 4 is a leaf and its depth is 3. * The height of the tree is 3. ==List of tree data structures== * Binary tree * Heap (data structure) * Trie Category:Data structures",
+ "title": "Tree (data structure)"
+}

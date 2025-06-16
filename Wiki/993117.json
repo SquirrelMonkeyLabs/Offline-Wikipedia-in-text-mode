@@ -1,0 +1,5 @@
+{
+ "id": "993117",
+ "text": "Domain-driven design is a way of modelling and building software systems. The basic idea is that the model of the software should also be a model of the application domain. In domain-driven design the software models certain aspects of the problem. People will use certain terms, which have a very specific meaning. This meaning is linked to the problem domain in which it is used (called a context). In different contexts, the term may have a different meaning. In order to connect the different contexts, a common language is needed (where everyone agrees on the specific meaning of the terms used). Eric Evans, who created the term Domain-driven design calles it ubiquitous language, and defines it as follows: “A language structured around the domain model and used by all team members to connect all the activities of the team with the software.”. == References == Category:Computer science",
+ "title": "Domain-driven design"
+}

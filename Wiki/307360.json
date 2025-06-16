@@ -1,0 +1,5 @@
+{
+ "id": "307360",
+ "text": "Wiswesser Line Notation, also referred to as WLN, was the first line notation that precisely describes complex molecules. The notation is simple, so that trained chemists as well as computers can translate it. It was invented by William J. Wiswesser in 1949. The keypunch was the main data entry device when WLN was developed. Keypunches could only type capital letters(A-Z), numbers(0-9), and a few special characters(& / -). So, the symbols used in WLN were limited so that they could be stored on punched cards. == Examples == * 1V1: acetone * 2O2: diethyl ether * 1VR: acetophenone * L66J BMR& DSWQ IN1&1: 6-dimethylamino-4-phenylamino-naphthalene-2-sulfonic acid ==Related pages== * Simplified molecular input line entry specification (SMILES) * International Chemical Identifier (InChI) == References == ==Other websites== * * Everything Old is New Again: Wiswesser Line Notation (WLN) Category:Chemical nomenclature Category:Cheminformatics",
+ "title": "Wiswesser Line Notation"
+}

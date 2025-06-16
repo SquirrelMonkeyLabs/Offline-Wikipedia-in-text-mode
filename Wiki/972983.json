@@ -1,0 +1,5 @@
+{
+ "id": "972983",
+ "text": "In mathematics, a solvable group or soluble group is a group which has a subnormal series with abelian factors. == Relation with the order of the group == The Feit-Thompson theorem says that every group of odd order is solvable. Every finite group of order 60 or greater, every abelian group, and every subgroup of a solvable group is solvable. == Applications == The definition of solvable groups show why the polynomial equations of degree greater than 5 are (in general) not solvable using finite arithmetic operations (Galois theory). == References == Category:Group theory",
+ "title": "Solvable group"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "127565",
+ "text": "Debian Package Maker is a program to compile programs from source code to create .deb packages. == Modes == === Target Mode === The user can manually specify the installation directory and the files to be installed in the target installation directory. === Source Mode === Debian Package Maker will configure the source for the user, compile them and then build a package using the target rules. configure/autogen.sh scripts and Makefile/rules is required for DPM to automate the whole process for the user. ==Related pages== *.deb *Deb Creator ==Other websites== *Debian Package Maker at Google Code Category:Debian",
+ "title": "Debian Package Maker"
+}

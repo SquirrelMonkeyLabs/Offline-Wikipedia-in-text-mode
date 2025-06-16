@@ -1,0 +1,5 @@
+{
+ "id": "208424",
+ "text": "Daubechies wavelets are a family of orthogonal wavelets named after Belgian physicist and mathematician Ingrid Daubechies. They are used in discrete wavelet transform. Because they are fairly easy to model, they are often used for digital signal processing and wavelet compression. For each wavelet function, there are two finite series of real numbers. These act as a digital filter. Each filter is made in such a way that a signal that is at a right angle to the filter will disappear. Ingrid Daubechies also defined another class of filters she called biorthogonal. These are no longer at a right angle to the signal, but they are symmetric. ==Related pages== * Wavelet transform * Quadrature mirror filter Category:Harmonic analysis Category:Wavelets",
+ "title": "Daubechies wavelet"
+}

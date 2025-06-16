@@ -1,0 +1,5 @@
+{
+ "id": "609072",
+ "text": "In telecommunications, packet switching is a method of grouping data that is transmitted over a digital network into packets. Composed of a header and a payload: A header is used by networking hardware to direct packets to its destination, A payload is the thing extracted after it has reached its destination (thanks to the header) The workstation creates a packet, and stamps it with the destination's IP Address and forwards it to a router, the router's job is to find out how to get the packet to the desired destination. Breaking communication down into packets allows the same information to be shared amongst many users in a network. A type of small network where packets (small units of data) are routed through a network based on the destination address contained in each packet. “A data packet is a unit of data made into a single package that travels along a given network path. Data packets are used in Internet Protocol (IP) transmissions for data that navigates the Web, and in other kinds of networks.” Category:Computer networking",
+ "title": "Packet switching"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "637036",
+ "text": "An Interior gateway protocol is a routing protocol that is used within the routers of one autonomous system. An autonomous system might be one organisation, with its clients. Interior gateway protocols are able to handle more complex network topologies, compared to exterior gateway protocols. Exterior gateway protocols are used to route packets between two autonomous systems. Category:Computer networking",
+ "title": "Interior gateway protocol"
+}

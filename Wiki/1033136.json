@@ -1,0 +1,5 @@
+{
+ "id": "1033136",
+ "text": "Hackintosh is a method of installing macOS on computers that are not Macs. The name comes from the combination of \"Hack\" and \"Macintosh\". Apple does not authorize this, and doing this is against the EULA. This is possible because of the compatibility of the architecture of the processor. Also, installing macOS on a virtual machine is called \"Virtual Hackintosh\". There are many methods to this. One of them is to use Clover, an EFI bootloader specially made for this. Despite the Apple's introduction of Apple Silicon architecture, it is yet possible to do so with normal computers with Intel processors. == References == == Other websites == * tonymacx86 * Hackintosh.com Category:MacOS Category:Pages created with the Article Wizard from 2023",
+ "title": "Hackintosh"
+}

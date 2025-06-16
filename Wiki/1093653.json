@@ -1,0 +1,5 @@
+{
+ "id": "1093653",
+ "text": "In signal processing, the Nyquist frequency (or folding frequency), named after Harry Nyquist, is a trait of a sampler, which converts a continuous signal into a sequence of numbers. The Nyquist frequency is generally double of the sampling rate. When this is done, the discrete-time sequence is said to be free from distortion (usually called aliasing). For example, audio CD's contain a sampling rate of 44100 samples for every second of audio. When the Nyquist frequency characteristic is applied, the equation being 44100 divide 2, it produces a result of 22050. This number is generally considered to be the amount of frequencies a signal can hold (e.g. a Nyquist frequency of 20000 Hz can contain any frequency from 1 to 20 thousand Hz). The Nyquist frequency is not used for just audio applications and can usually be applied to any signal that has a sample rate. Category:Digital signal processing",
+ "title": "Nyquist frequency"
+}

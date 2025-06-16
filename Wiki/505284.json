@@ -1,0 +1,5 @@
+{
+ "id": "505284",
+ "text": "Interpolation is a way which makes a continuous function by a set of points. In nearest-neighbor interpolation, the job is to use the value of the data point or measurement which is closest to the current point. This way is also known as proximal interpolation or, point sampling. Category:Mathematical approximation",
+ "title": "Nearest-neighbor interpolation"
+}

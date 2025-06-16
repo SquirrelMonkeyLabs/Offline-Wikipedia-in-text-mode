@@ -1,0 +1,5 @@
+{
+ "id": "1146596",
+ "text": "vi (spelled in lowercase and pronounced as individual letters) is the standard text editor on UNIX. vi is a modal text editor, meaning that the user presses keys to enter different modes, for example to type in the document, the user would press i for insert mode. Due to the large number of Unix variants, there are many different versions of vi, including the original written by Bill Joy, as well as vim (vi Improved), nvi (New vi, part of BSD Unix), elvis, and many others. Most of these are compatible with the original, but some, such as vim, add new features. A survey from 2009 found that Linux Journal readers used vi as the most widely used text editor. == Reference == Category:Unix Category:Linux software",
+ "title": "Vi (text editor)"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "274527",
+ "text": "A Secure QR code is an extension of a QR code. When a QR code is read and decoded, all the information in the code is freely accessible. There will be some redundancy, to allow for error correction. A Secure qr code allows to encrypt part or all of the information present. This means that extra information is needed, to decrypt the non-public part of the code. To decode the non-public part of the code, the device doing the decoding needs to store a key. Secure QR codes use symmetric cryptography. The key length is 8 bytes. This means that there are 264 possible values for the key. With the correct key, the device reading the Secure QR code will also decrypt it. == References == Category:Data input Category:Barcodes",
+ "title": "Secure QR code"
+}

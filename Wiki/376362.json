@@ -1,0 +1,5 @@
+{
+ "id": "376362",
+ "text": "XSP is a simple, standalone web server written in C#. It hosts ASP.NET's System for Linux and other Unix operating systems. As well as running on the mono runtime for Linux it also runs on the .NET runtime. This makes it usable as a light weight web server on any .NET supporting platform. XSP was originally the name of the internal project at Microsoft that became ASP.NET. The name is a homage to the original name of what became ASP.NET XSP is also a term for the eXtensible Server Pages technology in Apache Cocoon. ==References== ==Other websites== * Mono: ASP.NET Category:Software",
+ "title": "XSP (software)"
+}

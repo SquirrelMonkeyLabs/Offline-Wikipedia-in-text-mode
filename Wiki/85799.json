@@ -1,0 +1,5 @@
+{
+ "id": "85799",
+ "text": "PeaZip is an open source, cross-platform, portable data compression, file manager and encryption software, available for Microsoft Windows and Linux. PeaZip created and can open the \"Pea\" archive format, made by the same corporation. Peazip is written in Free Pascal, using Lazarus. Peazip is under the GNU Lesser General Public License, PeaZip is free software. Peazip can change look, like opacity, colors, and icons. == Full support formats == 7Z, 7Z-sfx, BZip2/TBZ, GZip/TGZ, LPAQ1/5, PAQ8F/JD/L/O, PEA, QUAD/BALZ/BCM, split (.001), TAR, WIM, XZ, ZIP == Just extract or reading formats== ACE, ARJ, CAB, CHM, COMPOUND files (MSI, DOC, PPT, XLS...), CPIO, DEB, ISO CD/DVD images, Java archives (JAR, EAR, WAR), LZH, NSIS installers, OpenDocument, PET/PUP (Puppy Linux installers), PAK/PK3/PK4, RAR, RPM, WIM, XPI, Z, ZIPX ==References== ==Related pages== * List of file archivers * Comparison of file archivers == Other websites == * PeaZip's official website * Frequently Asked Questions Category:Cross-platform software",
+ "title": "PeaZip"
+}

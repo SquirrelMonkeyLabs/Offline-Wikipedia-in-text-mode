@@ -1,0 +1,5 @@
+{
+ "id": "1147592",
+ "text": "Amicable numbers are two numbers that are friends in a special way. If you take all the proper divisors (numbers that divide evenly into another number, excluding the number itself) of each number and add them up, you will find that each number's divisors add up to the other number. The smallest pair of amicable numbers is 220 and 284. Other pairs of amicable numbers include (1184, 1210), (2620, 2924), (5020, 5564), (6232, 6368), (10744, 10856), (12285, 14595), (17296, 18416), (63020, 76084), and (66928, 66992). == Example of Amicable Numbers: 220 and 284 (The Smallest Pair) == * Number 220: The divisors of 220 (not counting 220 itself) are 1, 2, 4, 5, 10, 11, 20, 22, 44, 55, and 110. Adding these divisors gives us: 1+2+4+5+10+11+20+22+44+55+110=284 * Number 284: The divisors of 284 (not counting 284) are 1, 2, 4, 71, and 142. Adding these divisors gives us: 1+2+4+71+142=220 Since the divisors of 220 add up to 284 and the divisors of 284 add up to 220, these two numbers are amicable. Category:Integer sequences",
+ "title": "Amicable numbers"
+}

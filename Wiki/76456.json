@@ -1,0 +1,5 @@
+{
+ "id": "76456",
+ "text": "In astrodynamics, orbital eccentricity shows how much the shape of an object's orbit is different from a circle. Eccentricity (e\\,\\\\!) is defined for all circular, elliptic, parabolic and hyperbolic orbits. It can take the following values: *for circular orbits: e\\,\\\\! is equal to zero, *for elliptical orbits: e\\,\\\\! is more than zero but less than 1, *for parabolic trajectories: e\\,\\\\! is equal to 1, *for hyperbolic trajectories: e\\,\\\\! is more than 1. ==Finding eccentricity== Here is a formula to find eccentricity: e_{obj}=\\frac {r_a-r_p} {r_a+r_p} Where eobj is the eccentricity, ra is the apoapsis (far point) of the object's orbit, and rp is the periapsis (near point) of the object's orbit. The near and far points are the apsides. Category:Orbits",
+ "title": "Orbital eccentricity"
+}

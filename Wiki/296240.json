@@ -1,0 +1,5 @@
+{
+ "id": "296240",
+ "text": "Nmap is a computer program that is used for port scanning (finding out all the ways a computer communicates with other computers on a network). It was written by Gordon Lyon. It can also do other kinds of scanning. This is because Nmap is open source, so many people can help write it to make it better. Nmap works on most operating systems. It works on Linux, Microsoft Windows, Mac OS X, Solaris, and BSD. Most people use it on Linux, but many people use it on Windows. ==What Nmap can do== Here are some things Nmap can do: * Find computers on a network * Find open ports on those computers * Find out what services are using those ports * Find out what operating system is on the computers * Let a programmer choose what to do with the services it finds. The programmer can write Nmap Scripting Engine programs in the Lua programming language. Then Nmap will use those programs to decide what to do. Nmap also finds out other things about computers. It can find out DNS names, MAC addresses, and the kind of computer it is. Category:Software",
+ "title": "Nmap"
+}

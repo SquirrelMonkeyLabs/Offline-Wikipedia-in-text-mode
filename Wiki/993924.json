@@ -1,0 +1,5 @@
+{
+ "id": "993924",
+ "text": "Lossless data compression is a form of data compression, where no information is lost. This means that when the compressed data is uncompressed, it will be the same as the original data. Lossless data compression usually uses redundancy. Many softwares uses this kind of compression. For example, it's used in the ZIP file format and the gzip tool. It is also part of some other techniques that remove information to make file sizes smaller. In the case of lossy compression, some information is lost, and the reconstructed data will not be the same as the original. Category:Data compression",
+ "title": "Lossless data compression"
+}

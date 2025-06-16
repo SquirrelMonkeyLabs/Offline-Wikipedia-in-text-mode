@@ -1,0 +1,5 @@
+{
+ "id": "247897",
+ "text": "Importance sampling typically refers to a Monte Carlo method for sampling from a (target) distribution that cannot be sampled from directly. The method works by sampling from a proposal distribution (P(x)), which is ideally similar to the target distribution (Q(x)), and weighting each sample by the ratio of the likelihoods at the sampled point: w(x) = Q(x)/P(x). Category:Randomised algorithms",
+ "title": "Importance sampling"
+}

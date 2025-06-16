@@ -1,0 +1,5 @@
+{
+ "id": "707775",
+ "text": "An ISO image is an archive file that contains data to be written to an optical disc including the optical disc file system. It's typically a file on a computer with the .iso file extension. == Common Uses == There are multiple uses of .iso files, but here are some examples: * Operating system installers downloaded from the Internet are typically in .iso format, to be written to a CD, DVD, or USB flash drive using a program like Rufus. * Archives of computer software to preserve old software, such as video games and programs that originally came on discs, which was very common in the earlier days of computing. Lots of archvied software can be found on the Internet Archive. * Creating backups of an optical disc. == References == == Other websites == * How to write ISO files to CD, DVD, and BD with Linux using genisoimage, wodim, growisofs, etc. Category:Computer file formats",
+ "title": "ISO image"
+}

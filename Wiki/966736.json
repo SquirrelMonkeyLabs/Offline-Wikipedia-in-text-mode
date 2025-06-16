@@ -1,0 +1,5 @@
+{
+ "id": "966736",
+ "text": "Proof of Stake (PoS for short) is a process that a blockchain network uses to reach a consensus about which participant is allowed to generate the next block. A weighted random selection is used. The weights of the individual participants are determined based on the duration of participation and/or assets (the \"stake\"). In contrast to the Proof of Work used with Bitcoin, Proof of Stake does not require time- and energy-intensive mining. It is not possible to take over the network simply by owning computing power (\"51% attack\"). == References == Category:Cryptocurrency",
+ "title": "Proof of stake"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "1094392",
+ "text": "Windows XP visual styles are a way to change how Windows XP looks. \"Luna\", \"Royale\", \"Zune\", and \"Embedded\" are all official visual styles made by Microsoft. The default visual style is \"Luna\" for Windows XP Home and Professional but other versions such as Windows XP Media Center Edition or Windows Embedded POSReady 2009 come with \"Royale\" and \"Embedded\" set as their default visual style. Microsoft also allows you to download other visual styles from their website. == Custom visual styles == Windows only loads visual styles allowed by Microsoft by default. Due to this, custom visual styles can only be loaded if the uxtheme.dll file is changed to allow custom visual styles. Microsoft knows about this and tells people with the changed file to keep a Microsoft version of the file in case problems happen after updates are installed. == References == Category:Windows (architecture)",
+ "title": "Windows XP visual styles"
+}

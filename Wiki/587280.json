@@ -1,0 +1,5 @@
+{
+ "id": "587280",
+ "text": "Generative adversarial networks are artificial neural networks that work together to give better answers. One neural network is the tricky network, and the other one is the useful network. The tricky network will try to give an input to the useful network that will cause the useful network to give a bad answer. The useful network will then learn not to give a bad answer, and the tricky network will try to trick the useful network again. As this continues, the useful network will get better and not become tricked as often, and the useful network will be able to be used to make good predictions. ==Related pages== * Generative artificial intelligence ==References== Category:Machine learning Category:Generative artificial intelligence",
+ "title": "Generative adversarial network"
+}

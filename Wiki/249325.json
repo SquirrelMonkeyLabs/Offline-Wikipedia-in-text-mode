@@ -1,0 +1,5 @@
+{
+ "id": "249325",
+ "text": "In logic and mathematics, transitivity is a property of a binary relation. It is a prerequisite of an equivalence relation and of a partial order. == Definition and examples == In general, given a set with a relation, the relation is transitive if whenever a is related to b and b is related to c, then a is related to c. For example: *Size is transitive: if A>B and B>C, then A>C. *Subsets are transitive: if A is a subset of B and B is a subset of C, then A is a subset of C. *Height is transitive: if Sidney is taller than Casey, and Casey is taller than Jordan, then Sidney is taller than Jordan. *Rock, paper, scissors is not transitive: rock beats scissors, and scissors beats paper, but rock doesn't beat paper. This is called an intransitive relation. Given a relation R, the smallest transitive relation containing R is called the transitive closure of R, and is written as R^+. == Related pages == * Symmetric relation == References == Category:Mathematics",
+ "title": "Transitivity (mathematics)"
+}

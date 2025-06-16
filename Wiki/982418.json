@@ -1,0 +1,5 @@
+{
+ "id": "982418",
+ "text": "ContextObjects in Spans (COinS) is a way to embed references related metadata in the HTML code of web pages. This allows bibliographic software to publish machine-readable bibliographic items and client reference management software to retrieve references related metadata. The metadata can also be sent to an OpenURL resolver. This allows, for instance, searching for a copy of a book at a clearly particular library. == References == Category:Web design",
+ "title": "COinS"
+}

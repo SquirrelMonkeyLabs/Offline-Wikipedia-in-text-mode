@@ -1,0 +1,5 @@
+{
+ "id": "1158205",
+ "text": "Meshtastic is a decentralized protocol to send long range messages between devices while also using very little power. When a user wants to send a message to the network, they use a technique called LoRa to broadcast their message to their neighbors. Each neighbor then repeats this process until the maximum number of hops is achieved. Because each user is part of the \"mesh\", it does not require existing existing infrastructure such as cell towers, so it is very useful for emergency scenarios or in remote areas. Users can also setup encrypted channels for better privacy or security. To join Meshtastic, users will require a LoRa transmitter/receiver chip and a microprocessor to communicate with it, which is easily purchased as a commercially available board such as the HeltecV3 . == References == Category:Messaging",
+ "title": "Meshtastic"
+}

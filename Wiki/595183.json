@@ -1,0 +1,5 @@
+{
+ "id": "595183",
+ "text": "The Year 2038 problem could affect computers that store time as the number of seconds since 1 January 1970 at 00:00:00 UTC, using a 32-bit signed integer. The biggest number you can store this way is 2,147,483,647 seconds after 1 January 1970. This means 19 January 2038 at 03:14:07 UTC. The problem begins one second after this time. The computer will add 1 to this 32-bit number, and the computer will set the value to negative 2,147,483,648 seconds. This means 13 December 1901 at 20:45:52 UTC. Depending on how the computer has been programmed, the computer could behave incorrectly or even stop running. A solution to this problem is to store the time in a 64-bit value, which will work for 292 billion years. Many computers already store the time in a 64-bit number. Computers that store time in a 32-bit number will need to be reprogrammed before 2038. ==References== Category:Computing",
+ "title": "Year 2038 problem"
+}

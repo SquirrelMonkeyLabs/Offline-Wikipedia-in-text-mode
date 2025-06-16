@@ -1,0 +1,5 @@
+{
+ "id": "498491",
+ "text": "CryptoLocker is a file encrypting ransomware. It first appeared in September 2013. It was transferred using email attachments and botnets. The ransomware encrypts most files on the computer (including connected devices), using an RSA encryption.After infection Cryptolocker scan the victim’s folder structure for files matching a set of file extensions, encrypt them and display a message window that demands a ransom in order to decrypt the files. Cryptolocker use RSA public-key cryptography. Once it has encrypted the files, it will display a window asking for 2 Bitcoin for the decryption program. It will give the user 72 hours to pay the ransom. If the user does not pay the fee in time, the ransomware will uninstall itself and ask the user to download it again. It will then ask the user for 10 Bitcoin, instead of 2. A program to decrypt (fix) files was later made available. ==References== Category:Malware",
+ "title": "CryptoLocker"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "572345",
+ "text": "Pointer aliasing is where two or more pointers reference the same memory location. It can cause issues with optimizing compilers. Category:Computer programming Category:Computer science",
+ "title": "Pointer aliasing (computer programming)"
+}

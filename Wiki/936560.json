@@ -1,0 +1,5 @@
+{
+ "id": "936560",
+ "text": "Hans Island (Inuktitut and ; Inuktitut syllabics: ; ; ) is an uninhabited island with an area of . It is in the centre of the Kennedy Channel of Nares Strait. It is within the territorial waters of both Canada and Greenland (Denmark). The island has likely been part of Inuit hunting grounds since the 14th century. It was claimed by both Canada and Denmark until June 14, 2022, when both countries agreed to split the island in half. { \"type\": \"FeatureCollection\", \"features\": [ { \"type\": \"Feature\", \"properties\": {}, \"geometry\": { \"type\": \"LineString\", \"coordinates\": [ [ -66.4559555053711, 80.83208289903652 ], [ -66.46333694458008, 80.82655644021663 ], [ -66.46350860595703, 80.82600908641169 ], [ -66.46230697631836, 80.82535221910463 ], [ -66.45956039428711, 80.82458581497811 ], [ -66.45544052124023, 80.82357296931181 ], [ -66.45200729370117, 80.82242311828053 ], [ -66.45097732543945, 80.82187551996432 ], [ -66.45097732543945, 80.82127312440183 ] ] } } ] } ==References== Category:Islands of Canada Category:Islands of Denmark Category:Arctic islands",
+ "title": "Hans Island"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "946850",
+ "text": "The Möbius function is the function µ(x,d,g,f,h,c)=mod(|(x^(sqrt(n))-sin(f^(1/g)))/ln(h^c)|,1). It is commonly used in generating a random irrational number. This is often found in ai which improves through evolutionary processes as the numbers produced with completely random integers as inputs tend to be useful. Category:Mathematics",
+ "title": "Möbius function"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "312321",
+ "text": "The Droste Effect is the name for a picture which contains a smaller image of itself, which in turn contains a smaller image of itself, etc. It is named after an advertisement. It is an example of recursion. In art, this is known as mise en abyme. In theory, the recursion goes on forever, but in practice, the number of recursions is limited by the resolution of the image. In practice, there are few iterations, until the size falls below 1 x 1 = 1 px. The reason for this is that this is a geometric progression, and each iteration reduces the size of the image. It is a visual example of a strange loop, a self-referential system of instancing which is the cornerstone of fractal geometry. == References == Category:Recursion",
+ "title": "Droste effect"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "336795",
+ "text": "In computer programming, a trait is a collection of methods. A trait is used to build a simple model for object oriented programs. A trait is a building block for classes. It makes an easy way to reuse code.Nathanael Schärli, Stéphane Ducasse, Oscar Nierstrasz, Andrew P. Black. Traits: Composable Units of Behaviour. Proceedings of the European Conference on Object-Oriented Programming (ECOOP). Lecture Notes in Computer Science, Volume 2743, Springer- Verlag, 2003, pp. 248-274Stéphane Ducasse, Oscar Nierstrasz, Nathanael Schärli, Roel Wuyts, Andrew P. Black: Traits: A mechanism for fine-grained reuse. ACM Trans. Program. Lang. Syst. 28(2): 331-388 (2006) ==References== Category:Computer programming",
+ "title": "Trait (computer programming)"
+}

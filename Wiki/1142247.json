@@ -1,0 +1,5 @@
+{
+ "id": "1142247",
+ "text": "A struct is a way to group different pieces of information together. It is similar to a record in other programming languages. Each piece of information inside a struct is called a field. For example, a struct for a person might have fields for name, age, and height. Structs are useful for storing related data together and are commonly used in languages like C, C++, and Rust. Example in C: struct Person { char name[50]; int age; float height; }; Here, `Person` is a struct that holds a person's name, age, and height. Category:Computer science",
+ "title": "Struct"
+}

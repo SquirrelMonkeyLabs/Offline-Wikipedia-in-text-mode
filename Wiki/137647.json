@@ -1,0 +1,5 @@
+{
+ "id": "137647",
+ "text": "In cryptography, a product cipher is a popular type of stream ciphers that works by executing in sequence a number of simple transformations such as substitution, permutation, and modular arithmetic. Product ciphers usually consist of iterations of several rounds of the same algorithm. Individual rounds themselves are not secure. However, it is hoped that a sufficiently long chain of rounds loads the cipher with sufficient confusion and diffusion properties to make it resistant to cryptanalysis. A product cipher that uses only substitutions and permutations is called a SP-network. Feistel ciphers are another important class of product ciphers. Category:Cryptography",
+ "title": "Product cipher"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "107145",
+ "text": "Becquerel (Bq), equivalent to s-1, is the SI derived unit of radioactivity (A). 1 Bq is defined as the number of times a nucleus decays every second. ==Formula== A = \\frac{-dN}{dt}=\\lambda N where N is the number of radioactive atoms in a radioactive sample, which has no unit, and \\lambda is the decay constant measuring how fast radioactive decay occurs over time, which depends on the nature of the radioactive sample, particularly the constituent isotopes. ===Half-life=== The half-life is the time required for half of the radioactive atoms of a sample to decay. It can be found by the simple formula t = \\frac{0.693}{\\lambda}. ===Petabecquerel=== A petabecquerel corresponds to 1015 times a Bq. The unit is named in honor of French physicists Henri Becquerel. ==Related pages== *Curie *Sievert *Atomic orbital *Atomic physics *Particle physics *Nuclear physics *Quantum mechanics *Classical mechanics *Nuclear binding energy *Mass-energy equivalence ==References== Category:SI derived units Category:Units of frequency Category:Units of radioactivity",
+ "title": "Becquerel"
+}

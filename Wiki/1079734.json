@@ -1,0 +1,5 @@
+{
+ "id": "1079734",
+ "text": "In computing, paging is the name of a technology that allows virtual memory. Sometimes, it is called swapping. It means that the operating system has a table, where it maps virtual adresses to real adresses. As the virtual address space is usually larger than the computer memory, a page is loaded when it is first accessed. In that context, page means a small part of memory, with data in it. Processors also do this, in a part of the processor called the memory- management unit, or MMU. Most of the time, the page that is loaded needs to replace anoher page, which is written to disk. There are different stragegies what page to replace. Among them are FIFO Buffers, and LRU. Category:Computing",
+ "title": "Paging"
+}

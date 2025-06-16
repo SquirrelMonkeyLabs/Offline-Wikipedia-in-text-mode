@@ -1,0 +1,5 @@
+{
+ "id": "139445",
+ "text": "In cryptography, a secure channel is a way of transferring data that is very difficult (called resistant) to overhear or copy (called interception) and understand (called decrypt) or change (called tampering). A confidential channel is a way of transferring data that is resistant to interception, but may not be resistant to tampering and may not be resistant to impersonation by someone else (called spoofing). An authenticatable channel is a way of transferring data that is resistant to spoofing but may not be resistant to interception or tampering. Category:Cryptography",
+ "title": "Secure channel"
+}

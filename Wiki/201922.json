@@ -1,0 +1,5 @@
+{
+ "id": "201922",
+ "text": "Portable application creators allow the creation of portable applications (also called: portable apps). ==Creators of true portable applications== No agent/client is required for these (also called \"agentless\" solutions): *VMware ThinApp *Xenocode Virtual Application Studio ISV Edition *InstallFree *Ceedo (using Argo Application installer) *LANDesk Application Virtualization *CDE (Linux) ==Related software== These programs require an agent or client (to run the compiled app) *Citrix XenApp *Microsoft Application Virtualization *Symantec Endpoint Virtualization Suite *AppZero *Endeavors Application Jukebox == References == Category:Computing",
+ "title": "Portable application creators"
+}

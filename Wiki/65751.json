@@ -1,0 +1,5 @@
+{
+ "id": "65751",
+ "text": "In net jargon (words people use about the Internet) a client is a computer used by a user to connect to a network and make requests to servers. Each server, having received such a request, then makes a response to the client that contacted it. For example, a web browser is a client software. When a user enters an address (also known as a URL) into their browser's address bar, they are sending a request from their computer (the client) to the server where the information connected to the URL is stored. If all goes well, the requested information is sent back from the server to the client — their computer. Category:Internet",
+ "title": "Client"
+}

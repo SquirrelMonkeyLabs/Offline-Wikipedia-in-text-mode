@@ -1,0 +1,5 @@
+{
+ "id": "1176304",
+ "text": "In set theory, a class is a collection of elements that is identified by some property they all share. All sets are classes, but many important classes cannot be sets; a class which is not a set is a proper class. Classes are not elements: the only way for one class to include another is if the second class is also a set. In other words, classes cannot contain proper classes. The distinction between classes and sets was introduced to resolve the paradoxes of naive set theory. In modern set theory, these paradoxes are instead proofs that a given class is proper. In naive set theory, Russell's paradox states that \"the set of all sets that do not contain themselves does not exist\"; in modern theory, it instead states \"the class of all sets that do not contain themselves is not a set\".",
+ "title": "Class (set theory)"
+}

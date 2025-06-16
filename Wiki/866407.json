@@ -1,0 +1,5 @@
+{
+ "id": "866407",
+ "text": "An autoregressive model is a kind of statistical model. Like all statistics models, the idea is to describe a random process. In an autoregressive model, the output value depends linearly on one of the previous values of the model, plus a random variable, which describes that there is some randomness in the outcome. Category:Statistics",
+ "title": "Autoregressive model"
+}

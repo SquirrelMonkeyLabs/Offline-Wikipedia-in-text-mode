@@ -1,0 +1,5 @@
+{
+ "id": "50079",
+ "text": "A dictionary attack is a method used in cryptography to find a key (or username, or password). A large number of words are tried. These words usually come from a special collection, called a \"dictionary\". The attack is based on trying all the strings in a pre-arranged listing. The listing is usually derived from a list of words, such as in a dictionary (hence the phrase dictionary attack).Jeff Atwood. \"Dictionary Attacks 101\". == References == Category:Cryptography",
+ "title": "Dictionary attack"
+}

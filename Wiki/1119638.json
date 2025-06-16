@@ -1,0 +1,5 @@
+{
+ "id": "1119638",
+ "text": "L'Hôpital's rule is a mathematical rule that can calculate limits of an indeterminate form using derivatives. When the rule is used (it can be used multiple times), it turns an indeterminate form into a value that can be solved. L'Hôpital's rule states that for functions f and g which are continuous over an interval, if \\lim_{x\\to c} f(x) = \\lim_{x\\to c} g(x) = 0 \\text{ or } \\pm \\infty and g'(x) eq 0 and \\lim_{x \\to c} \\frac{f'(x)}{g'(x)}exists, then \\lim_{x\\to c} \\frac{f(x)}{g(x)} = \\lim_{x\\to c} \\frac{f'(x)}{g'(x)} When the rule is used, it usually simplifies the limit or changes it to a limit that can be solved. Category:Calculus",
+ "title": "L'Hôpital's rule"
+}

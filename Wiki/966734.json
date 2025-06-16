@@ -1,0 +1,5 @@
+{
+ "id": "966734",
+ "text": "Proof-of-space (PoSpace), also termed \"proof-of-capacity\" (PoC), is a way of expressing interest in a service (e.g. email service) by using a big amount of memory or disk space to solve a problem, presented by the service provider. This concept was first formulated in 2013 by Polish expert Stefan Dzembowski. The principle is similar to the term \"proof-of-work\". The method is based on the use of free space on a file storage device (for example, a hard disk), previously allocated by users, rather than computing power for mining cryptocurrencies, which is a less energy-consuming method and, most importantly, an economical alternative to the classic method of mining digital currencies. Hard disk mining is different in that you don't need to buy expensive video cards, high-power power supplies, and motherboards with a huge number of connectors to get the job done. To earn on HDD, a simple laptop with standard parameters and a built-in video card is enough. However, the requirements for disk characteristics are increasing. == References == Category:Computing",
+ "title": "Proof of space"
+}

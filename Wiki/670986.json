@@ -1,0 +1,5 @@
+{
+ "id": "670986",
+ "text": "In number theory, Euler's totient theorem (also known as the Fermat–Euler theorem) states that if n and a are coprime, (meaning that the only number that divides n and a is 1), then the following equivalence relation holds: : > a^{\\varphi (n)} \\equiv 1 \\pmod{n} where \\varphi(n) is Euler's totient function. Euler's theorem is a more refined theorem of Fermat's little theorem, which Pierre de Fermat had published in 1640, a hundred years prior. Fermat's theorem remained unproven until the work of 18th-century Swiss mathematician Leonhard Euler. ==References== Category:Theorems in number theory",
+ "title": "Euler's totient theorem"
+}

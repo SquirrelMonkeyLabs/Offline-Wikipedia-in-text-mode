@@ -1,0 +1,5 @@
+{
+ "id": "728260",
+ "text": "Screen tearing is a type of video error. It can happen when multiple video frames are displayed at a single time on a computer monitor. The frames will each be shown on different parts of the screen, and can leave horizontal lines if the pictures are different at the point. Screen tearing can be stopped by synchronizing the frames that are put on the screen. Vertical synchronization, or VSync, is one popular way. Another way is FreeSync or G-Sync, but these options only work with certain GPUs and monitors. Category:Graphics",
+ "title": "Screen tearing"
+}

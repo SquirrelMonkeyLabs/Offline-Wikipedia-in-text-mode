@@ -1,0 +1,5 @@
+{
+ "id": "465268",
+ "text": "In mathematics and logic, the universal quantifier is a quantifier used to state that a proposition applies to all elements in the universe of discourse. An example that uses this quantifier would be the proposition \"All men are mortal\". Usually, a turned A (∀) is used to denote the universal quantifier, \"for all x\" is written as either \"∀x\", \"∀(x)\". Predicate logic and syllogisms look at the properties of universal quantification. Propositions can be falsified. To falsify a proposition which contains a universal quantifier, it is sufficient to find one element of the universe of discourse where the proposition is false. This element is known as a counterexample. == Related pages == * Existence quantifier == References == Category:Logic",
+ "title": "Universal quantifier"
+}

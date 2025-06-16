@@ -1,0 +1,5 @@
+{
+ "id": "1158197",
+ "text": "LoRa (short for \"Long Range\") was created in 2014 by a company called Cycleo to send and receive radio signals that can handle a lot of noise while using very little power. It works by turning data into special sounds called \"chirps\". Each chirp is a signal that changes its frequency over time. This makes it very resistant to noise as these chirps use many pitches and last a long time which allows for more opportunities to decode them. However, this also means sending data with LoRa can take a lot more time, so it is commonly used for only sending small messages.",
+ "title": "LoRa"
+}

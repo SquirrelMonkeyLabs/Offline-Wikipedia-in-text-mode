@@ -1,0 +1,5 @@
+{
+ "id": "460358",
+ "text": "The Mercator projection is a cylindrical map projection which is widely used in cartography today. It was developed by Gerardus Mercator in 1569. It is not a physical projection, and cannot be constructed using geometric tools. On a small scale, geometric shapes can be moved around the map, without distorting them (this property is known as conformity). As a downside, the scale of the shape and the direction of lines may change when shapes are moved. For example, Africa is actually 15 times larger than Greenland, but on this map projection they look the same size. Today, Mercator projections are seldom used in [atlas]es or maritime charts but still used for online maps such as Google Maps. Category:Map projections",
+ "title": "Mercator projection"
+}

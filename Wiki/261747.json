@@ -1,0 +1,5 @@
+{
+ "id": "261747",
+ "text": "exit in computing means to terminate a task or program. On many computer operating systems, a process is stopped by making a system call, called exit. An exit in a multithreading environment means that a thread of execution has stopped running. The operating system reclaims memory that was used by the process. The process is said to be a dead process after it terminates. ==Related pages== * exit (command) Category:Computing",
+ "title": "Exit (system call)"
+}

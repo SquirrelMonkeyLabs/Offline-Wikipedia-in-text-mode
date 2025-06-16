@@ -1,0 +1,5 @@
+{
+ "id": "1173686",
+ "text": "A virtualization software is a computer program which can be used to run virtual machines also known as a Virtual Environment on a host computer. A host machine can be either of type hardware-assisted or of type os-level virtualization. A virtualization software by default ensures complete isolation and separation between the host and the guest machines. Many most commonly used virtualization softwares are: # VMware Workstation # VirtualBox # Hyper-V # QEMU # ProxMox",
+ "title": "Virtualization software"
+}

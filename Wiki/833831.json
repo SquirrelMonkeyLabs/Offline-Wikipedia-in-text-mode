@@ -1,0 +1,5 @@
+{
+ "id": "833831",
+ "text": "A disk partition is a section of a data storage device (such as a hard disk). A disk partition can have one of several formats, such as NTFS (found on Windows) to ext4 (found on Linux). Disk partitions start at one number and end at another. These numbers are addresses in the hard drive. The address points to one byte and ends at another on the disk. Different partition tables allow for different amounts of partitions on a given device. Master Boot Record (MBR) has a maximum of 4 partitions. GUID Partition Table (GPT) has a maximum of 128 partitions. Partitions can be edited by using a partition editor. Category:Software Category:Systems",
+ "title": "Disk partition"
+}

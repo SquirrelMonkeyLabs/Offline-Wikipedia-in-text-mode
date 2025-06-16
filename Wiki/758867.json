@@ -1,0 +1,5 @@
+{
+ "id": "758867",
+ "text": "MBM (an abbreviation of Multibitmap) is a file format that is a collection of bitmap images (which is why the file format has that name). The images are not stored the same. Instead, the images are stored with a modified bitmap header with no compression or 8-bit, 12-bit, 16-bit or 24-bit RLE compression. MBM files are used by most Symbian GUI applications to store graphics. ==Related pages== * Symbian OS Category:Graphics Category:Computer file formats",
+ "title": "MBM (file format)"
+}

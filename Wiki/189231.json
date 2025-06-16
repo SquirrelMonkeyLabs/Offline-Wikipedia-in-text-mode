@@ -1,0 +1,5 @@
+{
+ "id": "189231",
+ "text": "A markup language is a computer language. It is made up of a set of instructions, and of data. It is not the same as a programming language, as only programming languages can have \"if\" statements and other conditional statements. The first markup languages were used for printing; there was the text, and there were instructions how the text should be printed. The source code is generally done in ASCII. Then there are tags. That way, LaTeX (and with that, Wikipedia), uses the instruction \\mu to get the symbol \\mu, the Greek letter \"Mu\". HTML uses &micro; to get the same symbol. ==References==",
+ "title": "Markup language"
+}

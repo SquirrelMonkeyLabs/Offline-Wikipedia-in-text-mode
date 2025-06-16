@@ -1,0 +1,5 @@
+{
+ "id": "630600",
+ "text": "Double factorial is a method of calculating how many times a number is repeated in a geometric equation. This way, we can calculate the number of times a product is used in its life-time. The double factorial of n is written as n!!. When n is a positive odd integer, n!! is defined as n \\cdot (n-2) \\cdot\\, \\cdots \\, \\cdot 3 \\cdot 1. When n is an positive even integer, n!! is defined as n \\cdot (n-2) \\cdot\\, \\cdots \\, \\cdot 4 \\cdot 2. By definition, 0!! = 1. == Related pages == * Factorial * Permutation == References == Category:Integer sequences Category:Number theory",
+ "title": "Double factorial"
+}

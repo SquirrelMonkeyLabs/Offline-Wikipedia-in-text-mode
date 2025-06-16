@@ -1,0 +1,5 @@
+{
+ "id": "796150",
+ "text": "In probability, the geometric distribution with probability of success p, written \\operatorname{Geo}(p), is a discrete probability distribution defined on non-negative integers. It is used to model the number of trials needed to obtain a first success, where the probability of success of each trial is p. An example involving geometric distribution is the number of times a coin needs to be tossed in order to get the first head. The geometric distribution is the discrete analogue of the exponential distribution. == Related pages == * Bernoulli distribution == References == Category:Probability distributions Category:Functions and mappings Category:Statistics",
+ "title": "Geometric distribution"
+}

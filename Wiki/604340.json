@@ -1,0 +1,5 @@
+{
+ "id": "604340",
+ "text": "In Computer science, a queue is a data structure, used for storing items, before they are processed. Generally, the following operations exist: * Enqueue: add the item to the back of the queue * Dequeue: remove the item at the front of the queue * Optionally, there may be an operation to look at the item at the front of the queue, without removing it. Items that are between the first and the last element of the queue are not directly accessible. There is a specialization, called priority queue: In a priority queue, each item also has a weight, which determine the position of the item in a queue. Category:Data structures",
+ "title": "Queue (abstract data type)"
+}

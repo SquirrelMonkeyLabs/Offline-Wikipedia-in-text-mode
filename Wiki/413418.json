@@ -1,0 +1,5 @@
+{
+ "id": "413418",
+ "text": "A Sophie Germain prime is a type of prime number. If a prime number is still prime after being multiplied by 2 and adding 1 to the answer, then the original prime is a Sophie Germain prime. A mathematical definition is: a prime number, denoted by p, is a Sophie Germain prime if 2p+1 is also a prime number. 2p+1 is called a safe prime if it is a prime number. Sophie Germain primes are named after the French mathematician Sophie Germain. Many mathematicians believe that there are an infinite amount of Sophie Germain primes, but this has not been proven. ==Examples== 11 is a Sophie Germain prime because 23 ((2 × 11) + 1 = 23) is also a prime number. 13 is a prime number but not a Sophie Germain prime because 27 ((2 × 13) + 1 = 27) is not a prime number. Category:Classes of prime numbers",
+ "title": "Sophie Germain prime"
+}

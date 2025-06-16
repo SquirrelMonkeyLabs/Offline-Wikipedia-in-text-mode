@@ -1,0 +1,5 @@
+{
+ "id": "312115",
+ "text": "The Galaxy Nexus is a smartphone made by Google and Samsung, using the Android operating system. The phone started being sold on November 17, 2011. == Unlocking and rooting == The Galaxy Nexus is designed to be a developer- friendly phone. It is very easy to unlock and root. To unlock the bootloader, boot the phone into fastboot mode by holding down both volume keys while powering the phone on, and connect the phone to a computer with the Android SDK installed and run the command \"fastboot oem unlock\". This is in contrast to most other mobile phones which are designed to be difficult to unlock. This phone uses NFC, which allows it to communicate wirelessly with other Android devices. == Related pages == * Google Nexus == References == == Other websites == * Official Galaxy Nexus page * Galaxy Nexus at Samsung *Engadget coverage Category:Nexus mobile phones Category:Samsung Galaxy Category:Mobile phones introduced in 2011",
+ "title": "Galaxy Nexus"
+}

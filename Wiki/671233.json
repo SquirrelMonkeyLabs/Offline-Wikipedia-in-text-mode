@@ -1,0 +1,5 @@
+{
+ "id": "671233",
+ "text": "Digital audio is sound which has been turned into a computer file. Digital audio files can be played on MP3 players, computers, smartphones, and more. Digital audio may be uncompressed, such as CDs or WAV files, losslessly compressed, such as FLAC files, or lossily compressed, such as MP3 files. Audio is converted to digital format using a device called an analog to digital converter (ADC). The ADC takes samples of the amplitude of the signal at a specific sample rate (for example, 44100 times per second). These samples are binary numbers. When converting back to analog, a device called a digital to analog converter (DAC) recreates the original analog signal that matches the given samples. Category:Sound Category:Electronics",
+ "title": "Digital audio"
+}

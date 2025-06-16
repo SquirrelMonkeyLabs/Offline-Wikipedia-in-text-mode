@@ -1,0 +1,5 @@
+{
+ "id": "801561",
+ "text": "Sequential proportional approval voting (SPAV) is a way of electing candidates that gives proportional representation. It combines approval voting and the highest averages method. == Overview == SPAV elects the candidate who would win an election in Approval voting (ignoring any candidates that were already elected), and then reduces the power of voters who voted for that candidate. This repeats until there are as many elected candidates as necessary. The strength of a voter's vote after a candidate they voted for wins is equal to (1/m+1), with m being the number of candidates the voter supported that have won so far. For example, a voter who voted for 2 candidates that won and 3 that did not has only 1/3rd of their vote power remaining. == References == Category:Voting systems",
+ "title": "Sequential proportional approval voting"
+}

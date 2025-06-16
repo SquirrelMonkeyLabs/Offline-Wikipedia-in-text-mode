@@ -1,0 +1,5 @@
+{
+ "id": "101946",
+ "text": "WAV (or WAVE), short for Waveform Audio File Format, is a Microsoft and IBM audio file format standard for storing an audio bitstream on PCs. It resembles the RIFF bitstream format in the sense that it stores data in “chunks”. It is also close to the IFF and the AIFF format used on Amiga and Macintosh computers, respectively. It is the main format used on Windows systems for raw and typically uncompressed audio. The default bitstream encoding is the Microsoft Pulse Code Modulation (LPCM) format, although other codecs, such as MP3, are allowed as well. Category:Computer file formats for audio",
+ "title": "WAV"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "261021",
+ "text": "Wheel theory is the theory of wheels. A wheel is an algebraic structure where division by 0 has meaning. The term wheel was inspired by the topological picture \\odot. == Definition == A wheel is an algebraic structure satisfying(for all values x, y, and z): * Addition and multiplication are commutative and associative, with 0 and 1 as their respective identities. * //x = x * /(xy) = /y/x * xz + yz = (x + y)z + 0z * (x + yz)/y = x/y + z + 0y * 0\\cdot 0 = 0 * (x+0y)z = xz + 0y * /(x+0y) = /x + 0y * 0/0 + x = 0/0 Wheels replace the usual division with a unary operator applied to one argument /x similar (but not identical) to the multiplicative inverse x^{-1}, such that a/b becomes shorthand for a \\cdot /b = /b \\cdot a. Also, \\bot replaces the fraction 0/0. ==Sources== *Carlström, Jesper: . Mathematical Structures in Computer Science, 14(2004): no. 1, 143–184 (also available online here ). ==References== Category:Abstract algebra",
+ "title": "Wheel theory"
+}

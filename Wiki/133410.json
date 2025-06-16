@@ -1,0 +1,5 @@
+{
+ "id": "133410",
+ "text": "Ubuntu Live USB Creator is an official tool to create Live USBs of Ubuntu from an iso image. The tool is already included in the repositories of Ubuntu 8.10. ==Features== *Optional persistence (all changes made to the system are saved, unlike a Live CD) *Progress indicator *Does not format the device ==Related pages== * List of tools to create Live USB systems * Live USB system creator == Other websites == *Project page at Launchpad *cd2usb - Similar tool (for Microsoft Windows) Category:Linux software",
+ "title": "Ubuntu Live USB creator"
+}

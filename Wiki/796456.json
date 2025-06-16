@@ -1,0 +1,5 @@
+{
+ "id": "796456",
+ "text": "In mathematics, the infimum or greatest lower bound of a set A, written as \\inf(A), is the greatest element among all lower bounds of A. Similarly, the supremum or least upper bound of A, written as \\sup(A), is the smallest element among all upper bounds of A. For example, if A is the set \\\\{ \\tfrac{1}{1}, \\tfrac{1}{2}, \\tfrac{1}{3}, \\ldots \\\\}, then \\inf(A) = 0 and \\sup(A) = 1. Infimum and supremum are unique, if they exist. Infimum and supremum are key concepts in the field of mathematical analysis. == Related pages == * Maximum and minimum == References == Category:Mathematical analysis Category:Set theory",
+ "title": "Infimum and supremum"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "1165280",
+ "text": "LangChain is a software that enables the easier use Large language model (LLM) in different applications. It helps connect language models to tasks, including reading and summarizing documents, creating chatbots, and analyzing code. ==History== LangChain was started in October 2022 as an open-source project by Harrison Chase. It quickly became popular, with many contributors and online discussions. In 2023, the project raised over $30 million in funding. Later that year, it introduced LangChain Expression Language (LCEL) for defining actions and LangServe for hosting LCEL code as an API. ==References== Category:Generative artificial intelligence",
+ "title": "LangChain"
+}

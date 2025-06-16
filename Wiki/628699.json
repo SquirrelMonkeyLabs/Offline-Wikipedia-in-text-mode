@@ -1,0 +1,5 @@
+{
+ "id": "628699",
+ "text": "Script.NET or S# is a programming language that provides scripting functionality in Microsoft .NET applications. The syntax of Script.NET is similar to JavaScript. It is designed to be a simple and efficient scripting language allowing to customize .NET applications. The language has a true runtime interpreter, and it is executed without generating additional in- memory assemblies. Script.NET is an open-source project. == External References == ScriptDotNet.Homepage Category:Programming languages",
+ "title": "Script.NET"
+}

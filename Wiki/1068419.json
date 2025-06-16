@@ -1,0 +1,5 @@
+{
+ "id": "1068419",
+ "text": "The representer theorem states that any function that takes the form: f^* \\in \\arg\\min_{f \\in \\mathcal{H_k}} \\sum_{i=1}^{n}\\ell(f(x_i),y_i) + \\Omega({\\Vert f \\Vert}^2_\\mathcal{H_k}) where \\ell (\\cdot) is any loss function and \\Omega(\\cdot) is any regularization term, the optimal solution, \\mathcal{f}^*, will take the form: \\mathcal{f}^* = \\sum_{i=1}^{n} \\alpha_i k(x_i, \\cdot) Where k(x_i, \\cdot) is a kernel. Category:Mathematics",
+ "title": "Representer theorem"
+}

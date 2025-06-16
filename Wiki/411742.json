@@ -1,0 +1,5 @@
+{
+ "id": "411742",
+ "text": "Electronic filters are electrical circuits which perform signal processing functions, specifically to remove unwanted frequency components from the signal, to enhance wanted ones, or both. Electronic filters can be: *passive or active *analog or digital *high-pass, low-pass, bandpass, band-reject (band reject; notch), or all-pass. *discrete-time (sampled) or continuous-time *linear or non-linear *infinite impulse response (IIR type) or finite impulse response (FIR type) The most common types of electronic filters are linear filters, regardless of other aspects of their design. Digital filters use a Fourier transform. Category:Electronic circuits",
+ "title": "Filter (electronics)"
+}

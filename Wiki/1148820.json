@@ -1,0 +1,5 @@
+{
+ "id": "1148820",
+ "text": "Vacuum casting is a manufacturing process used to make small batches of parts. It starts with a master model (like a prototype) to create a silicone mold. Liquid material, usually plastic, is poured into the mold under a vacuum to remove air bubbles and ensure a smooth, detailed part. It's commonly used in industries like automotive, electronics, and medical devices to test designs or make small amounts of final products. == Process == * Master Model: Start with a high-quality model, often made by 3D printing or CNC machining. * Silicone Mold: Cover the master model with liquid silicone to create a mold, then let it harden. * Remove the Model: Cut the silicone to take out the master model, leaving a cavity shaped like the part. * Pour the Material: Pour liquid plastic or resin into the mold under vacuum to remove air bubbles. * Cure the Part: Let the material harden, then remove the finished part from the mold. ==References== Category:Manufacturing",
+ "title": "Vacuum casting"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "526983",
+ "text": "In mathematics, precision describes the level of exactness in a number's digits. For example, the number 54.6 has precision 1 (one decimal digit). A number with end zeroes (\"00\") has a negative precision, such as 500 having precision -2, or 4,000 as precision -3. A whole number (not ending in \"0\") has precision 0. The level of precision differs from the word \"accuracy\" of a number, which means the correctness or truth of a number as used to describe an item or count. Category:Mathematics",
+ "title": "Precision (numbers)"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "127703",
+ "text": "The chinese remainder theorem is a theorem from number theory. It is about congruence. The original form was: :How many soldiers are there in Han Xin's army? – If you let them parade in rows of 3 soldiers, two soldiers will be left. If you let them parade in rows of 5, 3 will be left, and in rows of 7, 2 will be left. The theorem says that there will be a solution to this question if there's no common factor between the row sizes. Using the original example, that is that no number divides both 3 and 7, both 3 and 5, nor both 5 and 7 (except, of course, 1). They're all coprime. The Chinese remainder theorem is used in cryptography. For example, for the RSA algorithm. == Other websites == * Chinese remainder theorem at cut-the-knot * \"Chinese Remainder Theorem\" by Ed Pegg, Jr., The Wolfram Demonstrations Project, 2007 Category:Theorems in number theory",
+ "title": "Chinese remainder theorem"
+}

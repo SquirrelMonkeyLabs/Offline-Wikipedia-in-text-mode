@@ -1,0 +1,5 @@
+{
+ "id": "537616",
+ "text": "Least squares is the name of a procedure in mathematics, to construct a function from a number of observed values. The basic idea is to construct the function in such a way that the sum of the difference between the observed value and its data point is minimized. Since the difference may go in either direction, the value of the difference is squared, for each value. Carl Friedrich Gauss said he developed the method in 1795. He used it to recover the lost asteroid 1 Ceres and published it in 1807. He used ideas from Pierre- Simon Laplace. Adrien-Marie Legendre developed the same method independently, in 1805. == Related pages == * Normal distribution * Ordinary least squares ==Further reading== * Lawson, C. L., & Hanson, R. J. (1995). Solving least squares problems (Vol. 15). SIAM. * Bjorck, A. (1996). Numerical methods for least squares problems (Vol. 51). SIAM. Category:Mathematical approximation Category:Statistics",
+ "title": "Least squares"
+}

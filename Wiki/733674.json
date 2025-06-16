@@ -1,0 +1,5 @@
+{
+ "id": "733674",
+ "text": "SHA-1 is a mathematical algorithm to hash a certain string. It creates a one- way change from the source string to the result. It is commonly used for security and data loss, but there may be other cases. Computer programs exist to crack SHA-1 hashes by hashing random strings and storing the result. An example SHA-1 hash is \"664add438097fbd4307f814de8e62a10f8905588\" (the string \"Wikipedia\" hashed using SHA-1). Category:Algorithms",
+ "title": "SHA-1"
+}

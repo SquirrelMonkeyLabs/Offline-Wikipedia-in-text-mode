@@ -1,0 +1,5 @@
+{
+ "id": "500108",
+ "text": "ILOVEYOU was a computer worm that first appeared on May 5, 2000. The worm was sent by email using the subject \"ILOVEYOU\", with the worm attached. The worm would look like a text file, until it was opened. The file would be called LOVE-LETTER-FOR-YOU.txt.vbs. Because of Microsoft Windows' default options, the user would not see the \".vbs\" extension, and mistake it for a harmless text file which cannot execute code. Many of the files on the computer would be replaced by the worm. Depending on what version was run, the payload would be different, because the worm could be changed so easily. The worm was written in Visual Basic Script, and used Microsoft Outlook to spread. It infected over 45 million computers and caused $10 billion in damages ==References== Category:Malware",
+ "title": "ILOVEYOU"
+}

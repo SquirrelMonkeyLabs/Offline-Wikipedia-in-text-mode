@@ -1,0 +1,5 @@
+{
+ "id": "236141",
+ "text": "INPUT INPUT OUTPUT A B A XOR B 0 0 0 0 1 1 1 0 1 1 1 0 The XOR gate (Exclusive OR) is a logic gate that outputs 1 (true) when exactly one of its inputs is 1 (true). That means that if both of its inputs are the same, the output will be 0 (false). The XOR gate does what is called an exclusive disjunction in logic. == Symbols == There are three symbols for the XOR gate: MIL/ANSI Symbol IEC Symbol DIN Symbol Category:Logic gates",
+ "title": "XOR gate"
+}

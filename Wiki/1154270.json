@@ -1,0 +1,5 @@
+{
+ "id": "1154270",
+ "text": "An identity function is a function which maps a set S to itself. In particular, a function id maps any element (such as numbers) to themselves. Written another way, is the function from X → X, f(x) = x, which maps every element x to itself. In elementary math, the main example is f(x) = x with the set of numbers. == Notation == The function idS typically denotes the identify function of a set S, the S in the subscript denotes the set S. == Algebraic properties == Given two sets X and Y with function f from X → Y, we have the two identities idX and idY, as well, having \"○\" denote function composition. We have the following f\\circ id_X=f=id_Y\\circ f Category:Functions and mappings Category:Set theory",
+ "title": "Identity function"
+}

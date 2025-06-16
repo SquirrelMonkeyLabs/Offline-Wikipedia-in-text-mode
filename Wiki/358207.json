@@ -1,0 +1,5 @@
+{
+ "id": "358207",
+ "text": "In multivariable calculus, the partial derivative of a function is the derivative of one variable when all other variables are held constant. In other words, a partial derivative takes the derivative of certain variables of a function while not differentiating other variable(s). Partial derivatives are often used in multivariable functions. For partial derivatives of function f with respect to variable x, the notation \\frac{\\partial f}{\\partial x}, f_x, \\partial_x f is standard, but other notations are sometimes used. == Examples == If we have a function f(x, y)=x^2+y, then there are several partial derivatives of f(x, y) that are all equally valid. For example, :\\frac{\\partial }{\\partial y}[f(x, y)]=1 Or, we can do the following: :\\frac{\\partial}{\\partial x}[f(x, y)]=2x ==Related pages== *Difference quotient *Partial differential equation == References == Category:Calculus",
+ "title": "Partial derivative"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "954568",
+ "text": "The Manhattan distance is a different way of measuring distance. It is named after the grid shape of streets in Manhattan. If there are two points, (x_1,y_1) and (x_2,y_2), the Manhattan distance between the two points is |x_1 - x_2| + |y_1 - y_2|. This distance can be imagined as the length needed to move between two points in a grid where you can only move up, down, left or right. ==Extension== This definition can be used for three and higher dimensions too. If there are two vectors, \\mathbf{p}=(p_1,p_2 \\dots, p_n) and \\mathbf{q}=(q_1,q_2 \\dots, q_n), then the manhattan distance between the two points is the absolute value of the difference between all numbers in the vector. Or, in notation: \\sum^n_{i=1}|p_i-q_i| Category:Mathematical notation",
+ "title": "Manhattan distance"
+}

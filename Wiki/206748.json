@@ -1,0 +1,5 @@
+{
+ "id": "206748",
+ "text": "The degree of a polynomial p(x) is the highest exponent that occurs inside that polynomial. It is represented by the symbol \\deg (p(x)). For example, if we look at the polynomial 2x^3 - 7x^2 + 5x - 4, then we can see that the degree of this polynomial is 3, because the highest power in the variable x is 3. It occurs in the term x^3. The name of the variable is not important. For example, the polynomial -6y^5 + 2y^3 - 25y - 58 has degree 5, because the highest power of the variable, in this case y, is 5, which occurs in the term y^5. == Related pages == * Fundamental theorem of algebra, a theorem which states that a polynomial of degree n has n complex roots. == References == Category:Algebra Category:Mathematics",
+ "title": "Degree (mathematics)"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "116049",
+ "text": "OpenDocument Format (ODF) is a computer file format for word processors, presentation software and other computer programs. For example, OpenOffice.org and LibreOffice are programs that use ODF to save text, slideshows and spreadsheets. The format was created by Sun Microsystems for their StarOffice office suite. The content of an ODF file are XML files that are inside a ZIP. By using ZIP compression, the files are much smaller. The most common filename extensions used for OpenDocument documents are: * `.odt` and `.fodt` for word processing (text) documents * `.ods` and `.fods` for spreadsheets * `.odp` and `.fodp` for presentations * `.odg` and `.fodg` for graphics * `.odf` for formula, mathematical equations ==References== Category:Computer file formats Category:OpenOffice.org Category:LibreOffice",
+ "title": "OpenDocument"
+}

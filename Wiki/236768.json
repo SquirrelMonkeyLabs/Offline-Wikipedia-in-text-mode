@@ -1,0 +1,5 @@
+{
+ "id": "236768",
+ "text": "INPUT INPUT OUTPUT A B A XNOR B 0 0 1 0 1 0 1 0 0 1 1 1 The XNOR gate is a logic gate that outputs 1 (true) when both of its inputs are equal. If only one output is high(1) the output is low (0). It is opposite of XOR GATE. == Symbols == There are three symbols for the XNOR gate: MIL/ANSI Symbol IEC Symbol DIN Symbol Category:Logic gates",
+ "title": "XNOR gate"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "969850",
+ "text": "In mathematics, a linear differential equation is a differential equation that is stated by a linear polynomial in the unknown function and its derivatives. It is an equation of the form: :a_0(x)y + a_1(x)y' + a_2(x)y \\cdots + a_n(x)y^{(n)} = b(x) where and are random differential functions that do not need to be linear. And are the derivatives of an unknown function that follow after the variable . This equation is an ordinary differential equation (ODE). A linear differential equation may also be a linear partial differential equation (PDE), if the unknown function depends on several variables. And the derivatives that show in the equation are partial derivatives. Category:Differential equations",
+ "title": "Linear differential equation"
+}

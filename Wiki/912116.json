@@ -1,0 +1,5 @@
+{
+ "id": "912116",
+ "text": "A flexible manufacturing system (FMS) is a manufacturing system that allows the system to react to some changes in the work environments called as Routing Flexibility and Machine Flexibility. Routing Flexibility refers to the system's ability to produce different product types and order of manufacturing operations, while Machine Flexibility represents the ability to use multiple machines to perform the same operations to achieve large-scale volume or capacity of products. Most FMS mainly consist of four main systems: 1) automated \"CNC machines\", 2) \"Material handling\" system to optimize parts flow, 3) \"Central Control Computer\" which controls material movements and machine flow, and 4) \"Computer Communication protocol\" that allows short emergency messages (on dangerous machines & robots collision, etc.) to interrupt and have higher priority compared to other trivial messages in the industrial computer networks.Hary Gunarto, An Industrial FMS Communication protocol, UMI (Univ. Microfilms International), Ann Arbor, Michigan, 160 pp, 1988 ==Reference== Category:Manufacturing",
+ "title": "Flexible manufacturing system"
+}

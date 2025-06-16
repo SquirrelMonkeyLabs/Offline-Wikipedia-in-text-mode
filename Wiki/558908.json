@@ -1,0 +1,5 @@
+{
+ "id": "558908",
+ "text": "Partial fraction decomposition is taking a big algebra fraction and splitting it into a bunch of smaller fractions that are added together. Partial fractions are used to get the antiderivatives of algebra fractions. In math writing, we're turning this: \\frac{f(x)}{g(x)} Into this: \\frac{f_1(x)}{g_1(x)}+\\frac{f_2(x)}{g_2(x)}+\\frac{f_3(x)}{g_3(x)}+\\dots+\\frac{f_i(x)}{g_i(x)} The denominators of all these fractions are factors of g(x). Category:Algebra Category:Fractions (mathematics)",
+ "title": "Partial fraction decomposition"
+}

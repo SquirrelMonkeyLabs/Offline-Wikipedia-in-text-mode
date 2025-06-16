@@ -1,0 +1,5 @@
+{
+ "id": "1148784",
+ "text": "BitLocker is an full volume encryption feature included with Microsoft Windows versions starting with Windows Vista. It is designed to protect data by providing encryption for entire volumes. By default, it uses the Advanced Encryption Standard (AES) algorithm in cipher block chaining (CBC) or \"xor–encrypt–xor (XEX)-based Tweaked codebook mode with ciphertext Stealing\" (XTS) mode with a 128-bit or 256-bit key. CBC is not used over the whole disk; it is applied to each individual sector. ==Other websites== * BitLocker Drive Encryption Technical Overview * System Integrity Team Blog ==References== Category:Computer security",
+ "title": "BitLocker"
+}

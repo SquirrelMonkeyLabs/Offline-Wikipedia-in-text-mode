@@ -1,0 +1,5 @@
+{
+ "id": "411009",
+ "text": "A balanced circuit is a way to connect electronic systems together so that they can exchange electrical signals (like sound) while avoiding interference. To do this, one uses a cable with two or more wires. The cable is balanced if the impedances of the two wires are the same. This causes the noise to be common-mode (the same on both wires). Since it is easy to remove common-mode noise, a balanced circuit is a good way to keep noise out of electronic systems.G. Ballou, Handbook for Sound Engineers, Fifth Edition, Taylor & Francis, 2015, p. 1267–1268. When used to send sound, balanced cables use XLR connectors or phone connectors. Balanced circuits first became common in early 20th century telephone lines. == References == Category:Electronic circuits",
+ "title": "Balanced circuit"
+}

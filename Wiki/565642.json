@@ -1,0 +1,5 @@
+{
+ "id": "565642",
+ "text": "In computer science, 64-bit computing refers to a microprocessor's data stream.Jon Stokes, Inside the Machine: An Illustrated Introduction to Microprocessors and (San Francisco, CA: No Starch Press, 2007), p. 181 It means an operating system can use more computer memory at one time. This makes a 64-bit system much faster than a 32-bit system. A 32-bit system can only use up to 3.56 gigabytes of random-access memory (called RAM or memory). A 64-bit system can use much more memory making it considerably faster. Using an analogy, a 64-bit system is like a 64 lane highway.Gary B. Shelly; Misty E. Vermaat, Discovering Computers 2010: Living in a Digital World, Complete (Boston: Cengage Learning, 2010), p. 237 If each bit were a car, it means 64 of them can move at the same time. == References == == Other websites == * 32-bit vs 64-bit Computers & Phones as Fast As Possible; YouTube Category:Computer architecture",
+ "title": "64-bit computing"
+}

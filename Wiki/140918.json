@@ -1,0 +1,5 @@
+{
+ "id": "140918",
+ "text": "A print server, or printer server, is a computer or device that is connected to one or more printers and to a network. It accepts print jobs from client computers, then prints the jobs on the requested printer. The term can refer to: # A computer running any of the printing servers software; implementing any of the network printing protocols. # A dedicated device that connects one or more printers to a local area network (LAN). It typically has a single LAN connector, such as an RJ-45 socket or a wireless connection,and one or more physical ports (e.g. serial, parallel or Universal Serial Bus (USB) ) to provide connections to printers. Such dedicated device converts network printing protocols from what was sent by client computers to what the printers can understand. ==Notes== *The term print server usually refers to (1) above, while print server device or print server appliance usually refers to (2). *Some printers have built-in print server's capabilities and can connect direct to the network. == References == Category:Servers Category:Computer networking",
+ "title": "Print server"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "798692",
+ "text": "Selection bias is a kind of bias that is introduced by the selection of individuals, groups or data for analysis in such a way that proper randomization is not achieved. This means that the sample may no longer represent the population to be analyzed. Sometimes, this is called selection effect. There are different ways a selection bias can be introduced, for example. * There is a systematic error because the samples of the population are not random. * The trial is ended early, either because the desired conclusion can be reached, or because there are ethical concerns, or because there are extreme values that are hard to explain or conpensate. A statistical method called Heckman correction can correct some of these, in certain circumstances. == References == * James Heckman (1979): Sample selection bias as a specification error. Econometrica, 1979, pp.. 153–161. * Geddes, Barbara: How the Cases You Choose Affect the Answers You Get: Selection Bias in Comparative Politics, in: Political Analysis 2 (1990), 1, pp. 131–150. Category:Statistics Category:Bias",
+ "title": "Selection bias"
+}

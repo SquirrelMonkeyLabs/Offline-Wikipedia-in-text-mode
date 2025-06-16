@@ -1,0 +1,5 @@
+{
+ "id": "3787",
+ "text": "GNOME Web (sometimes called Epiphany) is a web browser for GNOME. The browser uses the WebKit browser engine to load web pages but supports extensions from Mozilla Firefox and Google Chrome and uses Firefox Sync's API to allow syncing between multiple browsers. This also allows the browser to sync its bookmarks and reading list with Firefox and its mobile app. GNOME Web was originally made from Galeon by Marco Pesenti Gritti (also the creator of Galeon) with the aim of making a web browser with a very simple user experience. Because of that, GNOME Webdoes not have its own themes, instead, it uses GNOME’s settings that are set in the GNOME Control Center. It also used to be Firefox based but switched to WebKit in September of 2009. ==References== == Other websites == *Epiphany Homepage *Galeon History homepage covering the decision to split development *GNOME Human Interface Guidelines *Epiphany WebKit Project Category:Web browsers Category:GNOME Category:Cross-platform software",
+ "title": "GNOME Web"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "109208",
+ "text": "Pattern matching is a tool for finding similar objects in different sources. In image processing, the pattern matching is used for locating a small image (called model) in a bigger one (called target image). For searching text, regular expressions are commonly used. The simple way is to move the model in the target image and measure a similarity in each position. The position with highest value of similarity will be accepted as result. The normalized correlation is used as a measure of similarity. The common way to reduce calculations is using the image pyramid. When using the image pyramid, the search is started on the reduced target image, and results are improved in the next, more detailed one. This process is similar to the human vision. Category:Computer science Category:Tools",
+ "title": "Pattern matching"
+}

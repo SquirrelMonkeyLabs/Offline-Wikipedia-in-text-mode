@@ -1,0 +1,5 @@
+{
+ "id": "410183",
+ "text": "In computer programming, a header file is a file with additional text that is added to some other code, usually to the top of the file (hence the name). If a piece of text is repeatedly used in multiple places in code, it is not practical to write the instruction again and again. The simplest way to handle it is by saying that the computer should copy the text from some other place. Mainly older programming languages like C and C++ use header files. There are better alternatives for newer languages, but they are more complex. Category:Computer programming",
+ "title": "Header file"
+}

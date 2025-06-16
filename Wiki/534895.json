@@ -1,0 +1,5 @@
+{
+ "id": "534895",
+ "text": "In mathematics, de Moivre's formula or de Moivre's theorem is an equation named after Abraham de Moivre. It states that for any real number x and integer n, (\\cos x + i\\sin x)^n = \\cos nx + i \\sin nx The formulation of De Moivre's formula for any complex numbers z (with modulus r and angle \\theta) is as follows: z^n = (re^{i\\theta})^n = [r(\\cos \\theta + i \\sin \\theta)]^n = r^n (\\cos n \\theta + i \\sin n \\theta) Here, e is Euler's number, and re^{i\\theta} is often called the polar form of the complex number z. The formula is very important because it connects complex numbers and trigonometry. It can be proved using the trigonometry form of complex numbers by mathematical induction, with the help of some trigonometrical identities. It can also be proved using Euler's formula as well. By using this formula, any equation of the form z^n = w, where w is complex, can be solved. == Related pages == * Euler's formula == References == Category:Complex analysis",
+ "title": "De Moivre's formula"
+}

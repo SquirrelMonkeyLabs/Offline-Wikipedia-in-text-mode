@@ -1,0 +1,5 @@
+{
+ "id": "663711",
+ "text": "A Bézier curve is a type of parametric curve (a curve defined by a set of equations changing in respect to another variable) that is used in computer graphics and related fields. It is used to define curves of very specific shapes. Such curves can be adjusted to become curvier or straighter depending on the geometric shape (such as a triangle) used to create the curve. In computer science, they are used to make specific curve shapes. In programs such as Adobe Illustrator or Microsoft PowerPoint, increasing the line symbol of a curve will increase the curviness of the curve. Category:Mathematics",
+ "title": "Bézier curve"
+}

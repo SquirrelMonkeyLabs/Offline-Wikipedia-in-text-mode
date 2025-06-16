@@ -1,0 +1,5 @@
+{
+ "id": "747660",
+ "text": "The steradian (symbol: sr) or square radian is the SI unit for solid angle. It is defined as the solid angle that, when projected onto a surrounding spherical surface, produces an area (of any shape) equal to the square of the radius of the sphere. The diagram below illustrates a solid angle of one steradian in the form of a circular cone. The steradian for solid angle is analogous to the radian for plane angle. The spherical surface corresponding to one steradian is about one twelfth the complete surface area of the sphere, regardless of how big the sphere is. == Sphere vs Steradian == * The surface area of a sphere is 4\\pi r^2 * The spherical surface area corresponding to one steradian is just r^2 So a solid angle filling a sphere measures 4π steradians, or about 12.57 steradians. Likewise one steradian is 1/12.57, or about 8%, of a sphere. And because solid angle, like plane angle, is independent of scale, it doesn't matter what size the sphere is, a solid angle filling the sphere will always measure 4π steradians. == References == Category:SI derived units",
+ "title": "Steradian"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "302151",
+ "text": "A twin prime is a pair of prime numbers, where one prime is two bigger than the other. The smallest pair of twin primes is 3 and 5. Next comes 5 and 7. Then comes 11 and 13, and then 17 and 19. ==Isolated prime== An isolated prime is a prime number p where neither p - 2 nor p + 2 is prime. In other words, p is not part of a twin prime pair. For example, 23 is an isolated prime since 21 and 25 are both not prime numbers. The first few isolated primes are :2, 23, 37, 47, 53, 67, 79, 83, 89, 97, 113… Category:Classes of prime numbers",
+ "title": "Twin prime"
+}

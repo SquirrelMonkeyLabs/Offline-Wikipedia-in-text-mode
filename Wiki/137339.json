@@ -1,0 +1,5 @@
+{
+ "id": "137339",
+ "text": "Attack models or attack types specify how much information a cryptanalyst has access to when breaking or cracking an encrypted message, commonly known as codebreaking or cracking the code. Some common attack models are: *Ciphertext- only attack *Known-plaintext attack *Chosen-plaintext attack *Chosen- ciphertext attack **Adaptive chosen-ciphertext attack **Indifferent chosen- ciphertext attack The ciphertext-only attack model is the weakest because it implies that the cryptanalyst has just the encoded message. Different attack models are used for other cryptographic systems, or more generally for all kind of security systems. Examples for such attack models are: *Adaptive chosen-message attack for digital signatures ==References== * Information Security Laboratory (powerpoint) * ==Other websites== *University of Colorado at Boulder's introduction to Cryptography and attack models (PDF) *University of Waterloo paper that discusses attack models (Postscript file) html version Category:Cryptography",
+ "title": "Attack model"
+}

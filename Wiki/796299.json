@@ -1,0 +1,5 @@
+{
+ "id": "796299",
+ "text": "Heap sort or heapsort is a sorting algorithm. It was presented in 1964, and helped make a data structure known as heap popular. Heapsort divides the input into a sorted and an unsorted region. It then takes the largest element from the unsorted region and inserts it into the sorted region. The unsorted region is kept as a heap, which allows finding the largest element quickly. Heapsort is not stable. It has a worst-case complexity of O(n*log(n)). Category:Searching and sorting algorithms",
+ "title": "Heapsort"
+}

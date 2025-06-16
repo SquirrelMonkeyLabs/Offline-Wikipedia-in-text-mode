@@ -1,0 +1,5 @@
+{
+ "id": "397239",
+ "text": "In Computer graphics, the term color depth is used to specify the amount of color used. Usually it is measured in bits per pixel. One bit can represent two different values. It is known as monochrome or black and white. 16 bit color depth is known as \"high color\", 24 bits per pixel are known as truecolor. There are also systems with color depths of 30, 36, or 48 bits per pixel. The RGB color model uses 8 bits per pixel, for a total of 24 bits. There may be an extra Alpha channel, with another 8 bits (so a total of 32 bits). Phase Alternating Line, a standard for televisions uses 32 bits per pixel, with a YUV color space. ==Gallery== File:1 bit.png|1 bit (2 colors) File:2 bit.PNG|2 bits (4 colors) File:4 bit.png|4 bits (16 colors) File:8 bit.png|8 bits (256 colors) File:32 bit.png|24 bits (16,777,216 colors, \"truecolor\") Category:Computer graphics",
+ "title": "Color depth"
+}

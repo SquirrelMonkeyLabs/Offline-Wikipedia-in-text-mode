@@ -1,0 +1,5 @@
+{
+ "id": "66239",
+ "text": "Depending on the model used, making changes to the data in a database can be complex. That means that several steps are needed to perform a change. In that context, all the steps are grouped. This group is called a transaction. Many databases give guarantees about the data, and they also do checks. When something goes wrong in one step, all the steps in the group, or transaction, are undone. This is called a rollback. When all the steps have been executed, and there was no error, this state can be persisted. People will talk about committing a transaction. A database transaction is generally atomic. That means, it is either done completely, or it is not done. The state of it being done is not visible. Most of the time, transactions are needed to guarantee the ACID principle of databases. == References == Transaction",
+ "title": "Database transaction"
+}

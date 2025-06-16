@@ -1,0 +1,5 @@
+{
+ "id": "101838",
+ "text": "A relational database is a way of storing information (data). Relational databases help users join information to other information. In a relational database, each record of data is stored in a row. The rows are grouped together in tables. In the relational model, a database table is called a relation. This is why the term relational is used for this kind of database. The software used to do this grouping is called a relational database management system (RDBMS). The term \"relational database\" often refers to this type of software. Relational databases are currently the main way in which companies store information like financial records, medical records, personal information, and manufacturing and logistical data. The term relational database was originally defined by and is attributed to Edgar Codd at IBM Almaden Research Center in 1970. ==References== Category:Databases",
+ "title": "Relational database"
+}

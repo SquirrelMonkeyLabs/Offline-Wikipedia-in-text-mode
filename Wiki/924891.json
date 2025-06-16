@@ -1,0 +1,5 @@
+{
+ "id": "924891",
+ "text": "Beta is a financial measurement of an assets' sensitivity to a certain weight. Typically, this weight is the S&P; 500. Beta uses past performance, and cannot predict future results. == Examples == * Rio Tinto has a beta of 0.55 (On NYSE), meaning that if the S&P; 500 moves up 20%, theoretically, Rio Tinto moves up 11%. * The SARK ETF has a beta of -2. If the market drops by 6%, SARK may go up 12%. == Formula == Beta is calculated by dividing the covariance of returns between the index, and the stock, to the variance for the index returns. ==References== Category:Finance",
+ "title": "Beta (finance)"
+}

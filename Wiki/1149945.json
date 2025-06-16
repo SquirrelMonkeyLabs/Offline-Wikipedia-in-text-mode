@@ -1,0 +1,5 @@
+{
+ "id": "1149945",
+ "text": "An anti-aliasing filter is a filter that is used to reduce the effects of aliasing. Aliasing occurs when signals are sampled at a rate that is too low. Anti-aliasing works by applying a low-pass filter, which will reduce the effect of high-frequency components. Category:Digital signal processing",
+ "title": "Anti-aliasing filter"
+}

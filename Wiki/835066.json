@@ -1,0 +1,5 @@
+{
+ "id": "835066",
+ "text": "Kotlin is a statically-typed programming language made by Czech company JetBrains. It has been known for being used in making Android applications. == Example == Here is an example of a hello world program in Kotlin. // Hello World Program fun main(args : Array) { println(\"Hello world!\") } == References == Category:Programming languages Category:High-level programming languages",
+ "title": "Kotlin (programming language)"
+}

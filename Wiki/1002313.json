@@ -1,0 +1,5 @@
+{
+ "id": "1002313",
+ "text": "A database index is any data structure that improves the performance of lookup and sorting compared to a full table scan, for example, or a full DB scan. As well as traditional SQL DBs or Relational DB Management Systems (RDBMS), indexing is also implemented by most noSQL DBs for semi-structured data, such as Document DBs and Graph DBs. There are many different data structures used for indexes, partly depending on the type of database. In an RDBMS, for example, this could be thought of as making the chosen index column faster to search than an unindexed version of the column, thereby finding that whole row faster. Different types of database also have different limitations regarding indices. Some Document DBs, for example, will not return any data to a query if that data is not indexed. The benefits of indexing is not without cost. There are trade-offs involving lookup performance, index size, and index- update performance. As so often with design, this means that the best way to set up your indexing depends on your intended usage and resources. Category:Databases",
+ "title": "Index (database)"
+}

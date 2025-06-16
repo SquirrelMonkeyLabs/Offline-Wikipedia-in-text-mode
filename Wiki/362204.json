@@ -1,0 +1,5 @@
+{
+ "id": "362204",
+ "text": "In mathematics, sets can be used to make new sets. Given two sets A and B, the Cartesian product of A with B is written as A × B, and is the set of all ordered pairs whose first element is a member of A, and whose second element is a member of B. For example, let A = {1, 2, 3} and B = {a, b}. Then: :A \\times B = \\\\{(1, a), (1, b), (2, a), (2, b), (3, a), (3, b)\\\\} The set of a Cartesian product can be visualized as a two-dimensional table, with its entry being its elements. == Related pages == * Cross product * Product (mathematics) * Relation (mathematics) == References == Category:Set theory",
+ "title": "Cartesian product"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "688161",
+ "text": "In computer security, Arbitrary Code Execution is something that allows executing code without permission. A good example is cross-site scripting (XSS) attacks which inject client-side scripts into a webpage such as the self-retweeting tweet on TweetDeck. == TweetDeck vulnerability == On June 11, 2014, user @derGeruhn tweeted: ♥ Everyone who saw the tweet retweeted it automatically. It also displayed an alert saying \"XSS in Tweetdeck\". Because TweetDeck didn't have any precautionary measures, it only worked for TweetDeck users and the code was only showed and executed for them. The only thing Twitter users saw was the heart. It got 83 thousand retweets before it was fixed. == References == Category:Computer security",
+ "title": "Arbitrary code execution"
+}

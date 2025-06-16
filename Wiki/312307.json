@@ -1,0 +1,5 @@
+{
+ "id": "312307",
+ "text": "Standard ML is a functional programming language which is a dialect of ML (programming language). It is sometimes used for writing compilers and in theorem provers. == Example == Here is an example of a factorial function written in a simple, non-tail recursive, style. fun fac (0 : int) = 1 (* the : int part means that 0 and n are integers *) | fac (n : int) = n * fac (n - 1) Category:Programming languages",
+ "title": "Standard ML"
+}

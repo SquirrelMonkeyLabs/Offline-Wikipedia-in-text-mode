@@ -1,0 +1,5 @@
+{
+ "id": "795387",
+ "text": "In computer science, a linked list is a data structure that is a linear collection of items whose order is not given by their physical placement in memory. Instead, each item links to the next item. The last item links to a terminator used to mark the end of the list. ==Types of linked lists== ===Singly linked list=== A singly linked list whose items have two fields: a value and a link to the next item ===Doubly linked list=== A doubly linked list whose items have three fields: a value, the link forward to the next item, and the link backward to the previous item ===Circular linked list=== A circular linked list ==Linked list algorithms== ===Reversing a singly linked list=== Item reverseList(Item head) { Item prev = null; Item curr = head; while (curr != null) { Item following = curr.next; curr.next = prev; prev = curr; curr = following; } return prev; } Category:Data structures",
+ "title": "Linked list"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "83599",
+ "text": "In linear algebra and functional analysis, a projection is a linear transformation P from a vector space to itself such that P2 = P. Projections map the whole vector space to a subspace and leave the points in that subspace unchanged.Meyer, pp 386+387 ==Notes== ==References== * N. Dunford and J.T. Schwartz, Linear Operators, Part I: General Theory, Interscience, 1958. * Carl D. Meyer, Matrix Analysis and Applied Linear Algebra, Society for Industrial and Applied Mathematics, 2000. . ==Other websites== * MIT Linear Algebra Lecture on Projection Matrices at Google Video, from MIT OpenCourseWare Category:Linear algebra Category:Functions and mappings",
+ "title": "Parallel projection"
+}

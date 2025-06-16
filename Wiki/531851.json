@@ -1,0 +1,5 @@
+{
+ "id": "531851",
+ "text": "Given a number of characters of an alphabet, a character encoding is a function that will map each character to a number. This number must be unique and is called code point. In this context, a character is the minimal unit of text that has a semantic value: In alphabets that use letters, this is usually a letter. Early systems, like the telegraph only have a part of all the letters possible. They have only uppercase letters, numbers, and a few extra characters (punctuation, spacing, newline..). The flag alphabet ships use is even more restricted. Category:Encodings",
+ "title": "Character encoding"
+}

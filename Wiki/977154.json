@@ -1,0 +1,5 @@
+{
+ "id": "977154",
+ "text": "In machine learning, a variational autoencoder (VAE), is a generative model, meaning that it can generate things that it has not seen before. It is comprised by artificial neural networks. It was introduced by Diederik P. Kingma and Max Welling. The architecture has two main components. The encoder, and the decoder. The encoder compresses inputs into a probability distribution. The VAE is famous for its use of the reparameterization trick. The trick was used to give information called gradients to the encoder. That is because normally you cannot pass gradients from a probability distribution. == Related pages == * Artificial neural network * Deep learning * Backpropagation ==References== Category:Machine learning",
+ "title": "Variational autoencoder"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "891776",
+ "text": "“RobOps’ is an amalgamation of Robotics and Operations. It addresses the complexity involved in scaling operations, as operating large fleets of robots requires a unique set of processes, tools, and principles. Effective RobOps aim to make it easier to build applications that automate robot operations and inter-robot interactions. == Recent Developments == Amazon Web Services announced AWS IoT RoboRunner to build and deploy applications for robotic fleets. Their stated objective is to “make it easier for enterprises to build and deploy applications that help fleets of robots work seamlessly together.” InOrbit is another company offering a cloud-based robot management platform. == Community == ROG (pronounced “rogue”), is a community group composed of experts, enthusiasts, companies, and organizations from across industry aimed at developing and sharing best practices for the operation at scale of autonomous robots. Virtual meetings are hosted monthly. The first physical RobOps conference is in the works to be held in Silicon Valley in October, 2022. == References == Category:Robots",
+ "title": "RobOps"
+}

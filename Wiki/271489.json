@@ -1,0 +1,5 @@
+{
+ "id": "271489",
+ "text": "Apache Subversion (also called subversion repository and SVN) is an internet software mainly used by software programmers. Subversion allows other developers to view the code easily. To download files in a directory of a subversion repository, one can \"checkout\" using a subversion client. ==Further reading== * C. Michael Pilato, Ben Collins-Sussman, Brian W. Fitzpatrick; Version Control with Subversion; O'Reilly; (1st edition, paperback, 2004, full book online, mirror) * Garrett Rooney; Practical Subversion; Apress; (1st edition, paperback, 2005) * Mike Mason; Pragmatic Version Control Using Subversion; Pragmatic Bookshelf; (1st edition, paperback, 2005) * William Nagel; Subversion Version Control: Using the Subversion Version Control System in Development Projects; Prentice Hall; (1st edition, paperback, 2005) == Other websites == * Subversion official website * Wikimedia's subversion repository Category:Free software",
+ "title": "Apache Subversion"
+}

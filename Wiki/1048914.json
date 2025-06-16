@@ -1,0 +1,5 @@
+{
+ "id": "1048914",
+ "text": "In mathematics and linear algebra, matrix multiplication is multiplying two matrices together. The number of columns in the first matrix must be equal to the number of rows in the second matrix. The product of two matrices \\mathbf{A} and \\mathbf{B} is written as \\mathbf{A}\\mathbf{B} To multiply two matrices, the rows of the first matrices are multiplied with the columns of the second. Then, the products are summed to make the entry in the product. Matrix multiplication is associative, but not commutative. == Related pages == *Matrix addition *Determinant == References == Category:Linear algebra",
+ "title": "Matrix multiplication"
+}

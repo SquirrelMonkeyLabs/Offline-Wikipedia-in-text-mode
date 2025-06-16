@@ -1,0 +1,5 @@
+{
+ "id": "949728",
+ "text": "A DNS zone is a specific portion of the DNS namespace in the Domain Name System (DNS). It is managed by a specific organization or administrator. A DNS zone allows for more control of the DNS components, such as authoritative nameserver. The DNS is broken up into many different zones. They are distinctly managed areas in its namespace. However, a DNS zone can contain several subdomains. Multiple DNS zones can exist on the same server. A DNS zone is implemented in the configuration system of a domain name server. Historically, it is defined in the zone file, an operating system text file that starts with the special DNS record type Start of Authority (SOA) and contains all records for the resources described within the zone. Category:Domain Name System",
+ "title": "DNS zone"
+}

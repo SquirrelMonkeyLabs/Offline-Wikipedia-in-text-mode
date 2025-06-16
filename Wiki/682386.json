@@ -1,0 +1,5 @@
+{
+ "id": "682386",
+ "text": "In electronics, a phase-locked loop is a type of circuit where the output keeps a known phase relationship with the input. If the output begins to lose this relationship, then the electronics will correct it until the output is returned to the correct phase again. When the phase of an output is steady, then the phase is locked. Each time the phase is measured, the electronics will correct any deviation of the output. A loop is created which continually corrects the signal. Category:Electronics",
+ "title": "Phase-locked loop"
+}

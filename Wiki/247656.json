@@ -1,0 +1,5 @@
+{
+ "id": "247656",
+ "text": "The Queen's Gambit is a chess opening which starts with 1.d4 d5 2.c4. It is not really a gambit, because the pawn taken cannot be held. For example (simplest line): :1.d4 d5 :2.c4 dxc4 :3.e3 b5 :4.a4 c6 :5.axb5 cxb5 :6.Qf3 and wins. * 2...dxc4 is the Queen's Gambit Accepted. 5085 games in database.Chessgames.com * 2...e6 is the Queen's Gambit Declined. 14,635 games. * 2...c6 is the Slav defence. 17,801 games. * 2...Nc6 is Chigorin's defence. 836 games. == Queen's Gambit Accepted == Since the pawn can't be kept, Black (by taking the c-pawn) has given up the centre. The standard strategy then is for Black to mount a counter-attack on the White centre. :1.d4 d5 :2.c4 dxc4 :3.Nf3 Nf6 :4.e3 e6 :5.Bxc4 c5 :6.0-0 a6 :7.Qe2 b5 :8.Bb3 Bb7 :9.Rd1 Nbd7 :10.Nc3 Qc7/Qb8/Qb6 (alternates) Now the white centre is balanced by the black counter-attack. == References == Category:Chess openings",
+ "title": "Queen's Gambit"
+}

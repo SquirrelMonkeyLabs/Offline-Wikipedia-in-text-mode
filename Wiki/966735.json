@@ -1,0 +1,5 @@
+{
+ "id": "966735",
+ "text": "Proof-of-time is a blockchain consensus mechanism based on selecting validators in proportion to their ranking scores and a fixed stake. The algorithm gives each validator a score based on its historical experience and other validators’ experience with the node. Proof-of-time is a consensus protocol. It uses a “self-selection voting mechanism” based on a verifiable delay function to choose validators. It focuses on how long the validator has been accurate and active within the network. The mechanism is performed in two stages, namely soft and hard voting. == References == Category:Cryptocurrency",
+ "title": "Proof-of-time"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "243718",
+ "text": "WebKit is a layout engine made to let web browsers show web pages. The WebKit engine has a set of classes to display web content in windows, and implements browser features such as following links when clicked by the person using the web browser (the user), managing a back-forward list, and keeping a history of pages recently visited. WebKit was first made to be used as the layout engine for Safari, and is portable to many other computing platforms. WebKit's WebCore and JavaScriptCore parts are available under the GNU Lesser General Public License, and the rest of WebKit is available under a BSD-style license. == References == == Other websites == * WebKit Category:Web browsers Category:Free software",
+ "title": "WebKit"
+}

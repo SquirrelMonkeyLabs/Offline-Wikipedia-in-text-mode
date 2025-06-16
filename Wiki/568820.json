@@ -1,0 +1,5 @@
+{
+ "id": "568820",
+ "text": "ELF/Filecoder.A is a ransomware Trojan that infects Unix systems. There are different versions of the Trojan for several different flavors of Unix, including Linux, FreeBSD, and MacOS. Like other ransomware, it encrypts files on the system and demands payment for decryption. == Incidents == The Trojan infected Linux servers using a flaw in the Magento eCommerce platform. Additionally, hackers broke into the hosting site for the Transmission BitTorrent client and infected version 2.90 for MacOS. == References == Category:Malware",
+ "title": "ELF/Filecoder.A"
+}

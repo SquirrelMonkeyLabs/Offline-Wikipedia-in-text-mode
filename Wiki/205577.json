@@ -1,0 +1,5 @@
+{
+ "id": "205577",
+ "text": "\"Bogon\" is an informal name for an IP packet on the Internet that claims to be from an area of the IP address space that is not used. The space not yet assigned by the Internet Assigned Numbers Authority (IANA) or a delegated Regional Internet Registry (RIR). The areas of unallocated address space are called \"bogon space\". For example, addresses from 100.x.x.x - 107.x.x.x have not yet been allocated (set aside) (as of September 2009, see for a complete current list) Bogons are not the same as reserved private address ranges: 10.0.0.0/8 (10.x.x.x) 172.16.0.0/12 (172.16.x.x - 172.31.x.x) 192.168.0.0/16 (192.168.x.x) Category:Internet protocols",
+ "title": "Bogon filtering"
+}

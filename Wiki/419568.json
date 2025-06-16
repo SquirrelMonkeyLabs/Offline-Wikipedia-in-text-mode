@@ -1,0 +1,5 @@
+{
+ "id": "419568",
+ "text": "In mathematics, the Euler characteristic of a shape is a number that describes a topological space, so that anything in the space will have the same number. It is calculated by taking the number of points in the shape, the number of lines in the shape, and the number of faces of the shape. One can find the Euler characteristic with this formula: :\\chi=V-E+F \\,\\\\! where V is the point count, E the line count, and F the face count. For most common shapes (convex polyhedron), the Euler characteristic is 2. Name Image Vertices (Points) V Edges (Lines) E Faces F Euler characteristic: V − E + F Tetrahedron 4 6 4 2 Hexahedron or cube 8 12 6 2 Octahedron 6 12 8 2 Dodecahedron 20 30 12 2 Icosahedron 12 30 20 2 For spheres, the Euler characteristic is also 2. == Related pages == * Platonic solid == References == Category:Topology Category:Graph theory",
+ "title": "Euler characteristic"
+}

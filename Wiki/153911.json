@@ -1,0 +1,5 @@
+{
+ "id": "153911",
+ "text": "Ablain-Saint-Nazaire is a commune. It is found in the region Hauts-de-France in the Pas-de-Calais department in the north of France. == Population == ImageSize = width:250 height:200 PlotArea = left:40 right:10 top:10 bottom:20 TimeAxis = orientation:horizontal AlignBars = justify Colors = id:gray1 value:gray(0.9) DateFormat = yyyy Period = from:1960 till:2010 ScaleMajor = unit:year increment:10 start:1960 PlotData = bar:2700 color:gray1 width:1 from:start till:end bar:1800 color:gray1 from:start till:end bar:900 color:gray1 from:start till:end bar:0 color:gray1 LineData = layer:front points:(48,102)(84,101) color:blue width:2 #1962 tot 1968. Inwonertal 1962: 1295 1968: 1293 points:(84,101)(100,107) color:blue width:2 #1975: 1388 points:(100,107)(128,113) color:blue width:2 #1982: 1482 points:(128,113)(160,128) color:blue width:2 #1990: 1715 points:(160,128)(196,136) color:blue width:2 #1999: 1843 points:(196,136)(228,139) color:blue width:2 #2004/5 == References == Category:Communes in Pas-de-Calais",
+ "title": "Ablain-Saint-Nazaire"
+}

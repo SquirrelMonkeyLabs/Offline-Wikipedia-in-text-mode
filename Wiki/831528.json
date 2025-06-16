@@ -1,0 +1,5 @@
+{
+ "id": "831528",
+ "text": "A convolutional neural network (CNN, or ConvNet) is a program used by computers to see things in the real world. A camera or other system takes a picture, and the computer uses the CNN to tell what the picture is or means. It is part of deep learning. Models that work with spatial data, for example images and video, use convolutional neural networks. People use convolutional neural networks with vehicles that drive and steer themselves, medical imaging, and in computer vision and deep learning. ==References== Category:Vision Category:Machine learning",
+ "title": "Convolutional neural network"
+}

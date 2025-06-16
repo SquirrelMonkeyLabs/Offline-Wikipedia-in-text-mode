@@ -1,0 +1,5 @@
+{
+ "id": "226335",
+ "text": "A vector subspace is a vector space that is a subset of another vector space. This means that all the properties of a vector space are satisfied. Let W be a non empty subset of a vector space V, then, W is a vector subspace if and only if the next 3 conditions are satisfied: # additive identity – the element 0 is an element of W: 0 ∈ W # closed under addition – if x and y are elements of W, then x + y is also in W: x, y ∈ W implies x + y ∈ W # closed under scalar multiplication – if c is an element of a field K and x is in W, then cx is in W: c ∈ K and x ∈ W implies cx ∈ W. If W_1 and W_2 are subspaces of a vector space V, then the sum and the direct sum of W_1 and W_2, denoted respectively by W_1 + W_2 and W_1 \\oplus W_2, are subspaces as well. == Related pages == * Parallel projection == References == Category:Linear algebra",
+ "title": "Vector subspace"
+}

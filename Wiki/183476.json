@@ -1,0 +1,5 @@
+{
+ "id": "183476",
+ "text": "Power over Ethernet is a technology that allows to supply electricity over standard Ethernet cables. This is useful in many ways, as it allows to only have one cable to both provide the computer network and electricity to a device. It can be used for powering IP phones, wireless LAN access points, network cameras, remote network switches, embedded computers, and other appliances. In many of these cases it is often inconvenient, expensive or infeasible to supply power separately. The technology is comparable to POTS telephones. These also receive power and data through the same cable. Power over ethernet doesn't require changing the existing Ethernet cabling infrastructure. There are several general terms used to describe this feature. The terms Power over Ethernet (PoE), Power over LAN (PoL), and inline power are synonymous terms used to describe the powering of attached devices via Ethernet ports. Category:Computing",
+ "title": "Power over Ethernet"
+}

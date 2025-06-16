@@ -1,0 +1,5 @@
+{
+ "id": "208394",
+ "text": "Statistical inference Or statistical induction and inferential statistics is the statistical process of drawing conclusions from data. Examples would be the randomness of the data, observational errors, sampling variation, and other issues.Upton G. & Cook I. 2008. Oxford dictionary of statistics. OUP. ==Scope== For the most part, statistical inference makes statements about populations, using data drawn from the population of interest by some form of random sampling. The result is some kind of statistical proposition, such as: * an estimate; i.e., a particular value that best approximates some parameter of interest * a confidence interval. That is an interval from a dataset such that, under repeated sampling, the interval would contain the true parameter value with the probability at the stated confidence level * a credible interval; i.e., a set of values containing, for example, 95% of samples would include the true value of the parameter. * rejection of a hypothesis * clustering or classifying data points into groups == References == Category:Statistics",
+ "title": "Inference (statistics)"
+}

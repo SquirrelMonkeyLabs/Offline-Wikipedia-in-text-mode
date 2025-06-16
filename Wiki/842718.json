@@ -1,0 +1,5 @@
+{
+ "id": "842718",
+ "text": "An operating system shell is a user interface that enables the user to interact with and access the services offered by the operating system. The user gives commands to the operating system through its shell. In simple words - a shell is a program that accepts the input from users and excutes program on their behalf by creating a new process, and whatever the response from that particular program - which could be input, output or error - it shows back it the the user. ==Various shells== There are various types of shells: #Command line shells: the user types commands at the prompt. #Menu driven shells: the user selects commands from menus. #Graphical user interface shells: the user selects graphical menus and icons. Examples of command line operating systems are UNIX and Disk Operating System (DOS). Examples of menu driven operating systems are the DOS shell. Finally, examples of graphical user interface (GUI) operating system are Linux and Microsoft Windows. Category:Computing",
+ "title": "Shell (computing)"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "26334",
+ "text": "A projection in geometry is something like finding a shadow that an object casts onto another object. When a three-dimensional sphere is projected onto a plane, its projection will either be a circle or an ellipse. In higher mathematics, projections are more broad. A projection is an idempotent function from a set onto a subset. When a function is idempotent, it means that no matter how many (positive) times one uses the map, it is the same as using the map one time. Often, projections pick coordinate from elements in a Cartesian product. For example, \\pi_1:X\\times Y\\to X can denote the map defined by (x,y)\\mapsto x. Category:Mathematics",
+ "title": "Projection (mathematics)"
+}

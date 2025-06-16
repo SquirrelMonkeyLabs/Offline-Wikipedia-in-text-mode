@@ -1,0 +1,5 @@
+{
+ "id": "450902",
+ "text": "In mathematics, divergence is a differential operator that takes a vector field and turns it into a scalar field. In a vector field, each point of the field is associated with a vector; in a scalar field, each point of the field is associated with a scalar. The divergence tells us how much the vector field is \"radiating\" outward or inward at a point. Given a vector field \\mathbf{F}, the divergence of \\mathbf{F} can be written as \\operatorname{div} \\mathbf{F} or abla \\cdot \\mathbf{F}. Here, abla (pronounced \"del\") is the gradient and \\cdot is the dot product operation. Divergence is used to formulate Maxwell's equations and the continuity equation. == Related pages == * Curl * Vector calculus == References == Category:Mathematical analysis Category:Calculus",
+ "title": "Divergence"
+}

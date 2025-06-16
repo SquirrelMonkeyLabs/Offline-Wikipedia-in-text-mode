@@ -1,0 +1,5 @@
+{
+ "id": "999837",
+ "text": "A file archiver is a computer program that puts several files together, and makes one large file from the parts. Sometimes file archivers use data compression, but often they don't. When doing a backup of data onto magnetic tape, all the data needs to be written together, so an archive file is used. An example of an archiver is the command 'tar' which is avilable in many Linux and Unix systems. As tar only combines flies, it is usually used together with 'gzip'. Programs such as 7zip (or zip) will also compress the output, so it takes less space. Category:Computer science",
+ "title": "File archiver"
+}

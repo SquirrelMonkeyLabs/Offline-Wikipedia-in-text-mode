@@ -1,0 +1,5 @@
+{
+ "id": "783313",
+ "text": "Ray tracing is a computer algorithm for drawing very realistic 3D images. With ray tracing, objects in the scene are described with geometrical shapes like spheres or planes. The computer then sends rays (straight lines) forward from where the camera is. The objects that get hit by these rays are the objects that the camera can see. The computer then draws these objects. This is similar to how our eyes see but in the real world the rays (light) go the opposite way – from the world to our eyes. If we made rays go from the world to the camera, most of the rays would not hit the camera, and we would have to wait a long time until we see an image appear. That is why instead, we make rays go from the camera to the world, meaning we know all the rays we create will go to the camera. == History == Ray Tracing was first mentioned by Albrecht Dürer in the XVI century. In 1982, Scott Roth called this technique \"ray emission\" in the computer graphics context, but in that time, it was a less accurate version of the Ray Tracing that didn't include reflection and refraction of light. Category:Computer graphics",
+ "title": "Ray tracing"
+}

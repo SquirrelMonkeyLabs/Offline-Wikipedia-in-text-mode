@@ -1,0 +1,5 @@
+{
+ "id": "1094122",
+ "text": "Windows Boot Manager Windows Boot Manager operation system select menu Other names `BOOTMGR` Developer(s) Microsoft Operating system Windows Predecessor NTLDR Type Bootloader License Proprietary The Windows Boot Manager is the the thing used to load Windows. It was added by Microsoft in the Windows Vista operating system. It is the 1st thing loaded by Windows by the BIOS of the computer and is responsible for loading everything else in Windows. Windows Boot Manager replaced NTLDR which was added in the 1st version of Windows NT. The BIOS loads it from a file called BOOTMGR on the main directory of the C: drive and it loads it using either winload.exe or winresume.exe. == References == Category:Microsoft Windows software",
+ "title": "Windows Boot Manager"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "1144226",
+ "text": "Mastodon is a free software for running in user's own social network. It's like Twitter, with short posts, but instead of a single big site, there are a lot of smaller separate ones called servers. Each server has its own rules like - handling privacy, and content moderation. Users join one server, but they still can talk to other people on other servers. This allows users to choose a server with rules they like, but still be part of the larger network. Mastodon uses a system called ActivityPub, which functions with other platforms like Lemmy, Pixelfed, and PeerTube. It was developed by Eugen Rochko and was released in October 2016.It grew popular, especially after Elon Musk bought Twitter in 2022. Mastodon is managed by a German non-profit Mastodon GmbH. == References == == Other websites == * Category:Free and open-source software organizations Category:Social networking services Category:Microblogging services",
+ "title": "Mastodon (social network)"
+}

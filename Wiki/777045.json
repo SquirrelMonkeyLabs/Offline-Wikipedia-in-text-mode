@@ -1,0 +1,5 @@
+{
+ "id": "777045",
+ "text": "An application layer gateway is a special firewall which does stateful packet inspection. Some protocols such as TFTP use ports chosen at random. An application layer gateway can strengthen such a system by only allowing communication on ports which are used by one of the sessions. Note that this setup is different from a proxy firewall (also called application layer firewall). Such a firewall will also look at the payload data being transmitted. Category:Computer networking",
+ "title": "Application layer gateway"
+}

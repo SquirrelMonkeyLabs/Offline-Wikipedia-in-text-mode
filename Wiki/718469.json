@@ -1,0 +1,5 @@
+{
+ "id": "718469",
+ "text": "Shor's algorithm is a quantum algorithmic computing process for cryptography. Basically, it solves the following problem: Given an integer N , find its prime factors. Its effectiveness can be used to find messages hidden through RSA encryption, however it requires a quantum computer with more quantum bits than there are available. ==References== Category:Numbers Category:Algebra Category:Algorithms Category:Cryptography",
+ "title": "Shor's algorithm"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "468874",
+ "text": "Interlaced video is a method to display an image. Images are drawn line by line, and interlacing means that the odd lines are drawn first, and the even lines are \"filled in\" later. The two parts of the image are called fields, and are transmitted one after the other. Telefunken invented the method in the 1920s. Today it is widely used for displaying images and video. == Example == Entrelacement exemple 0.svg|First the odd-numbered lines are drawn, Entrelacement exemple 1.svg|one by one Entrelacement exemple 2.svg|the even lines Entrelacement exemple 3.svg|are drawn Interlace zoom.gif|Image composition as animation Entrelacement modele.svg|The resulting image ==Related pages== *interpolation - guessing data values of a function Category:Television technology",
+ "title": "Interlaced video"
+}

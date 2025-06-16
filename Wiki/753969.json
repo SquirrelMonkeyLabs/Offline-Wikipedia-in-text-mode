@@ -1,0 +1,5 @@
+{
+ "id": "753969",
+ "text": "Character Map is a tool made for Microsoft Windows operating systems. It lets people see characters in a font. It can also be used to see what alt code is used for a character, and it can be used to copy and paste characters. The tool is useful for putting in special characters. The Advanced view button can be used to switch between different encodings: Windows, DOS, and Unicode. Characters can be sorted by Unicode categories. The tool only supports the first Unicode plane, the Basic Multilingual Plane. Character Map can be opened by using the command-line interface or the Run command by typing 'charmap'. == References == Category:Microsoft software",
+ "title": "Character Map"
+}

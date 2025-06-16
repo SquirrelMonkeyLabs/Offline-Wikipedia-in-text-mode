@@ -1,0 +1,5 @@
+{
+ "id": "227529",
+ "text": "In computing, a cluster is made of many individual computers that work together to solve a problem at hand. Clusters can have different forms: They can be whole computers working together, or only CPUs. These CPUs can communicate over a fast network, but they share the same hard disks, for example. Depending on the problem, solving it with a cluster of cheaper components can be less expensive that investing in better hardware that costs more. Grid computing is different in that the individual computers work on separate tasks that are part of a large problem. They are usually more different from one another and geographically further apart than cluster computers are. Category:Computing",
+ "title": "Cluster (computing)"
+}

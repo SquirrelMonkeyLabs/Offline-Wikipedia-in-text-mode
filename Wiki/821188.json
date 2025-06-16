@@ -1,0 +1,5 @@
+{
+ "id": "821188",
+ "text": "A Wi-Fi deauthenticatoon attack is a kind of denial of service attack that can be used in certain wireless networks. In a Wi-Fi network, devices such as computers communicate with a wireless access point. To get an iP address, each devices needs to be authenticated, so the access point knows the device. In this context, there also is a frame (or a command) that tells a device that it is no longer authenticated. As the protocol does not require these frames to be encrypted, an attacker can simply send such a command to deconnect a device. The attacker only needs to know the MAC address of the victim. This address is sent unencrypted with each frame. Category:Computer networking",
+ "title": "Wi-Fi deauthentication attack"
+}

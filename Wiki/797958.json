@@ -1,0 +1,5 @@
+{
+ "id": "797958",
+ "text": "CMY color model is a color model, used in color printing. CMY refers to the three inks used in printing: cyan, magenta, and yellow. The CMY model is subtractive. It means that it subtracts or masks colors from white background of the paper. The ink reduces the reflected light. White light minus red leaves cyan, white light minus green leaves magenta, and white light minus blue leaves yellow. White is the natural color of the paper, while (nearly) black is made by a full combination of colored inks. Unlike the CMYK color model, it does not use additional black ink, which is more effective and economical for reproducing dark hues. CMY color is typically used in older, portable, or inexpensive printers. Most recent color desktop or floor-standing printers use the CMYK color model. == Related pages == * CMYK color model * RGB color model * Color model == References == == Other websites == *XCmyk – CMYK to RGB Calculator with source code * Color Space Fundamentals– animated illustration of RGB vs. CMYK Category:Color models Category:Printing Category:Photography",
+ "title": "CMY color model"
+}

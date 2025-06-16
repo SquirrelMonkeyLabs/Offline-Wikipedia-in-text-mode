@@ -1,0 +1,5 @@
+{
+ "id": "501650",
+ "text": "Attached Resource Computer NETwork (abbreviated ARCNET or ARCnet) is a communications protocol for local area networks. ARCNET was the first widely available networking system for microcomputers; it became popular in the 1980s for office automation tasks. It was later applied to embedded systems where certain features of the protocol are especially useful. It was first used in 1977. Arcnet uses a star-like topology, which is much easier to build and maintain than the bus topologies of other protocols developed later, such asEthernet. Original arcnet used coaxial cables, and a token-passing mechanism, much like token ring. At about 20 MBit/s maximum speed, ARCnet is much slower than other network protocols, such as ethernet. Because of its token-passing mechanisms, there are no collisions between packets. This makes it suitable for certain industrial applications, as well as for ohme automation, where it is still used. Category:Computer networking",
+ "title": "ARCNET"
+}

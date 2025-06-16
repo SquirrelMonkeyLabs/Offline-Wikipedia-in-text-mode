@@ -1,0 +1,5 @@
+{
+ "id": "1083478",
+ "text": "In the context of digital signal processing a digital filter is there to change a signal. An example of a filter might be to only let certain frequency bands pass, or to block these bands. The signal will be sampled, and discrete in time. Unlike analog filters, digfital filters use logical components, while analog filters use electrical circuits. Very often, the signal is transoformed from analog to digtal before filtering, and then transformed back after filtering. Category:Digital signal processing",
+ "title": "Digital filter"
+}

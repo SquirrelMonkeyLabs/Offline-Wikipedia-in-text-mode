@@ -1,0 +1,5 @@
+{
+ "id": "861518",
+ "text": "Command Prompt (also known as cmd.exe, cmd) is a Windows program found in all windows versions that can be used to execute commands (for example `ping google.com` will ping the Google website, and `taskkilll /F /IM iexplore.exe /T` will forcefully terminate the Internet Explorer application. The Command Prompt is also found in other operating systems, such as ReactOS and Linux. Category:Microsoft Windows software",
+ "title": "Command prompt"
+}

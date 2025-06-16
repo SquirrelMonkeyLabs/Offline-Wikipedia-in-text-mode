@@ -1,0 +1,5 @@
+{
+ "id": "245008",
+ "text": "Context in computer science refers to a specific set of data, which is related to a task. It must be saved to allow a task interruption to happen at a given date, a continuation of this task at the point it has been interrupted, and at an arbitrary future date. Context is important when tasks can be interrupted. Upon being interrupted, the processor saves the context. It then continues with the Interrupt Service Routine. The latency will be smaller if the context is smaller. The context data will sometimes be located in Processor registers, the computer memory, or control registers on some operating systems. The storage memory is not concerned by the task context in the case of a context switch, even if this can be stored for some uses (checkpointing). == References == Category:Computer science",
+ "title": "Context (computing)"
+}

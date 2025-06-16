@@ -1,0 +1,5 @@
+{
+ "id": "121220",
+ "text": "The Live USB system creator is to tool designed to create Live USBs of Ubuntu from a running Ubuntu Live CD ==Features== * Detects available USB flash drives (using HAL) * Partitions USB flash drive with 1 partition * Sets partition bootable * Writes MBR to USB flash drive * Formats partition FAT32 * Installs bootloader (syslinux) to partition * Writes bootloader configuration file * Copies necessary files from running Live CD to USB flash drive * Sets language and keyboard of USB Live system to match running Live CD * Optionally: Downloads and integrates Adobe Flash Player * Optionally: Enables persistent /home (Ubuntu 8.10 and later only) ==Related pages== *List of tools to create Live USB systems *Ubuntu Live USB creator Category:Linux software",
+ "title": "Live USB system creator"
+}

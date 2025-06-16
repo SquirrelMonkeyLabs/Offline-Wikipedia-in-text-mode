@@ -1,0 +1,5 @@
+{
+ "id": "811453",
+ "text": "When looking at a technical system, a single point of failure is a component that will stop the whole system from working if it fails. Systems that are built for high availability or reliability usually are designed to avoid single point of failures. This is usually done by adding redundancy, which is more than one thing that can do the same work. Category:Systems theory Category:Control engineering",
+ "title": "Single point of failure"
+}

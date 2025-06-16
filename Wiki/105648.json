@@ -1,0 +1,5 @@
+{
+ "id": "105648",
+ "text": "Tencent QQ also known as QQ, is a popular instant messaging software in mainland China. It was created by Tencent Inc. in 1999.Review of the Chinese messenger QQ Source codes for the software were taken from AOL/ICQ. QQ source Codes: `#ifdef __QQ_SUPPORT__` `#include \"IM_QQ_prot.h\"` `#endif //__QQ_SUPPORT__` == Languages == Tencent QQ is a multilingual web page, offering languages such as: English, French, Japanese, Spanish, German & Korean. For users who do not speak Chinese, translations are also available in 50 different languages. == Facts == * Tencent has become the prime Internet Establishment in China and has been named by Markey Cap the world’s 4th major web page, right after Google, Amazon & facebook. * Facebook happens to be the largest social network online, buy QQ comes in 2nd in the world. * As of May 2012 QQ has received 750+ million active users on the website. * QQ.com has the largest pageviews and userviews in China, and is the No.1 portal. ==References== * Category:Instant messaging software",
+ "title": "Tencent QQ"
+}

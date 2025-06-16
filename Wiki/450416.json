@@ -1,0 +1,5 @@
+{
+ "id": "450416",
+ "text": "Pierre-Simon de Laplace used an operator in order to be able to model the movement of stars. This operator, later named Laplace operator, is used on functions of scalars. The Laplace operator, which is also called scalar Laplacian, applies to scalar fields and returns a scalar quantity. The Vector Laplacian applies to the vector fields and returns a vector quantity. When computed in rectangular Cartesian coordinates, the returned vector field is equal to the vector field of the scalar Laplacian applied on the individual elements. In physics, the Vector Laplacian is commonly used for the wave equations that are used to model electromagnetic fields. Category:Calculus",
+ "title": "Vector Laplacian"
+}

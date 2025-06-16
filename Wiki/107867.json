@@ -1,0 +1,5 @@
+{
+ "id": "107867",
+ "text": "Deduction is one of the two main types of reasoning. The other is induction. In deduction, we apply a general rule to a particular case. Deductive arguments are attempts to show that a conclusion must follow from a set of premises or hypotheses. A deductive argument is valid if the conclusion follows necessarily from the premises. Aristotle, the first person we know who wrote down laws of deduction, gives this example of deduction: * All men are mortal. * Socrates is a man. * Therefore, Socrates is a mortal. The first two statements are called \"premises\". The last statement is called the \"conclusion\". The conclusion is taken from the premises. #If the conclusion is wrong, then at least one of the premises is wrong #If one of the premises is wrong, the conclusion may also be wrong. Deductive reasoning is often called \"top-down logic\", whereas inductive reasoning is called \"bottom-up reasoning\". Category:Logic",
+ "title": "Deductive reasoning"
+}

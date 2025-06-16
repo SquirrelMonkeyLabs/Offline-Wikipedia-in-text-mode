@@ -1,0 +1,5 @@
+{
+ "id": "181065",
+ "text": "Lagrange's theorem in group theory states if G is a finite group and H is a subgroup of G, then |H| (how many elements are in H, called the order of H) divides |G|. Moreover, the number of distinct left (right) cosets of H in G is |G|/|H|. This theorem is named after mathematician Joseph-Louis Lagrange. Applications * For any g in a group G, g^k=e for some k that divides the |G| * Any group of prime order cyclic (Any element in G can be created by a single element) and simple (no normal subgroups that aren't trivial) Category:Group theory Category:Mathematical theorems",
+ "title": "Lagrange's theorem (group theory)"
+}

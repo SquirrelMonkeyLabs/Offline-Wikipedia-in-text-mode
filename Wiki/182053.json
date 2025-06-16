@@ -1,0 +1,5 @@
+{
+ "id": "182053",
+ "text": "FreeNAS is a free network-attached storage server. It supports CIFS (Samba), FTP, NFS, rsync, AFP protocols, iSCSI, S.M.A.R.T., local user authentication, and software RAID (0,1,5). It can be configured with a web browser. FreeNAS takes less than 64 MB once installed on CompactFlash, hard drive or USB flash drive. FreeNAS is currently distributed as an ISO image and in source form. It is possible to run FreeNAS from a Live CD, with the configuration files stored on an MS-DOS-formatted floppy disk. There is also a VMware disk image available. TrueNAS is based on m0n0wall. == References == Category:Servers",
+ "title": "TrueNAS"
+}

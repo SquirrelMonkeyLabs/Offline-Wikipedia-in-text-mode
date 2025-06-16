@@ -1,0 +1,5 @@
+{
+ "id": "232496",
+ "text": "Pseudocode (sometimes written as pseudo-code) is a description of the source code of a computer program or an algorithm in a language that is easily understood by humans. It uses the general structure of a computer programming language, but does not use the details that are required by machines to understand and execute the code. The main purpose of writing pseudocode is to allow humans to understand the computer program or algorithm without having to understand any programming language. == Syntax == Pseudocode does not follow the syntax and grammar of any specific computer programming language. Variable declarations are generally excluded. Function calls and blocks of code, such as code for a loop, are often replaced by a one-line natural human language sentence. == Examples == FOR I FROM 1 TO 50: PRINT I This pseudocode uses a for loop to print all the integers from 1 to 50. Category:Computer science",
+ "title": "Pseudocode"
+}

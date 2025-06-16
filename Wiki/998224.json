@@ -1,0 +1,5 @@
+{
+ "id": "998224",
+ "text": "Monads are a way of organizing code in functional programming languages. They provide a structure for handling complex operations that involve multiple steps or may fail at some point. In simpler terms, a Monad is like a box that holds some value or computation. You can use certain operations, like 'bind' or 'map', to extract the value from the box, modify it, or put it into another box. One of the benefits of using Monads is that they can help you write more readable and maintainable code, by separating the concerns of handling errors, side effects, and pure computations. Some common examples of Monads in functional programming languages include the Maybe Monad for handling null values or errors, the List Monad for dealing with collections, and the IO Monad for working with input/output operations. Category:Programming languages",
+ "title": "Monad (functional programming)"
+}

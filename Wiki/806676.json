@@ -1,0 +1,5 @@
+{
+ "id": "806676",
+ "text": "The falling factorial (n)_k is a multiplication of progressively smaller terms starting with n where there are k number of terms. Each term is a natural number and decreases by 1. Similarly the rising factorial n^{(k)}is a multiplication of progressively larger terms starting with n where there are k number of terms. Each term is a natural number and increases by 1. Category:Mathematics",
+ "title": "Falling and rising factorials"
+}

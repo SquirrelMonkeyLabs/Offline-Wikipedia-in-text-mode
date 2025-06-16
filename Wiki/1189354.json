@@ -1,0 +1,5 @@
+{
+ "id": "1189354",
+ "text": "A recurrent neural network (RNN) is a special type of computer program that can remember things it has seen before. RNNs do this by connecting information from the past (called a hidden state) with new information. Because of this, RNNs are good at processing data in a sequence, like understanding language, translating between languages, or predicting what might come next in a sequence. == References == Category:Machine learning",
+ "title": "Recurrent neural network"
+}

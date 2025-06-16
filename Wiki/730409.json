@@ -1,0 +1,5 @@
+{
+ "id": "730409",
+ "text": "Fermi-Dirac statistics is a branch of quantum statistics. It is named after Enrico Fermi and Paul Dirac. It is used to describe the macroscopic state of a system which is made of many simliar particles (Fermions). One example is to describe the state of electrons in metals and semimetals, to describe electrical conductivity. Fermi-Dirac statistics makes the following assumptions: *None of the states of the particles can hold more than one particle (known as Pauli exclusion principle) *Exchanging a particle for another similar particle will not lead to a new state, but will give the same state (known as Identical particles) The Fermi distribution tells with what probability, a Fermi gas, at a given temperature and energy level, will have a particle in the given state. Category:Quantum mechanics",
+ "title": "Fermi-Dirac statistics"
+}

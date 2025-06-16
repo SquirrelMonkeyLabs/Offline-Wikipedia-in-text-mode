@@ -1,0 +1,5 @@
+{
+ "id": "500562",
+ "text": "Carrier Sense Multiple Access With Collision Avoidance or CSMA/CA is an access method (or protocol, or rule) used in Ethernet networks. In CSMA/CA, before a host sends information on the wire, it will \"sense\" to see if the wire is free of signals. If the wire is free, the host sends a piece of test data on the wire to see if it collides with other data. If the test data does not collide, the host goes on to send the real data on the wire. Category:Computer networking",
+ "title": "Carrier-sense multiple access with collision avoidance"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "130097",
+ "text": "In computing, Kivio is a free diagramming software that is part of KOffice, an office suite for KDE. == Description == Kivio is a flowcharting and diagramming program for the KOffice office suite, and has a user interface that looks like Microsoft Visio. Features: *Scriptable stencils using Python. *Support for Dia stencils. *Plugin framework for adding more functions. == Other websites == *Kivio , KOffice info page. *Kivio: Powerful Flowchart Program for KDE , theKompany info page. theKompany sells extra stencils for Kivio, as well as a commercial cross-platform closed-source version (which also runs on Windows). *xfig2sml The xfig2sml project allows Dia stencils to be imported into Kivio. To get lots of extra stencils for Kivio, just download xfig-stencils.sml (actually, it's xfig-stencils-0.1.tar.bz2) from the \"Files\" tab on http://sourceforge.net/projects/xfig2sml, then import this tarball directly into Kivio using \"File/Import Stencil Set\". Category:KOffice Category:Diagramming software",
+ "title": "Calligra Flow"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "729470",
+ "text": "In mathematics, a window function is a special function that can be applied to a signal, as it occurs in digital signal processing. A window function has a value of zero outside the domain which is of interest, and a non-zero value inside this domain. When multiplied with the signal (function), the result will be zero outside the domain of interest, and non-zero inside it - it will only leave the \"window\". The simplest possible window function is rectangular: It is 1 inside the domain of interest, and zero everywhere else. It is named Dirichlet window (after Peter Gustav Lejeune Dirichlet). Many window functions are symmetric around the center (which is often in the middle of the interval). They will amplify or weaken the signal in certain positions, Category:Digital signal processing",
+ "title": "Window function"
+}

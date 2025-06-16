@@ -1,0 +1,5 @@
+{
+ "id": "315086",
+ "text": "Digital certificates are electronic 'credit cards' that establish your credentials when doing a business or other transactions on the Web. It is issued by a certification authority (CA). It contains your name, a serial number, expiration dates, a copy of the certificate holder's public key (used for encrypting messages and digital signatures), and the digital signature of the certificate-issuing authority so that a recipient can verify that the certificate is real. Some digital certificates conform to a standard, X.509. Digital certificates can be kept in registries so that authenticating users can look up other users' public keys. ==Types of digital certificate== • Class 1 defines the certificate that does not hold any legal validity as the validation process is based only on a valid email ID and involves no direct verification. • Class 2 category states that a person's identity is to be verified against a trusted,pre-verified database. • Class 3 requires the person to present himself or herself in front of the registration authority and prove his or her identity. Category:Cryptography",
+ "title": "Digital certificates"
+}

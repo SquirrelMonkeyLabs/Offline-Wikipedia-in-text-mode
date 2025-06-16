@@ -1,0 +1,5 @@
+{
+ "id": "556439",
+ "text": "When writing data to the disk, the data needs to be written to a certain position on the disk. This is done by a component called disk read/write head. Category:Computing",
+ "title": "Disk read/write head"
+}

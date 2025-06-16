@@ -1,0 +1,5 @@
+{
+ "id": "128955",
+ "text": "GDebi is a computer program that runs on Linux and can install .deb packages. It is available with a graphical interface, but also has a command line option. == Technology == GDebi can install local .deb packages with automatic dependency resolution (it automatically downloads and installs the required packages with apt). Category:Linux software",
+ "title": "GDebi"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "830523",
+ "text": "SAP is a way to store music data from the Atari 8-bit family that uses the POKEY sound chip. Most popular music for the Atari 8-bit family was written between 1981 and 1987. SAP files are similar to SID (Commodore 64), SPC (Super Nintendo Entertainment System) and NSF (Nintendo Entertainment System) files because players emulate the CPU and sound hardware of the system to play music. SAP files can be played by a SAP player, which many platforms have. For example, VLC version 2 and higher can play SAP files on Apple Macintosh computers using the PowerPC and Intel architectures. There are also tools to turn SAP files to other formats. ==References== ==Other websites== *asap.sourceforge.net - SAP Format Specification *atari.org - ASMA -- Atari SAP Music Archive A collection of POKEY chip-music (SAP) players and SAP music from various Atari 8-bit games. *asap.sourceforge.net - ASAP -- Another Slight Atari Player SAP player (POKEY and 6502 emulation core + plugins for various music players) Category:Atari Category:Computer file formats for audio",
+ "title": "SAP (file format)"
+}

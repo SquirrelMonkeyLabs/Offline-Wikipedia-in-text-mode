@@ -1,0 +1,5 @@
+{
+ "id": "49978",
+ "text": "A sorting algorithm is an algorithm that puts the elements of a collection into a certain order. Most commonly, numbers are sorted by their value, and words are sorted by their alphabetical order (as they would appear in a dictionary or phone book). Efficient sorting is important for other things: finding an element in a sorted collection is easier, and merging a new element may also be easier if the collection is sorted. Note that not all sorting algorithms can be applied in all cases. An example might be that the records can only be read one after another (sequentially); they might be stored on a tape. Category:Searching and sorting algorithms",
+ "title": "Sorting algorithm"
+}

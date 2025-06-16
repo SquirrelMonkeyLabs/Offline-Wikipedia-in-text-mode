@@ -1,0 +1,5 @@
+{
+ "id": "692272",
+ "text": "A space (or shape) is called simply connected if it is all one piece and does not have any \"holes\" that pass all the way through it. For example, a ball is simply connected, but a doughnut is not. More formally, being \"one piece\" means a shape is path-connected, which means there is a path from any point inside the shape to any other which does not leave the shape. Category:Mathematics Category:Geometry",
+ "title": "Simply connected space"
+}

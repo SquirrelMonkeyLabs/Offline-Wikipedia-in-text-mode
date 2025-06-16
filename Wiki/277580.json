@@ -1,0 +1,5 @@
+{
+ "id": "277580",
+ "text": "A Unix shell, also called terminal or console, is a program that accepts Unix commands from the keyboard and executes them. These commands can be installed programs, for example: * ls to list files * cp to copy files * man to get more information on commands The commands do not need to come from the keyboard. They will, generally speaking, come from stdin. A Unix shell is a command line interface made especially for the control of a Unix system. There are different Unix shells, most notably bash, sh, C Shell and zsh. Their syntax is similar, for example the following dialog to find out your CPU type would be possible with all of them: # cat /proc/cpuinfo | grep --max-count=1 \"model name\" model name : Intel(R) Core(TM) i7 CPU 860 @ 2.80GHz Category:Unix",
+ "title": "Unix shell"
+}

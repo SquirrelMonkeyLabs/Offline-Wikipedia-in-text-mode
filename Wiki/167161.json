@@ -1,0 +1,5 @@
+{
+ "id": "167161",
+ "text": "The Data Base Task Group (DBTG) was a working group founded in 1965 by the Cobol Committee, formerly Programming Language Committee, of the Conference of Data Systems Language (CODASYL). In April 1971, The DBTG published a report containing specifications of a Data Manipulation Language (DML) and a Data Definition Language (DDL) for standardization of network database models. The first DBTG proposals had already been published in 1969. The specification was subsequently modified and developed in various committees and published in other reports in 1973 and 1978. The specification is often referred to as the DBTG database model or the CODASYL database model. As well as the data model, many basic concepts of database terminology were introduced by this group, notably the concepts of schema and subschema. == References == *Gunter Schlageter, Wolffried Stucky: Datenbanksysteme: Konzepte und Modelle, B. G. Teubner Stuttgart, 1983, Category:Databases Category:Software",
+ "title": "Data Base Task Group"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "846024",
+ "text": "A data lake is a storage repository that can store a large amount of structured, semi-structured, and unstructured data. It is a place to store every type of data in its native format with no fixed limits on account size or file. It offers high data quantity to increase analytic performance and native integration. A data lake is like a large container which is very similar to real lake and rivers. Just like in a lake you have multiple tributaries coming in, a data lake has structured data, unstructured data, machine to machine, logs flowing through in real-time. The data lake democratizes data and is a cost-effective way to store all data of an organization for later processing. Research analysts can focus on finding meaning patterns in data and not data itself. Unlike a hierarchal data warehouse where data is stored in files and folders, a data lake has a flat architecture. Every data elements in a data lake is given a unique identifier and tagged with a set of metadata information. == References == Category:Computing",
+ "title": "Data lake"
+}

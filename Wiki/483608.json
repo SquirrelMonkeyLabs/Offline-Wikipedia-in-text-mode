@@ -1,0 +1,5 @@
+{
+ "id": "483608",
+ "text": "Currying is a technique used in mathematics and computer science that consists of changing a function that takes several arguments into a number of functions that each take one argument. Mathematicians Moses Schönfinkel (Reprinted lecture notes from 1967.)Kenneth Slonneger and Barry L. Kurtz. Formal Syntax and Semantics of Programming Languages. p. 144. and Gottlob Frege laid the groundwork for this technique, which is named after Haskell Brooks Curry.Henk Barendregt, Erik Barendsen, \"Introduction to Lambda Calculus\", March 2000, page 8. Currying is used in Lambda calculus. Some programming languages, such as ML and Haskell say that functions can only have one argument. ==References== Category:Mathematics",
+ "title": "Currying"
+}

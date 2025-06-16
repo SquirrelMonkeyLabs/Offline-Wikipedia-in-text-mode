@@ -1,0 +1,5 @@
+{
+ "id": "1153767",
+ "text": "Chess960, also known as Fischer random chess, is a chess variant that randomizes the starting position of the pieces on their back row, but there are some restrictions: The king must be in between the two rooks, and the bishops must go on their opposite colour squares. And their second row will still have pawns on each column. ==Castling== To castle in Chess960: All the squares between the king and the rook must be empty, no matter how far it is from each other and all normal castling rules are followed. To castle kingside, move the king and the rook to the same spots in regular chess (the king on the G-column and the rook on the F-column) and to castle queenside move the king and the rook to the same spots in regular chess (the king on C-column and rook on D-column). ==Origin== It was named after Bobby Fischer, which is a chess player that played the World Chess Champion. ==Related pages== *Chess *Chess variant Category:Chess variants",
+ "title": "Chess960"
+}

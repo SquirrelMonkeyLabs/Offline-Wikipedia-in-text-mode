@@ -1,0 +1,5 @@
+{
+ "id": "954648",
+ "text": "Harmonic means are a type of mean. It is the number of values divided by the reciprocal of the values. If there are N numbers X_1,X_2,X_3...X_N, then the harmonic mean of these numbers are \\frac{N}{\\frac{1}{X_1}+\\frac{1}{X_2}+\\frac{1}{X_3}+\\dots + \\frac{1}{X_N}} Out of the geometric mean and arithmetic mean, the harmonic mean is usually the smallest. == Example == Let's find the harmonic mean of 2,4 and 5. There are three numbers so we will be dividing three. The reciprocals of the numbers are \\frac{1}{2}, \\frac{1}{4} and \\frac{1}{5}. If we add the reciprocals we get \\frac{19}{20}. If we divide three by this number, the result is \\frac{60}{19} (approximately 3.157894737) ==References== Category:Statistics Category:Mathematical analysis",
+ "title": "Harmonic mean"
+}

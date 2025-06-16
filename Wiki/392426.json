@@ -1,0 +1,5 @@
+{
+ "id": "392426",
+ "text": "Prolog is a programming language that uses first order logic. It is the most used logic programming language. It is a declarative programming language. Alain Cormerauer, a French computer scientist created Prolog in the early 1970s. Prolog is rather different from other programming languages. It uses facts and rules. Given the facts, the rules can be used to figure out new facts. Prolog uses a paradigm called negation as failure, which means that \\mathrm{not}~p is assumed if p cannot be derived. This is different from true logical negation. While negation is failure has its benefits, it often confuses people starting to learn Prolog, as they expect true logical negation. Prolog also uses Horn clauses. It is a turing-complete programming language. Category:Programming languages",
+ "title": "Prolog"
+}

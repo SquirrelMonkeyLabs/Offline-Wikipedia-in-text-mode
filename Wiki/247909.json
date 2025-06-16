@@ -1,0 +1,5 @@
+{
+ "id": "247909",
+ "text": "Ambient occlusion is a technique or series of techniques used in 3D computer graphics to estimate how light behaves more accurately. Inner crevices of objects (or space where two objects are close to each other) have less light and appear darker (have more shadow). Imagine being inside a matte world with even light; the surface color is exactly the same everywhere, so you shouldn't be able to see any corners or edges; because of the described effect, you can. Category:Computer graphics",
+ "title": "Ambient occlusion"
+}

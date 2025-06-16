@@ -1,0 +1,5 @@
+{
+ "id": "1101619",
+ "text": "Heron's formula is used to find the area of triangle using its length of its sides. The formula is: :A = \\sqrt{s(s-a)(s-b)(s-c)}. a, b, c are the sides and s is semi perimeter = A+B+C/2 Category:Theorems in geometry",
+ "title": "Heron's formula"
+}

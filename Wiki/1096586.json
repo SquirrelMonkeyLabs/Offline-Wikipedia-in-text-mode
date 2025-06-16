@@ -1,0 +1,5 @@
+{
+ "id": "1096586",
+ "text": "Encapsulated PostScript is a graphics file format. It describes printable documents. EPS was developed because it is difficult to transfer images between Postscript files. An EPS file contains a bounding box. This makes it possible to calculate a preview image. The file contains either a bitmap or a vector graphic image. In essence, EPS is PostScript with a few restrictions, such as just having one page.Frim the file signature, people cannot tell whether the image is a bitmap or in vector format. EPS is hardly used anymore due to the newer PDF. Category:Technology",
+ "title": "Encapsulated PostScript"
+}

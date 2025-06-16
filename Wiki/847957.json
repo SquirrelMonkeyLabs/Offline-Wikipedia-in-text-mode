@@ -1,0 +1,5 @@
+{
+ "id": "847957",
+ "text": "Pipelight is a compatibility layer that allows NPAPI plugins for Windows to be used on Linux. It is a modified version of Wine. Silverlight, Flash Player, Unity Web Player and Widevine run. More plugins, such as Shockwave, run experimentally. The web browser must be able to use NPAPI plugins. Some web browsers (notably newer versions of Chrome and Opera, and Firefox 52 and later) are not. == References == Category:Linux software",
+ "title": "Pipelight"
+}

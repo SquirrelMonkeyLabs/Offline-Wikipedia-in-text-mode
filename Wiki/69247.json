@@ -1,0 +1,5 @@
+{
+ "id": "69247",
+ "text": "In set theory, a set A is called a subset of a set B if all of the elements of A are contained in B. For example, any set is a subset of itself. Another example of a subset is a proper subset: a set A is called a proper subset of a set B if A is subset of B but is not equal to B. The symbol \"\\subseteq\" always means \"is a subset of.\" The symbol \"\\subsetneq\" always means \"is a proper subset of.\" There is also the symbol \"\\subset\", which some authors use to mean \"is a subset of\" and other authors only use to mean \"is a proper subset of.\" For example: *\\\\{3,7\\\\} is a subset of \\\\{3,7\\\\}, so we could write \\\\{3,7\\\\} \\subseteq \\\\{3,7\\\\}. *\\\\{3,7\\\\} is a proper subset of \\\\{1,3,4,7\\\\}, so we could write \\\\{3,7\\\\} \\subseteq \\\\{1,3,4,7\\\\},\\\\{3,7\\\\} \\subsetneq \\\\{1,3,4,7\\\\}, or \\\\{3,7\\\\} \\subset \\\\{1,3,4,7\\\\}. *The interval [0, 1] is a proper subset of the set of real numbers \\mathbb{R}, so [0, 1] \\subset \\mathbb{R}. : == Related pages == * Subset sum problem * Vector subspace == References == Category:Set theory",
+ "title": "Subset"
+}

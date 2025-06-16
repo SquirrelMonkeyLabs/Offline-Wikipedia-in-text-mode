@@ -1,0 +1,5 @@
+{
+ "id": "433812",
+ "text": "In mathematics, homology is a certain procedure to associate a sequence of abelian groups or modules with a mathematical object, such as a topological space or a group. The word homology has the Ancient Greek root homos, which means identical. For a topological space, the homology groups are generally much easier to compute than the homotopy groups, and consequently one usually will have an easier time working with homology to help with the classification of spaces. The original motivation for defining homology groups is the observation that shapes are distinguished by their holes. Since a \"hole\" is defined by something that is \"not there\", this poses the problem of how to define what a hole is, and how to distinguish between different kinds of holes. Homology is a rigorous mathematical method for defining and categorizing holes in a shape. As it turns out, there are some kinds of holes that homology cannot \"see\" — in which case homotopy groups may be what is needed. Category:Abstract algebra Category:Topology",
+ "title": "Homology (mathematics)"
+}

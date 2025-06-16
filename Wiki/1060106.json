@@ -1,0 +1,5 @@
+{
+ "id": "1060106",
+ "text": "== Poker Runs == In poker, you can have a run, straight, or sequence. This is a set of playing cards where cards have consecutive rank values. Aces can be Low, or High (Low ace, or High ace). A Low Ace is when you have a ace and the cards in your hand are a small value. (Ace, 2, 3, 4) the ace would be listed as Low if the ace is matched with (7, 8, 9, 10, Ace) the ace is listed as a High Ace. Ace High 9 10 J Q K A 7 8 9 10 4 5 6 Ace Low A 2 3 Category:Poker",
+ "title": "Run (cards)"
+}

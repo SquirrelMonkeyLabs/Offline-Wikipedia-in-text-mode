@@ -1,0 +1,5 @@
+{
+ "id": "1047169",
+ "text": "Given a number of functions, a commutative diagram shows that in many cases, applying different functions, perhaps in a different order gives the same result; Functions can be chained, Mathematician talk about composing them: That way, it is possible to create a new function, which first applies f, then g, and call it h But h can of course be any other path as well. A diagram is called commutative diagram, if it doesn't matter what path is chosen to get from A to C. Category:Mathematics",
+ "title": "Commutative diagram"
+}

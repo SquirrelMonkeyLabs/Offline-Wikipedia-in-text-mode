@@ -1,0 +1,5 @@
+{
+ "id": "389022",
+ "text": "A pyramid is a three-dimensional shape. It has triangular sides that come together in a point at the top, call the \"apex\". The other side is a base, which is shaped as a polygon of any number of sides. A pyramid with a square base (bottom), and four triangle faces, is called a square pyramid. A pyramid with a triangular base is called a triangular pyramid or tetrahedron. A tetrahedron with four equilateral triangles is one of the Platonic solids. The formula for the volume of a square pyramid is V=\\frac{bh}{3}. This means that one must find the volume by multiplying the base (B) by the height (h), then dividing the product by three. The base is also known as the product of the length and the width, thus this formula could alternatively be written as V=\\frac{lwh}{3}. Either way works, but the technical formula for the volume of a pyramid is the former, due to its use of the capital B, which is shorthand for length and width as stated before. Category:Polyhedra",
+ "title": "Pyramid (geometry)"
+}

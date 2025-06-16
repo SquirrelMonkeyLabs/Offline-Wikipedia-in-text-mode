@@ -1,0 +1,5 @@
+{
+ "id": "816980",
+ "text": "Unicode has characters of chess symbols. This means that chess symbols can be encoded as text instead of images. Algebraic notation (text that shows where to move a chess piece) can be typed using the symbol of the piece. For example, ♘c6 instead of Nc6. == Symbols == The symbols in this table are from the Unicode block named Miscellaneous Symbols. Other chess symbols are in the Chess Symbols block. Chess symbols Character Name Code ♔ White chess king U+2654 ♕ White chess queen U+2655 ♖ White chess rook U+2656 ♗ White chess bishop U+2657 ♘ White chess knight U+2658 ♙ White chess pawn U+2659 ♚ Black chess king U+265A ♛ Black chess queen U+265B ♜ Black chess rook U+265C ♝ Black chess bishop U+265D ♞ Black chess knight U+265E ♟︎ Black chess pawn U+265F ==References== Category:Chess Category:Symbols Category:Typography",
+ "title": "Chess symbols in Unicode"
+}

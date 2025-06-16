@@ -1,0 +1,5 @@
+{
+ "id": "779314",
+ "text": "Binary neural network is an artificial neural network, where commonly used floating-point weights are replaced with binary ones. It saves storage and computation, and serves as a technique for deep models on resource-limited devices. Using binary values can bring up to 58 times speedup. Accuracy and information capacity of binary neural network can be manually controlled. Binary neural networks do not achieve the same accuracy as their full- precision counterparts, but improvements are being made to close this gap. It has been argued theoretically that quantum computers could train binary neural nets to their global optimum via quantum search techniques in shorter time than brute force classical optimisation. ==References== Category:Machine learning",
+ "title": "Binary neural network"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "321105",
+ "text": "The Pentium F00F bug is a hardware bug (design flaw) found in most original Pentium computer processors (but not in Pentium II, III, or 4). The bug allows a malicious program running as an unprivileged (non-root) user to crash the computer by running the instructions (in hexadecimal) F00FC7C8. In assembly language, this represents \"lock cmpxchg8b eax\". If the system has crashed because of this bug, the only way to fix it is to reboot the computer, usually by unplugging it and plugging it back in. It does no permanent damage to the computer, but it may cause data loss. The bug was discovered in November 1997. Many operating systems made since 1997 have protection against this bug.https://web.archive.org/web/20160304060905/http://download.intel.com/support/processors/pentium/sb/242480.pdf ==References== Category:Computers",
+ "title": "Pentium F00F bug"
+}

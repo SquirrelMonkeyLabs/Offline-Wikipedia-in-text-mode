@@ -1,0 +1,5 @@
+{
+ "id": "747885",
+ "text": "In mathematics, a Multibrot set is the set of numbers in the complex plane that are put into a function multiple times until its absolute value is greater than a specific number. The Multibrot set is a modification of the Mandelbrot set, where its function is: z_{n} = z^{\\ \\ \\ \\ \\ \\, 2}_{n-1} + c , the Multibrot set's function is: z_{n} = z^{\\ \\ \\ \\ \\ \\, d}_{n-1} + c , where d is any number, real or complex. The formula for the Multibrot set can also be used for a Julia set. == References == Category:Fractals",
+ "title": "Multibrot set"
+}

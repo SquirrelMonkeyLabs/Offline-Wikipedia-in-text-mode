@@ -1,0 +1,5 @@
+{
+ "id": "318294",
+ "text": "The Data Encryption Standard is a 56-bit cipher that was once recommended by the U.S. Government. In 1998, it was defeated by a machine built by the Electronic Frontier Foundation. It has been replaced by the Advanced Encryption Standard in most uses. == 3DES == After DES was cracked, the NIST, the US institution for technology and also cryptography, developed 3DES. It has 3 times more bits, but is otherwise the same as DES. Theoretically, 3DES should provide 168 bits of security. But because of the design, the NIST later said it only provides 80 bits of security. That can be broken by a modern computer and thus the cipher should be considered broken. Category:Cryptography",
+ "title": "Data Encryption Standard"
+}

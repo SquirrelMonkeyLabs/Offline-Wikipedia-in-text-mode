@@ -1,0 +1,5 @@
+{
+ "id": "1073718",
+ "text": "A web robot (or Internet bot) is a piece of software that automatically does tasks on the Internet, usually to copy the behaviors of a human on the internet. Web robots are used to do simple tasks faster then a human could do. Web robots are mostly used for web crawling, where a robot downloads the content from a website and looks through the content. There have been attempts to restrict web robots from websites. Some websites have a robots.txt file to control what the web robots can or can not do. Any web robot that does not follow the rules can be prevented from accessing the website with the robots.txt file. However if there is no program to enforce the rules in the robots.txt file, then following the rules is a choice for the web robot. There are also web robots deemed as \"good\" such as search engine spiders, who crawl websites for use in search engines such as Google or Bing but there are also web robots deemed as \"bad\" such as web robots who attack political campaigns with the intent of causing harm to that political campaign. == References == Category:Software",
+ "title": "Internet bot"
+}

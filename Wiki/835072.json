@@ -1,0 +1,5 @@
+{
+ "id": "835072",
+ "text": "Go, also known as Golang, is a statically-typed concurrent programming language made by an engineer team at Google. == Example == Here is a hello world program in Go. package main // Import fmt library through the standard library. import \"fmt\" // Define entry point. func main() { // Write to output. fmt.println(\"Hello world!\") } == References == Category:Multi-paradigm programming languages",
+ "title": "Go (programming language)"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "428260",
+ "text": "A band-pass filter is an electronic filter that passes the frequency component of a signal within a certain range value, where it has its lower cutoff frequency and upper cutoff frequency. The frequency component outside that range of value will be suppressed to almost zero. In low frequency applications (up to 100 KHz), passive filters are generally constructed using simple R.C. networks while higher frequency filters (above 100 KHz) are usually made from R.L,C components. Category:Electronic components",
+ "title": "Band-pass filter"
+}

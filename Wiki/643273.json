@@ -1,0 +1,5 @@
+{
+ "id": "643273",
+ "text": "In set theory an open set is a set where all elements have the same properties. Simply put, an open set is a set that does not include its edges or endpoints. For each point in the set, you can make a bubble around that point, such that all points in the bubble are also in the set. On the other hand, a closed set includes all its edges or endpoints. A set that includes some of its edges or endpoints is neither open nor closed. An open set is very similar to an open interval. == Examples == The set (0,1) is open. If we choose a very small value, there will always be a small bubble which are all in the set (0,1). If we choose a very small value h ∈ (0,1), we can make a bubble \\left [ \\frac{h}{2},\\frac{3h}{2} \\right ], in which all the values are in (0,1). However, [0,1] is closed. If we choose the value 0, and choose a very small value k, 0-k ∉ [0,1], which means that it's closed. ==References== Category:Set theory Category:Topology",
+ "title": "Open set"
+}

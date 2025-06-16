@@ -1,0 +1,5 @@
+{
+ "id": "810890",
+ "text": "The GNU Compiler Collection (also known as GCC) is a free software compiler written as part of the GNU project. It originally only compiled C code into machine language, however, now many frontends have been created to allow it to compile other languages. As well as being the compiler for GNU, it is used by many other projects, most notably many Linux-based operating systems. == Languages == GCC supports compiling the following programming languages: * C (using the original gcc frontend.) * C++ (g++ frontend) * Objective-C * Objective-C++ * Fortran * Ada * Go (gccgo frontend) == References == Category:GNU project software Category:Linux software",
+ "title": "GNU Compiler Collection"
+}

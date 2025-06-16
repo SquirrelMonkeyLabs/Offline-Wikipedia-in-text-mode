@@ -1,0 +1,5 @@
+{
+ "id": "1037911",
+ "text": "A transformer is a computer model used for deep learning, which is a kind of machine learning where computers teach themselves. Transformers were introduced in a 2017 paper \"Attention Is All You Need\" by a Google Brain team. Transformers are popular for large-scale language training and work by tokenizing text, which means they change words into a format (like a list of numbers) for easier analysis. Transformers process multiple parts of an input sequence simultaneously. This is in contrast to older and slower sequential models that process data one step at a time. Transformers are used in various fields including language, images, and audio, leading to models like GPT which powers chatbot ChatGPT. == References == Category:Machine learning",
+ "title": "Transformer (machine learning model)"
+}

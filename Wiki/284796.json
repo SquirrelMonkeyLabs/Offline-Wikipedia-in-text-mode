@@ -1,0 +1,5 @@
+{
+ "id": "284796",
+ "text": "Degree of unsaturation (DOU) is a way to figure out how many rings or double bonds are in a molecule. == Calculation == # Determine the number of hydrogens that should be present if it was completely single bonded. In other words use the formula 2n+2 (with n = the number of carbons present. # Subtract the total from above from the number of hydrogens actually present. # Take that number and divide it by two. This number is your DOU. Each degree either equals one ring structure or pi bond. A double bond would have one DOU. A triple bond would have a DOU of two (triple bond is one sigma bond with two pi bonds). == Non-hydrocarbons == For the below, use the same rules as above, using the definitions below. * Silicon counts as a carbon * Boron, nitrogen and phosphorus each count as a \"half a carbon\" * Halogens (Group 7) count as a hydrogen * Oxygen, sulfur and selenium (Group 6) can be ignored Category:Organic chemistry",
+ "title": "Degree of unsaturation"
+}

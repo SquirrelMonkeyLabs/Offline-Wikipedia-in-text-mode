@@ -1,0 +1,5 @@
+{
+ "id": "663523",
+ "text": "Deep learning (also called deep structured learning or hierarchical learning) is a kind of machine learning, which is mostly used with certain kinds of neural networks. As with other kinds of machine learning, learning sessions can be unsupervised, semi-supervised, or supervised. In many cases, structures are organised so that there is at least one intermediate layer (or hidden layer), between the input layer and the output layer. Certain tasks, such as recognizing and understanding speech, images or handwriting, are easy to do for humans. However, for a computer, these tasks are very difficult to do. In a multi-layer neural network (having more than two layers), the information processed will become more abstract with each added layer. Deep learning models are inspired by information processing and communication patterns in biological nervous systems; they are different from the structural and functional properties of biological brains (especially the human brain) in many ways, which make them incompatible with neuroscience evidences. == References == Category:Machine learning",
+ "title": "Deep learning"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "841579",
+ "text": "tar, short for tarball, is a Linux utility to compress directories into a single file and then decompress them. A tarball, the name for a file created by tar, has the file extension \".tar\". tar is often used with GZip to compress the created tarballs, because the tarballs are often quite large. Since the tarball contains every file in a directory, it is as big or slightly bigger than all of the files by themself. Category:Linux software",
+ "title": "Tar (Linux tool)"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "450040",
+ "text": "In mathematics, modulation works out the remainder (what's left over) when we divide two integers (whole numbers without a fraction or a decimal) together. For example, 5 modulated by 2 is 1, because if we divide 5 by 2, then we get 2 (because 2\\times2=4) with 1 left over. The symbol for modulation is \\boldsymbol\\backslash. People sometimes also write mod, though this notation is rarely used. Because computers and calculators store numbers in different ways, they sometimes use different steps to work out the modulus (what we get when we modulate two numbers). == Related pages == * Primitive root modulo n * Modular arithmetic == References == Category:Number theory Category:Arithmetics Category:Abstract algebra Category:Computer science",
+ "title": "Modulation (mathematics)"
+}

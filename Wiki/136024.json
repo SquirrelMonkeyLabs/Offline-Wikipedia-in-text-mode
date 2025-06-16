@@ -1,0 +1,5 @@
+{
+ "id": "136024",
+ "text": "Port forwarding, also referred to as port mapping, is a method of forwarding a network port from one network node to another. This technique can allow an external user to reach a port on a private IP address (inside a LAN) from the outside using a NAT-enabled router. Port forwarding allows remote computers (e.g. public machines on the Internet) to connect to a specific computer within a private LAN. For example: * forwarding of port 80 to run an HTTP webserver within private LAN from internet * forwarding of port 22 to allow Secure Shell access within private LAN from internet * forwarding of port 21 to allow FTP access within private LAN from internet Port forwarding is not necessary with IPv6, because every IPv6-enabled device has a public IPv6 address. ==Related pages== * Internet protocol suite * Communications protocol == References == Category:Internet protocols",
+ "title": "Port forwarding"
+}

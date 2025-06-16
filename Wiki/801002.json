@@ -1,0 +1,5 @@
+{
+ "id": "801002",
+ "text": "A real or complex number is called an algebraic number if it is a solution of some one-variable polynomial equation whose coefficients are all integers. All rational numbers are algebraic numbers, along with some irrational numbers. For example, the golden ratio \\varphi = \\frac{1 + \\sqrt{5}}{2} = 1.618... is a solution to the equation x^2 - x - 1 = 0. A real or complex number that is not algebraic is called transcendental. While this is an abstract notion, theoretical mathematics has potentially far-reaching applications in communications and computer science, especially in data encryption and security. == References == Category:Numbers",
+ "title": "Algebraic number"
+}

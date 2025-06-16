@@ -1,0 +1,5 @@
+{
+ "id": "258150",
+ "text": "Silver oxide batteries are primary cells. They are generally found in small sizes. They are expensive because they contain silver, but do not have toxic mercury like the cheaper mercury battery. They generate electricity by oxidation of zinc with silver(I) oxide. It has a basic electrolyte, usually potassium hydroxide or sodium hydroxide. == Chemical background == Some chemical reactions happen during discharging: * Reduction: \\mathrm{Ag_2O + H_2O + 2e^{\\operatorname{-}} \\longrightarrow\\, 2Ag + 2(OH)^{\\operatorname{-}}} * Oxidation: \\mathrm{Zn + 2(OH)^{\\operatorname{-}} \\longrightarrow\\, ZnO + H_2O + 2e^{\\operatorname{-}}} * Redox: \\mathrm{2Ag^{\\operatorname{+}} + Zn \\longrightarrow\\, 2Ag + Zn^{2\\operatorname{+}}} * All: \\mathrm{Ag_2O + Zn \\longrightarrow\\, 2Ag + ZnO} == Related pages == *Mercury battery *Dry cell *Primary cell *Table of batteries Category:Batteries",
+ "title": "Silver oxide battery"
+}

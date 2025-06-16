@@ -1,0 +1,5 @@
+{
+ "id": "1103907",
+ "text": "GND records can also be found via viaf.org . They are marked with \"DNB\" (Deutsche Nationalbibliothek). The GND entries in the VIAF datasets are linked to the entries in the online catalogue of the German National Library. In the GND record, the identifier can be found in the field \"Link zu diesem Datensatz\" (\"http://d-nb.info/gnd/170118215\" means the GND number is 170118215). Note that only biographical records where the name field is labeled \"Person\" are valid GND records that can be used in this template. If the name field is labeled \"Name\", this particular record is not individualized, which means that the record can contain publications of various authors of the same name. Within VIAF, such non-individualized GND records are labelled as (undifferentiated). Another method is to search directly on portal.dnb.de. You may restrict the search results by the links under the heading \"Alle Normdaten\" on the right. For authority data about persons, click \"Personen\". Category:Libraries in Germany",
+ "title": "GND (identifier)"
+}

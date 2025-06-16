@@ -1,0 +1,5 @@
+{
+ "id": "798528",
+ "text": "Bessel's correction has high importance in calculating standard deviation. As per Bessel's correction, we should consider n-1 separation while calculating standard deviation of sampled data. Category:Statistics",
+ "title": "Bessel's correction"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "461230",
+ "text": "An integrated development environment, or IDE, is a computer program that makes it easier to write other computer programs. They are used by computer programmers to edit source code, and can be easier to use than other text editors for new programmers. They can have compilers so programmers don't have to open other programs to compile the source code. They also often have syntax highlighting. A feature of an IDE is to check the syntax, and libraries can be added to increase functionality. It also may have predictive coding that can finish lines with syntax such as brackets or semicolons and can suggest variables to be used. It also may have debuggers that can step through lines, take breaks and inspect variables. An IDE often comes with an interpreter and a compiler. Certain IDEs can allow multi-language which means that functions can be written in different languages. Category:Software",
+ "title": "Integrated development environment"
+}

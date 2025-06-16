@@ -1,0 +1,5 @@
+{
+ "id": "479126",
+ "text": "Modular programming is a way of organizing a computer program into smaller parts called modules. Each module contains the necessary code to run one specific part of the final computer program. Modular programs are simpler to understand.Rama Reddy; Carol Ziegler, C Programming for Scientists and Engineers with Applications (Sudbury, MA: Jones and Bartlett Publishers, 2010), p. 266 They are also more simple to maintain. Different programmers can each make different modules. Usually, each module is designed to do only one thing.E. Balagurusamy, Programming In Ansi C, 5E (New Delhi: Tata McGraw Hill Education, 2011), p. 266 == References == Category:Computer programming",
+ "title": "Modular programming"
+}

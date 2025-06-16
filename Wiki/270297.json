@@ -1,0 +1,5 @@
+{
+ "id": "270297",
+ "text": "A critical error is an error which the OS cannot reasonably ignore so as to respond again. In Windows, the critical error is often linked with a BSOD.The BSOD. These errors are known also as system failure. However, not all types of OS failure are critical errors. Freezing or deadlock are NOT usually considered critical. Critical errors can lead to error avalanches also.What causes error avalanches? ==Freezeup== ==Deadlock== ==Other failure== ==Related pages== * BSOD * Fatal error ==References== Category:Operating systems",
+ "title": "Critical error"
+}

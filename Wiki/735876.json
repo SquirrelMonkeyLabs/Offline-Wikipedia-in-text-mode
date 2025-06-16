@@ -1,0 +1,5 @@
+{
+ "id": "735876",
+ "text": "VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. Many Operating Systems (OS) work on VirtualBox, For Example, NextStep OS can be installed on Virtual Box. It is important to note that VirtualBox only provides a virtual (hardware) platform for a virtual computer system. Users of VirtualBox will still need to have their own access to installation source media for the Operating Systems and Software they wish to run using VirtualBox. == References == Category:Emulation software Category:Virtualization software",
+ "title": "VirtualBox"
+}

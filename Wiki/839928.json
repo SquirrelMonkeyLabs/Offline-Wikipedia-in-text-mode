@@ -1,0 +1,5 @@
+{
+ "id": "839928",
+ "text": "Godot is a free and open source game engine. It can be used to make 2D games but it can also be used to make 3D games, but not very efficiently compared to other game engines. It is released under the MIT license. It currently uses OpenGL as its only renderer, but Vulkan support is planned to be added soon. == Scripting == The default programming language in Godot is GDScript (which is Godot's own scripting language), but there is also a Mono edition with which C# can be used. C and C++ can also be used with official GDNative bindings, but there are also third-party bindings available. There are third- party bindings for Python, Rust, and Kotlin, and some other programming languages. ==References== Category:Game engines Category:Free software",
+ "title": "Godot"
+}

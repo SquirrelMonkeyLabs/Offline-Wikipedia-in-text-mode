@@ -1,0 +1,5 @@
+{
+ "id": "687631",
+ "text": "In vector calculus, the curl is a vector operator that describes the infinitesimal rotation of a vector field in three-dimensional Euclidean space. At every point in the field, the curl of that point is represented by a vector. Curl is an extension of torque. Given a vector field \\mathbf{F}, the curl of \\mathbf{F} can be written as \\operatorname{curl}\\mathbf{F} or abla \\times \\mathbf{F}, where abla is the gradient and \\times is the cross product operation. == Related pages == * Divergence == References == Category:Calculus Category:Mathematical analysis",
+ "title": "Curl"
+}

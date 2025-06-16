@@ -1,0 +1,5 @@
+{
+ "id": "245242",
+ "text": "In computer science, data validation refers to the process of ensuring that a program operates on clean, correct, and useful data. It involves routines, often called \"validation rules\" or \"check routines\", that verify the correctness, meaningfulness, and security of the data input into the system. This process is automatic and ensures that the entered data is reasonable. Category:Computer science",
+ "title": "Data validation"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "1170843",
+ "text": "Hungarian notation is an old naming system to distinguish types of variables in programs. This was practiced throughout many older programs including Microsoft Office. The notation died off after the widespread implementation of variable types in programming languages. Examples: strHelloWorld = \"Hello, World!\" intPi = 3.14159",
+ "title": "Hungarian notation"
+}

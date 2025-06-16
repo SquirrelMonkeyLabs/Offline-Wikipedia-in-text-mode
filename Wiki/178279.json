@@ -1,0 +1,5 @@
+{
+ "id": "178279",
+ "text": "On the Internet, a header is extra information about a group of data. When someone sends an email, this information might contain when the email was sent, or some data about who sent the email (such as their IP address). You can think of email headers like the address and postage stamp on the outside of an envelope sent through regular mail. Sometimes, this happens with other data (which is not an email) too. Computers often communicate with each other to transmit other kinds of data, like how to display a webpage, or the contents of an image. When this happens, other headers also come along with it. == Examples == * In an email, the following headers are sent: The sender's email address and name, the recipient's email address and name, the time the email was sent, the subject of the email, and the time the email was received by each computer between the sender and the recipient. * When transferring an image, some other headers are sent: The image type, the image size, the image resolution, and the number of colors used. Category:E-mail",
+ "title": "Email headers"
+}

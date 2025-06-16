@@ -1,0 +1,5 @@
+{
+ "id": "789541",
+ "text": "Optimal control theory is a theory from mathematics. It looks at how to find a good (usually optimal) solution in a dynamic system. The system is described by a function, and the problem often is to find values that minimize or maximize this function over an interval. There are several questions that arise: # Are there any solutions, and can they be found? # Are there any necessary conditions? # Are these conditions sufficient? In addition, there may be state restrictions. The state the system is in at a given point in time has to meet certain conditions. Most of the foundations of optimal control theory were done by Lev Pontryagin, in the Soviet Union, and Richard Bellman in the United States. An example of an optimal control problem might be a driver who wants to get from A to B in as little time as possible. There may be more than one route from A to B, and most of the time, the roads have speed limits. Category:Mathematics",
+ "title": "Optimal control"
+}

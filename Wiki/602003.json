@@ -1,0 +1,5 @@
+{
+ "id": "602003",
+ "text": "When a computer program is run, it will use memory, to store certain values. While these values are used, there is a reference to them. When they are no longer used, there are no more references. Clearing the parts of memory which a computer program used, but where there are no more references is called garbage collection. Category:Computer science",
+ "title": "Garbage collection (computer science)"
+}

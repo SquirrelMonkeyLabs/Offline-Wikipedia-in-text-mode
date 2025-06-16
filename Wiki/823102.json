@@ -1,0 +1,5 @@
+{
+ "id": "823102",
+ "text": "Interior point methods are algorithms to solve certain optimization problems. They have been used to find solutions in linear programming and quadratic programming problems. Interior point methods can be used when the solution is a convex set. The problem can then be restated as minimizing or maximizing a linear function over this set of solutions. They are called interior point methods, because they approximate the convex set from the inside. Interior point methods are often used because they have a better runtime behavior than the algorithms commonly used with linear programming. Because the sequence of values will converge towards a barrier, they are also known as barrier methods. Category:Combinatorial optimization",
+ "title": "Interior point method"
+}

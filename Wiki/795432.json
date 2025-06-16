@@ -1,0 +1,5 @@
+{
+ "id": "795432",
+ "text": "In computer science, bidirectional search is a method used for finding the shortest path between two items in a graph. It runs two simultaneous searches starting from the two items. ==Implementation== The example below uses two simultaneous breadth-first searches. void bidirectionalSearch(Item a, Item b) { Queue qA = new Queue(); Queue qB = new Queue(); qA.enqueue(a); qB.enqueue(b); while (!qA.isEmpty() && !qB.isEmpty()) { if (!qA.isEmpty()) { Item v = qA.dequeue(); if (aItem.found) return true; for (Item neighbor : v.neighbors()) { if (!neighbor.found) { neighbor.found = true; qA.enqueue(neighbor); } } } if (!qB.isEmpty()) { Item v = qB.dequeue(); if (v.found) return true; for (Item neighbor : v.neighbors()) { if (!neighbor.found) { neighbor.found = true; qB.enqueue(neighbor); } } } } return false; } ==Related pages== * Breadth-first search ==References== Category:Searching and sorting algorithms",
+ "title": "Bidirectional search"
+}

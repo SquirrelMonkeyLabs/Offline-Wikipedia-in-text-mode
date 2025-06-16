@@ -1,0 +1,5 @@
+{
+ "id": "140932",
+ "text": "In computer science, synchronization refers to one of two different but related concepts: synchronization of processes, and synchronization of data. * Process synchronization refers to the idea that multiple processes are to link or handshake at a certain point, so as to reach an agreement or commit to a certain sequence of action. * Data synchronization refers to the idea of keeping multiple copies of a dataset in coherence (in-constancy) with one another, or to maintain data integrity. Process synchronization is commonly used to implement Data synchronization. == Other websites == * Anatomy of Linux synchronization methods at IBM developerWorks Category:Computer science",
+ "title": "Synchronization (computer science)"
+}

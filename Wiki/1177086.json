@@ -1,0 +1,5 @@
+{
+ "id": "1177086",
+ "text": "SwiftUI is a framework for building user interface for iOS, iPadOS, watchOS, tvOS, visionOS and macOS == More Information == SwiftUI is used in other Apple development frameworks to make apps, like UIKit and AppKit. SwiftUI is in other Apple's technologies, like Xcode and Swift Playgrounds. == History == SwiftUI was announced at Apple's World Wide Developers Conference on June 3, 2019, and it was added in IOS 13 and macOS Catalina. In 2020, Apple added support for maps with the Map view, with a user interface from Apple Maps with MapKit. MapKit allows for satelite images and other things. In 2023 during WWDC 2023, Apple announced the Apple Vision Pro, a mixed reality headset, and support for the device was added to SwiftUI, with new views for AR content such as `RealityView` and `ImmersiveSpace`. == Example == Here is a Hello world program written with SwiftUI.import SwiftUI @main struct AnApp: App { var body: some Scene { WindowGroup { ContentView() } } } struct ContentView: View { var body: some View { Text(\"Hello, World!\") } } ==Refrences== Category:Apple software",
+ "title": "SwiftUI"
+}

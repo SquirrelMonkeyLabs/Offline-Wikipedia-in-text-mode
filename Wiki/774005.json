@@ -1,0 +1,5 @@
+{
+ "id": "774005",
+ "text": "CTAN (Comprehensive TeX Archive Network) is an online collection of open source LaTeX-related files and software (including Beamer).Greenwade, G. D. (1993). The comprehensive TEX archive network (CTAN). TUGboat, 14(3), 342-351. In other words, this network is a LaTeX-only GitHub.CTAN is a repository but it does not depend on Git. ==Location== CTAN is based in the United States, United Kingdom and Germany. They also have several mirror sites (certified clones). Mirror sites are needed in order to avoid access concentration. This effort helps the users to download files without fatal delay. ==Similar projects== CPAN (Comprehensive Perl Archive Network) is the Perl version of CTAN.Tregar, S. (2002). Writing Perl Modules for CPAN. Apress. In the field of statistics, CRAN (Comprehensive R Archive Network) is frequently used.Verzani, J. (2018). Using R for introductory statistics. CRC Press.This is an archive network for R. ==References and remarks== ==Other websites== *CTAN Comprehensive TEX Archive Network *CTAN announcements list *The TeX Catalogue Online Category:Archives Category:Free software",
+ "title": "CTAN"
+}

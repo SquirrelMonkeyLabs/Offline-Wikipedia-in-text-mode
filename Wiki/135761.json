@@ -1,0 +1,5 @@
+{
+ "id": "135761",
+ "text": "An application programming interface (API) is a set of functions, procedures, methods or classes used by computer programs to request services from the operating system, software libraries or any other service providers running on the computer. A computer programmer uses the API to make application programs. An API works by communicating with and exchanging data with other systems, acting as a messenger between the user and the system to retrieve the necessary data the user is requesting from the system. Main types of web APIs: * Open APIs - available to the public; they can be accessed by any external users. * Partner APIs - available to strategic business partners; they are exposed to a public API developer portal. * Internal APIs - available to a company's internal development teams; they are exposed to a private API developer portal. * Composite APIs - are a sequence of tasks bundled into a single API call. Types of API include web services API like the Twitter API, which allows programs to use the API to receive updates on tweets. ==References== Category:Software",
+ "title": "Application programming interface"
+}

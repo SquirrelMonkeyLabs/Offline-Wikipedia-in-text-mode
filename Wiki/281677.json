@@ -1,0 +1,5 @@
+{
+ "id": "281677",
+ "text": "The Precision Approach Path Indicator (PAPI) is a visual system next to the touch-point on a runway. The purpose of the system is to lead a plane in correct approach. The PAPI creates ray of light which gives pilot information about his actual height. Principle: *If plane is over correct approach line, pilot will see 3 white lights and 1 red. If he is higher, he will see all lights in white. *If plane keeps correct approach, pilot will see 2 white lights and 2 red. The right line is in the angle 3 degrees from axis of airport. *If plane is under correct approach line, pilot will see 3 red lights and 1 white. If he is lower, he will see all lights in red. The rules about the parameters are written in standard ANNEX 14 ICAO. The brochure contains more specific information about intensity of ray, location where we can get device etc. File:PAPI_M39.jpg|The PAPI device File:PAPI german.svg|Principle of PAPI indication Category:Aviation infrastructure",
+ "title": "Precision Approach Path Indicator"
+}

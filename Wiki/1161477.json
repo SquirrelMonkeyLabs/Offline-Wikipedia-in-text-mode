@@ -1,0 +1,5 @@
+{
+ "id": "1161477",
+ "text": "Universal Time (UT or UT1) is a way to tell time based on how the Earth turns. At first, it was measured by the Sun at 0° longitude, but measuring the Sun exactly is hard. So, UT1 is now found using the Earth's position in space, called the Earth Rotation Angle (ERA). ERA takes the place of Greenwich Mean Sidereal Time. UT1 is the same everywhere on Earth. UT1 must follow this rule: \\text{ERA} = 2\\pi \\left( 0.7790572732640 + 1.00273781191135448 \\times Tu \\right) \\text{ radians}; where T_u = (\\text{Julian UT1 date} - 2451545.0) == References == === Citations === Category:Astronomy Category:Time",
+ "title": "Universal Time"
+}

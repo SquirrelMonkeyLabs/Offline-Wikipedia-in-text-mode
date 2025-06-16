@@ -1,0 +1,5 @@
+{
+ "id": "836782",
+ "text": "A boot loader is a program on your computer. It starts other programs, namely operating systems. Boot loaders run booting instructions so your operating system works and appears. This makes using your computer much easier than it would be otherwise. Boot loaders work on all, or almost all, systems, from MBR (Master Boot Record) to UEFI (Unified Extensible Firmware Interface). If a boot loader does not work on your system, you may need to install a different one, use a different configuration, or fix the one it came with. One of the most common boot loaders is the Windows Boot Manager, also known as bcdboot. It is the only official boot loader for Windows. It also comes preinstalled. Most of the time, there is no real reason to alter it. If you do alter it without full understanding, it is very hard to fix . A common boot loader on Linux is the GRand Unified Bootloader Two, commonly known as GRUB2 or just GRUB. Other boot loaders include systemd-boot, syslinux, and LILO. Category:Software",
+ "title": "Boot loader"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "871157",
+ "text": "A field extension K is a field containing a given field k as a subfield. The notation K/k means that K is an extension of the field k. K is sometimes called an overfield of the field k. == Algebraic over k == An element of the field K is called algebraic over k if it satisfies some algebraic equation with coefficients in k, and transcendental otherwise. == References == Category:Algebraic number theory",
+ "title": "Field extension"
+}

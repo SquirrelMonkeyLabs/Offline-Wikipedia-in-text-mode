@@ -1,0 +1,5 @@
+{
+ "id": "996005",
+ "text": "Hyperthreading is a technology that makes one processor act like multiple processors. It makes virtual cores that share the job of a single core. This allows the computer to do more tasks at the same time. == References == Category:Computer science",
+ "title": "Hyper-threading"
+}

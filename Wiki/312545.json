@@ -1,0 +1,5 @@
+{
+ "id": "312545",
+ "text": "A hyperoperation is a generalization of addition, multiplication, exponentiation, tetration, etc. They are often written using Knuth's up-arrow notation. Natural number level hyperoperations can be defined recursively as a piecewise function: : H_n(a, b) = \\begin{cases} b + 1 & \\text{if } n = 0 \\\\\\ a & \\text{if } n = 1, b = 0 \\\\\\ 0 & \\text{if } n = 2, b = 0 \\\\\\ 1 & \\text{if } n \\ge 3, b = 0 \\\\\\ H_{n-1}(a, H_n(a, b - 1)) & \\text{otherwise} \\end{cases}\\,\\\\! Category:Hyperoperations This is used to express really large numbers while being able to write them.",
+ "title": "Hyperoperation"
+}

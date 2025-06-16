@@ -1,0 +1,5 @@
+{
+ "id": "833864",
+ "text": "A partition table maps out partitions onto a storage device. The two biggest examples are MBR and GPT. Others include Apple Partition Map (APM), which is used in Apple computers, and BSD disklabel. MBR, or Master Boot Record, is a section at the very beginning of a storage device that uses MBR. It contains a partition table, along with storage for a bootloader so the computer can boot. It can only hold up to 2 tebibytes of data, and can only have up two four partitions. GPT, or GUID Partition table, is a partition table that was developed as part of the Unified Extensible Firmware Interface (UEFI) standard. It can have up to 128 partitions. Depending on the size of the disk sectors, it can hold a large amount of data. If your sectors are 512 bytes, like MBR, it can hold 8 zebibytes of data. Category:Software Category:Systems",
+ "title": "Partition table"
+}

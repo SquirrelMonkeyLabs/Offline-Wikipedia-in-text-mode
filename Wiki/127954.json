@@ -1,0 +1,5 @@
+{
+ "id": "127954",
+ "text": "Eye of GNOME is the official image viewer for the GNOME desktop environment. Unlike some other image viewers, Eye of GNOME will only view images. It does, however, provide basic effects for improved viewing, such as zooming, fullscreen, rotation, and transparent image background control. == File formats == Eye of GNOME supports the following file formats: * ANI - Animation * BMP - Windows Bitmap * Graphics Interchange Format (GIF) * ICO - Windows Icon * JPEG - Joint Photographic Experts Group * PCX - PC Paintbrush * Portable Network Graphics (PNG) * PNM - Portable Anymap from the PPM Toolkit * RAS - Sun Raster * Scalable Vector Graphics (SVG) * TGA - Targa * Tagged Image File Format (TIFF) * Wireless Application Protocol Bitmap Format (WBMP) * X BitMap (XBM) * X PixMap (XPM) Category:Linux Category:GNOME",
+ "title": "Eye of GNOME"
+}

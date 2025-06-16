@@ -1,0 +1,5 @@
+{
+ "id": "1178742",
+ "text": "In mathematics, the symmetric difference of two sets is the set of items which are in either of the sets, but not in both, which is their intersection. For example, given the sets \\\\{1,2,3\\\\} and \\\\{3,4,5\\\\}, the symmetric difference will be \\\\{1,2,4,5\\\\} because 3 occurs in both. The symmetric difference may also be called the disjunctive union and set sum. Mathematically, this is written: A \\Delta B = (A \\cup B) - (A \\cap B) Which in plain English reads, \"the symmetric difference of set A and set B is equal to items that are in set A and items that are in set B, minus items that are in both A and B.\" If the two sets are equal, that is, A = B, then their symmetric difference is the empty set, \\varnothing. For measured sets, meaning their size or \"how big\" they are is known, the symmetric difference between two sets can be considered a measure of how \"far apart\" they are. Category:Mathematical analysis Category:Set theory",
+ "title": "Symmetric difference"
+}

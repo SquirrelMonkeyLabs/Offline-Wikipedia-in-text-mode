@@ -1,0 +1,5 @@
+{
+ "id": "389354",
+ "text": "The clock rate is the frequency at which a CPU is running. It is the rate in cycles per second (measured in hertz) or the frequency of the clock in any synchronous circuit. In general, many people think a higher clock speed means a faster processor, but other factors are also come into to picture. You can not compare its performance based on only clock speed. Depend upon the architecture design of the Processor, In some CPUs, a single instruction may be performed in a single clock cycle. For Example, An Intel Core i5 1st generation has a clock speed of 3.2 GHz and the latest Intel Core i5 10th generation has a clock speed of 1.6 GHz. Note: it is important to compare processors from the same brand and generation. ==References== Category:Computer hardware Category:Time",
+ "title": "Clock rate"
+}

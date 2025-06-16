@@ -1,0 +1,5 @@
+{
+ "id": "251822",
+ "text": "A JavaScript engine is a program that runs JavaScript code. Web Browsers often have a JavaScript engine. It can also be used outside of web browsers, such as running services in Node.js or apps in the electron framework. == Design == JavaScript was originally created as a scripting language to allow web pages to have changing, or dynamic, elements. Early Javascript engines were created as interpreters, programs that simply read the script and execute the instructions without analyzing it any more. As JavaScript started being used more an more as a general-purpose language, execution speed, or how quickly the code is run, became more important for JavaScript engines. In response, many engines, such as V8 (Used in Chrome and Chromium) and SpiderMonkey (used in Firefox), started using Just-In-Time Compilation. In this method, it starts by compiling all of the code to optimized machine code, which is typically faster than interpretation, then running the result. == References == Category:JavaScript",
+ "title": "JavaScript engine"
+}

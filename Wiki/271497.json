@@ -1,0 +1,5 @@
+{
+ "id": "271497",
+ "text": "A variable-width encoding is a type of character encoding scheme in which codes of different lengths are used to encode a character set for representation in a computer. All of the common Unicode encodings are variable-width encodings, e.g. UTF-8 and UTF-16. It's a common mistake to think that UTF-16 isn't, so that's not a good reason to prefer UTF-16 (only its obsolete predecessor UCS-2 is fixed-width). ASCII is a fixed-width encoding. So are many other legacy encodings, but no modern text encoding. Note, ASCII is legal UTF-8 text, but it's only fixed-width in that sense only when that subset is used. As soon as text uses even one letter outside of the ASCII subset, or even if software expects UTF-8 text, and can't rely on only the ASCII subset used, then the (UTF-8) encoding used is variable-length. Category:Computer science Category:Encodings",
+ "title": "Variable-width encoding"
+}

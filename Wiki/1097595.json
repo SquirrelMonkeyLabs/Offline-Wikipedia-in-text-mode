@@ -1,0 +1,5 @@
+{
+ "id": "1097595",
+ "text": "A quadrature mirror filter is a filter used in digital signal processing. It splits the input signal into two smaller signals. These signals are symmetric, they are \"mirrored\" around half of the frequency of the input signal. When they are re-combined this again gives the original signal. Quadrature mirror filters were first described in 1976. In audio processing a filter bank is often used, with a high-pass filter and a low-pass filter. Category:Digital signal processing",
+ "title": "Quadrature mirror filter"
+}

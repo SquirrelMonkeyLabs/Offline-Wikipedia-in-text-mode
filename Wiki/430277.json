@@ -1,0 +1,5 @@
+{
+ "id": "430277",
+ "text": "The Simplex algorithm is an algorithm which is used to solve problems of Linear programming or linear optimization. It was first used by George Dantzig in 1947, but other people like Kantorovich laid the foundations in 1939. The algorithm runs in two steps: #First a solution to the problem is found, or the certainty that no solution exists. #The solution found earlier is improved, if this is possible. Step 2 is run multiple times: Each time, a given solution is improved, until this is no longer possible. Category:Combinatorial optimization",
+ "title": "Simplex algorithm"
+}

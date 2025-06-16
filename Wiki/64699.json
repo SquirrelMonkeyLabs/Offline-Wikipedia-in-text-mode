@@ -1,0 +1,5 @@
+{
+ "id": "64699",
+ "text": "Infix notation is the commonly used arithmetic and logical formula notation. The operators are written between the operands they act on (e.g. 2 + 2). It is not as simple to parse by computer as prefix notation ( e.g. + 2 2 ) or postfix notation ( e.g. 2 2 + ), but many programming languages use it due to its familiarity. In infix notation, parentheses are necessary to show the order of the operations. In prefix or postfix notation no parenthesis are needed. When there are no parentheses, there are rules that show the order of operations. The rules are explained in the order of operations article. ==Related pages== *postfix notation, also called Reverse Polish notation *prefix notation, also called Polish notation *Shunting yard algorithm, used to convert infix notation to postfix notation or to a tree ==Other websites== *RPN or DAL? A brief analysis of Reverse Polish Notation against Direct Algebraic Logic Category:Mathematical notation",
+ "title": "Infix notation"
+}

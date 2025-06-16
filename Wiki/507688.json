@@ -1,0 +1,5 @@
+{
+ "id": "507688",
+ "text": "First normal form (1NF) is a property of a relational model, specifically tables. Within a table that is in first normal form, each row has columns that are each represent one thing and contain one element. Additionally, there are no repeated columns in the table. First normal form is a minimum criterion of database normalization. == References == Category:Database modeling",
+ "title": "First normal form"
+}

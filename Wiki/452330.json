@@ -1,0 +1,5 @@
+{
+ "id": "452330",
+ "text": "Probability theory talks about events which occur with a given (possibly unknown) probability. Sometimes, when it talks about several events occurring, it assumes that if one event occurs, this does not change the probability of the other events occurring. More specifically, two events A and B are called independent (written as A \\,\\bot\\, B), if the probability of A occurring is the same whether B is assumed to have occurred or not. Alternatively, A and B are independent precisely when the probability of them occurring together is equal to the product of their individual probabilities. Abraham de Moivre wrote: \"Two events are independent, when they have no connexion one with the other, and that the happening of one neither forwards nor obstructs the happening of the other.\" == Related pages == * Conditional probability ==References== Category:Statistics",
+ "title": "Independence (statistics)"
+}

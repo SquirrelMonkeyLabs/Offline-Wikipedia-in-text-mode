@@ -1,0 +1,5 @@
+{
+ "id": "903535",
+ "text": "Search engine indexing is the collecting, parsing, and storing of data to facilitate fast and accurate information retrieval. Index design incorporates many concepts from linguistics, cognitive psychology, mathematics, informatics, and computer science. An alternate name for the process, in the context of search engines designed to find web pages on the Internet, is web indexing. ==Index design factors== Major factors in designing a search engine's architecture include: * Merge factors * Storage techniques * Index size * Lookup speed * Maintenance * Fault tolerance Category:Search engines",
+ "title": "Search engine indexing"
+}

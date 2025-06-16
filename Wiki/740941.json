@@ -1,0 +1,5 @@
+{
+ "id": "740941",
+ "text": "The `System.map` file is a symbol table used by the Linux kernel. It shows where each symbol is in memory. This information is very useful when debugging the kernel. == Related pages == * Kernel panic * Kernel oops == References == Category:Computer file formats Category:Linux",
+ "title": "System.map"
+}

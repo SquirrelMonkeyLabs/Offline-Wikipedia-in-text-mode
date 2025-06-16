@@ -1,0 +1,5 @@
+{
+ "id": "984501",
+ "text": "The Real-time Transport Protocol (RTP) is a network protocol used to send audio and video over IP networks. RTP is used in communication and entertainment systems that use streaming media, such as telephony, video teleconference applications, television services and web-based push-to-talk features. RTP normally runs over User Datagram Protocol (UDP). It is used with the RTP Control Protocol (RTCP). While RTP carries the audio and video,, RTCP monitors transmission statistics and quality of service (QoS). RTP is one of the basic technologies in the use of Voice over IP. It is often used with a signaling protocol such as the Session Initiation Protocol (SIP) which creates connections across the network. RTP was developed by the Audio-Video Transport Working Group of the Internet Engineering Task Force (IETF). It was first published in 1996 as . It was replaced by in 2003. ==References== Category:internet protocols",
+ "title": "Real-time Transport Protocol"
+}

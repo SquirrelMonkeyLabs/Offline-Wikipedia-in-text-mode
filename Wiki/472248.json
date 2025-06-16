@@ -1,0 +1,5 @@
+{
+ "id": "472248",
+ "text": "In computing, paging is the idea, to have a table that maps virtual addresses of small pieces of memory (called pages) to real adresses of pages. Some of the addresses point to locations in memory, other point to locations on disk. The page is loaded into memory, when it is accessed. Operating systems have done this for a long time. Nowadays, computers are also used for virtualization, that a guest operating system is run on another operating system. Such virtualized operating systems are not aware that they run in a virtual environment. Software on the host operating system needs to simulate most of the hardware. Nested Paging, or Second Level Address Translation is the name for a number of technologies that allow the processor to do some of the management of these virtual page tables in hardware. AMD first introduced nested paging. Intel later supported it as well. Some of their processors support the technology. == Processors == AMD RVI: AMD 10h and later Intel EPT: Intel Nehalem and later Category:Computer science",
+ "title": "Nested Paging"
+}

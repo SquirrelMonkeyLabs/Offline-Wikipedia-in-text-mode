@@ -1,0 +1,5 @@
+{
+ "id": "927699",
+ "text": "The traffic light problems are a type of mathematical problems involving several distant traffic lights out of phase and a car moving at a constant speed. == Example == Imagine a 1-meter road, with a traffic light in the background that changes from red to green every 10 seconds. If the car travels at 1 meter per second, we can guarantee that unless it starts in second 9 of being green, it will always have to wait less than 10 seconds. == References == Category:Traffic signs",
+ "title": "Traffic light problem"
+}

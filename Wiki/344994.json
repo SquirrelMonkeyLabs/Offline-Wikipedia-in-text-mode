@@ -1,0 +1,5 @@
+{
+ "id": "344994",
+ "text": "Euclid's lemma, also called Euclid's division lemma or Euclid's first theorem, is an important lemma. It was made by the mathematician Euclid. == Formula ( a = bq +r ) == He basically proposed that for any two integers (let us call them 'a' and 'b') there exists 2 unique integers (Let us call them ' q ' and ' r ') that satisfies the equation, a = qb + r, where r<a. In the equation, the variable 'b' is dividing the variable 'a'. This makes 'b' the divisor and 'a' as the dividend 'q' is the quotient and 'r' is the remainder The equation thus means that a dividend is equal to its divisor multiplied with its quotient and added with its remainder. Category:Number theory",
+ "title": "Euclid's lemma"
+}

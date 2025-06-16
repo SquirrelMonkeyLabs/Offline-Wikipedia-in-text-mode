@@ -1,0 +1,5 @@
+{
+ "id": "483414",
+ "text": "AIDS is a computer virus that infects .COM and .EXE files. In MS-DOS, the .COM and .EXE files run programs including the operating system. When a computer is infected with this virus, it loads the virus into the computer memory. There, the AIDS virus may infect another .COM or .EXE file each time it is run. AIDS writes on the first 13,952 bytes of an infected executable file. These corrupted files have to be deleted and replaced by non-corrupted backups to remove the virus. This virus is also known as the \"Hahaha virus\" in Europe. IBM calls it the \"Taunt virus\". When an infected computer starts up, it displays a message, with AIDS covering about half of the screen. The system is then halted. It is impossible to recover the original information of the file on the rewritten part. == References == Category:Malware",
+ "title": "AIDS (MS-DOS)"
+}

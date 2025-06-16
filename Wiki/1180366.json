@@ -1,0 +1,5 @@
+{
+ "id": "1180366",
+ "text": "A formal charge (F.C. or ) is a type of charge in chemistry. This charge is a number that is given to an atom in a molecule. This charge assumes that the electrons are equally shared in chemical bonds. This would mean that each atom would have an equal share of each electron. In chemistry, the atom in a bond with a bigger electronegativity will have a bigger share of electrons. Formal charge ignores this, however. Formal charge can be found by taking the number of valence electrons the atom usually has, and subtracting a number that is given to that atom in a Lewis structure.q^{*} = V - L - \\frac{B}{2} V is the number of valence electrons the atom usually has (in its ground state). is the number of valence electrons part of the atom that are not part of a bond. These are also called lone pairs. is the number of electrons that are part of a bond with the atom. The best Lewis structure(or main resonance structure) is the molecule with a formal charge of 0 on all of its atoms. ==Related pages== *Oxidation state *Valence (chemistry) *Coordination number ==References== Category:Chemical bonding",
+ "title": "Formal charge"
+}

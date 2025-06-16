@@ -1,0 +1,5 @@
+{
+ "id": "138743",
+ "text": "In algebra, the discriminant, sometimes represented by the symbol \\Delta, is an algebraic expression used to determine the number of roots a polynomial have. For example, the discriminant of the quadratic polynomial :ax^2+bx+c\\, is \\,b^2-4ac. If the discriminant is larger than zero, then the polynomial has two (distinct) real numbers as roots. If the discriminant is equal to zero, then the polynomial has two repeating real numbers as roots (i.e., exactly one real root). If the discriminant is smaller than zero, then the polynomial has two (purely) complex numbers as roots (i.e., zero real root). Apart for quadratic polynomials, discriminants can be defined for cubic polynomials, general conic equations, and other mathematical entities such as differential equations and quadratic forms as well. == Related pages == * Equation solving * Quadratic equation == References == Category:Algebra Category:Number theory Category:Algebraic geometry",
+ "title": "Discriminant"
+}

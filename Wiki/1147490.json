@@ -1,0 +1,5 @@
+{
+ "id": "1147490",
+ "text": "Ruby on Rails, often simply called Rails, is a powerful and popular web application framework written in the Ruby programming language. It follows the Model-View-Controller (MVC) architectural pattern, which separates an application's logic into distinct layers, making development more structured and maintainable. Rails is designed to streamline the process of building web applications by providing a comprehensive set of tools, libraries, and conventions that automate many common development tasks. This framework allows developers to quickly create robust, scalable websites and applications by offering features such as database integration, routing, templating, and form handling, all of which would typically require custom development. Rails emphasises \"convention over configuration\" and \"don't repeat yourself\" (DRY) principles, which help to reduce redundant code, enforce best practices, and speed up the overall development process. Category:Computer programming",
+ "title": "Ruby on Rails"
+}

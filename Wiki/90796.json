@@ -1,0 +1,5 @@
+{
+ "id": "90796",
+ "text": "The speed of sound is per hour or per second in dry air in room temperature. It travels at 1500 meters per second through water. Sound moves faster through liquids and solids than air, since they have a larger specific modulus, meaning they are stiffer. Sound cannot travel through a vacuum, which is a space without any air or matter. The speed of sound is affected by temperature. It travels slower at low temperatures, for example in the stratosphere. You can calculate the speed of sound like this: a = \\sqrt{\\gamma*R*T} Where: * \\gamma is the ratio of specific heats (1.4 for air) * R is the gas constant (287 N*m/kg*K for air) * T is temperature (in Kelvins) The speed of sound is also known as Mach 1. Things that go faster are supersonic, and things that go five times that speed (Mach 5) are hypersonic. == Other websites == * Calculate the speed of sound in air and the temperature * Speed of sound - temperature matters, not air pressure Category:Sound Category:Wave physics",
+ "title": "Speed of sound"
+}

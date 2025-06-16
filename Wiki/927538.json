@@ -1,0 +1,5 @@
+{
+ "id": "927538",
+ "text": "In mathematics, -adic numbers come from an alternate way of defining the distance between two rational numbers. -adic numbers are based in modular arithmetic, which is a method of counting that loops back on itself, like a clock. 2018 Fields Medalist Peter Scholze is an expert in this area. == History == The -adic numbers were invented at the beginning of the twentieth century by the German mathematician Kurt Hensel. The aim was to make the methods of power series expansions, which play such a dominant role in the theory of functions, available to the theory of numbers as well. == Application == The -adic absolute value gives us a new way to measure the distance between two numbers. The -adic distance between two numbers x and y is the -adic absolute value of the number x-y. == References == Category:Prime numbers Category:Number theory",
+ "title": "P-adic number"
+}

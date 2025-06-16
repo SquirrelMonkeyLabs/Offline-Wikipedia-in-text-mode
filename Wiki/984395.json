@@ -1,0 +1,5 @@
+{
+ "id": "984395",
+ "text": "The Domain Name System Security Extensions is a set of standards that add security features to the Domain Name System. Usually, it is called DNSSec. The domain name system stores information about internet domains. With DNSSec, it is possible to verify that the data provided is really the data that holder of the domain submitted. DNSSec was developed to fight against DNS hijacking. It uses digital signatures to protect the data. There's no authentication of server or client. DNSSec does not use encryption, as this is not needed. Category:Domain Name System",
+ "title": "Domain Name System Security Extensions"
+}

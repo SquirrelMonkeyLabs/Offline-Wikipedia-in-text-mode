@@ -1,0 +1,5 @@
+{
+ "id": "763110",
+ "text": "Joseph Fourier said that it is possible to use sine waves to approximate another function. This is a series in the mathematical sense. This theory can be generalized to the Fourier transform. Mathematical analysis of these functions is called Fourier analysis. In the 18th century, mathematicians such as Euler, Lagrange and Bernoulli already used sinusoids to approximate and model other functions. When Fourier published a work on heat, in 1822, he said that such approximations exist for any such function (that is continuous in the interval). At first, people didn't believe him, and it took almost ten years for a proof (of part of the problem) to appear. Today, fourier series are used a lot in digital signal processing. Category:Sequences and series Category:Harmonic analysis",
+ "title": "Fourier series"
+}

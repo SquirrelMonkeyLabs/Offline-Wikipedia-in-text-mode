@@ -1,0 +1,5 @@
+{
+ "id": "820723",
+ "text": "Java ARchive (JAR) is a file format created by the Oracle Corporation that is based on the ZIP file format. The primary motivation for the creation of JAR was to allow Java applets and their files to download using a single HTTP connection instead of a new connection for each piece. This allows webpages to load faster and the applet can begin functioning. == Usage == JAR files use the file extension .jar and the MIME media type `application/java-archive`. JAR files are packaged with the ZIP file format, and they are used for data compression, archiving, decompression, and archive unpacking. == References == Category:Computer file formats",
+ "title": "JAR (file format)"
+}

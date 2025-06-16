@@ -1,0 +1,5 @@
+{
+ "id": "559031",
+ "text": "A catenary is a type of curve. An ideal chain hanging between two supports and acted on by a uniform gravitational force makes the shape of a catenary. (An ideal chain is one that can bend perfectly, cannot be stretched and has the same density throughout.) The supports can be at different heights and the shape will still be a catenary. A catenary looks a bit like a parabola, but they are different. The equation for a catenary in Cartesian coordinates is : y = a \\cosh \\left(\\frac{x}{a}\\right) where a is a parameter that determines the shape of the catenary and \\cosh is the hyperbolic cosine function, which is defined as : \\cosh x = \\frac {e^x + e^{-x}} {2}. Hence, we can also write the catenary equation as : y = \\frac{a\\left(e^\\frac{x}{a} + e^{-\\frac{x}{a}}\\right)}{2}. The word \"catenary\" comes from the Latin word catena, which means \"chain\". A catenary is also called called an alysoid and a chainette. == References == Category:Geometry",
+ "title": "Catenary"
+}

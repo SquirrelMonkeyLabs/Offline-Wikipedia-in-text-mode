@@ -1,0 +1,5 @@
+{
+ "id": "993201",
+ "text": "In mathematics, logic, and related disciplines, an effective method or effective procedure is a way of solving a problem. It is defined as follws: * It has a finite number of exact instructions * When its used for a problem of its given class: ** It will finish after a finite number of steps ** It will always produce the correct result * It can be also be done by a human, with a piece of paper, and a writing aid (like a pencil) * Anyone following the steps, will be successful. Sometimes, people ask that the method odes not return a result, if it is aplied ot a problem which is not of its class. In the case of computer science, an effective method is called algorithm. == Related pages == * Halting problem * Decidability theory Category:Mathematics",
+ "title": "Effective method"
+}

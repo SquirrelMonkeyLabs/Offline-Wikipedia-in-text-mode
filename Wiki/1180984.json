@@ -1,0 +1,5 @@
+{
+ "id": "1180984",
+ "text": "A Java applet is a name for a small app written in Java. They can be added into HTML pages by using the \"applet\" tag. Applets were included in Java Development Kits as an example for developers to learn from. Applets were depreciated in Java 9 due to a lack of browsers supporting the technology. == References == Category:Programming languages Category:Software",
+ "title": "Java applet"
+}

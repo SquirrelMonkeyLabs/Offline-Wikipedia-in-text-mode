@@ -1,0 +1,5 @@
+{
+ "id": "171660",
+ "text": "Serial communication is a term used to describe systems used for telecommunications, as well as certain technologies used for computing. When using serial communication, only one bit is transferred at a time, for example over a communication channel or computer bus. This is different to parallel communication, where several bits are sent at the same time. Many computer networks, as well as many lines where data is transferred over a long distance use serial communication. ==Examples for serial communication== *Morse code signalling *RS-232, a low-speed serial port used on some PCs; RS-423 and RS-485 are variations of this *USB is a standard to connect peripherals to computers *Ethernet, one of the most widely used standards for Computer Networks *FireWire, another standard like USB *Fibre Channel, high-speed, for connecting computers to storage, like harddisks *Serial Attached SCSI *Serial ATA *Serial port Category:Telecommunications Category:Computer buses",
+ "title": "Serial communication"
+}

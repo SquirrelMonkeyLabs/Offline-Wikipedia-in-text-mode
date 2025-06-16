@@ -1,0 +1,5 @@
+{
+ "id": "137396",
+ "text": "The Rijndael key schedule (Advanced Encryption Standard) uses a key schedule to expand a short key into a number of separate round keys. The three AES variants have different numbers of rounds. Each round has 16 bits in it. Each variant requires a separate 128-bit round key for each round plus one more. The key schedule produces the needed round keys from the initial key. This initial key has only one 8-bit-(1-byte) long array (string of data arranged in a certain order). One step rotates (shifts) the 32 bits (4 bytes) of a certain word by a fixed amount. For example, rotating by 8 bits (1 byte) shifts each byte one place to the left, and the starting byte goes at the end. Another step arranges each byte in a 16-byte rectangular array and shifts it according to its size. For example, the first byte is unchanged, the second shifted 1 byte to the left, the third 2 bytes to the left and the fourth 3 bytes to the left. It continues until the end of the array. ==References== Category:Cryptography",
+ "title": "Rijndael key schedule"
+}

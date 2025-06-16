@@ -1,0 +1,5 @@
+{
+ "id": "140646",
+ "text": "Minimal Instruction Set Computer (MISC) is a processor architecture with a very small number of basic instruction operations and corresponding opcodes. As a result of this is a smaller instruction set, a smaller and faster instruction set decode unit, and faster operation of individual instructions. The disadvantage is that smaller instruction set always have more sequential dependencies, reducing instruction-level parallelism. ==Related pages== * Complex instruction set computer (CISC) * Reduced instruction set computer (RISC) * Very long instruction word (VLIW) ==Other websites== *Forth MISC chip designs *seaForth-24 - the latest multi-core MISC design from Chuck Moore Category:Computer architecture",
+ "title": "Minimal instruction set computer"
+}

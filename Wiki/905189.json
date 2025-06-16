@@ -1,0 +1,5 @@
+{
+ "id": "905189",
+ "text": "In physics, chemistry and thermodynamics, equations of state are used to describe the state a dynamical system is in. . Equations of state are commonly used to describe the state of gases and fluids. In the real world, equations of state are approximations. They can be quite complex to write down, and usually, they are solved using numerical methods. ==Variables== There are certain variables such as pressure, volume, or temperature, that can be used to describe such a system. So in its simplest form, an equation of state is a function, that takes these dependent variables as input, the state can then be as simple as saying that in its current state, the function has the numerical value zero: f(p, V, T) = 0 where p ist the pressure, V is the volume, and T is the temperature. ==Ideal gas== The simplest of these describes an ideal gas, it is the ideal gas law. This law can also be used to describe the state of real gases, in certain conditions (such as with a low pressure, and high temperature). Category:Equations of physics Category:Equations",
+ "title": "Equation of state"
+}

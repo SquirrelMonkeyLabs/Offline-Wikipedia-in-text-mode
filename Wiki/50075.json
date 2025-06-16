@@ -1,0 +1,5 @@
+{
+ "id": "50075",
+ "text": "A primality test is a method (or algorithm) to find out if a certain number is a prime number. Cryptography uses prime numbers, and needs to test if a certain number is prime. The official proof of a prime is through its primality certificate. ==Simple methods== *Sieve of Eratosthenes: Determine if there is a number (between 2 and n, the number to test) that divides n, without a rest * Wilson's theorem (inefficient): (p-1)! evaluates to -1 mod p where p is the candidate prime number ==Better methods== *Fermat's primality test *Miller-Rabin primality test Category:Prime numbers .",
+ "title": "Primality test"
+}

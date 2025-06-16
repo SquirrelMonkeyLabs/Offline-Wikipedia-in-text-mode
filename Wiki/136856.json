@@ -1,0 +1,5 @@
+{
+ "id": "136856",
+ "text": "In cryptography, DES-X (or DESX) is an alternative to the DES (Data Encryption Standard) block cipher designed to increase the complexity of a brute force attack using a technique called key whitening. As DES suffers from brute force attack DES-X was a trial to overcome such drawbacks. ==Related pages== * Advanced Encryption Standard (AES) * Data Encryption Standard (DES) * Triple DES (TDES) == References == Category:Cryptography",
+ "title": "DES-X"
+}
